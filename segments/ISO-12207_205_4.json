@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.4",
+  "texto": "software system installation or transition. NOTE For each transition, identify and define any needed changes in infrastructure or enabling systems. A site survey can be performed to identify needed changes in the physical environment to install or use the software system, such as changes to maintain the physical and information security of the system. 3) Identify information needs and arrange for user documentation and training of operators, users, and other stakeholders necessary for system utilization and support. NOTE Transition includes migration or activation of user access to the software system. User roles are established and user accounts and access controls are implemented. 4)"
+}

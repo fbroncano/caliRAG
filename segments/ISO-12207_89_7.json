@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.7",
+  "texto": "IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) Figure 1 — Software system and software system element relationship The relationship between the software system and its complete set of system elements can typically be represented showing relationships between the elements – often depicted as a hierarchy for the simplest of systems‐of‐interest. Decomposition is one approach to some software activities. Other approaches include the object‐oriented approach, where the system elements are laid out in a flat (non‐hierarchical) description such as in a network diagram. For more complex software systems‐of‐interest, a prospective system element may need to be considered as a system"
+}

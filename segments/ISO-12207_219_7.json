@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.7",
+  "texto": "requirements and interfaces for the enabling systems. The selection of enabling systems for maintenance often reflects the need to re‐use existing or equivalent design, development, and configuration management infrastructure as during the initial system implementation. 6) Obtain or acquire access to the enabling systems or services to be used. NOTE The Validation process is used to objectively confirm that the maintenance enabling system achieves its intended use for its enabling functions. b) Perform maintenance. This activity consists of the following tasks: 1) Review stakeholder requirements, complaints, events, incident and problem reports to identify corrective, adaptive, perfective"
+}

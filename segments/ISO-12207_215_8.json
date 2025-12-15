@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.8",
+  "texto": "such as possible breaches of software and data confidentiality and integrity; iii) Operating the software system in a safe manner and compliant with legislated guidelines e.g., those concerning occupational safety and environmental protection; and iv) Recording when software system or service performance is not within acceptable parameters. NOTE This includes anomalies due to the operation strategy, the operation enabling systems, execution of the operation, or incorrect software system definition. The system sometimes exhibits unacceptable performance when system elements implemented in hardware have degraded or exceeded their useful life or the system’s operational environment affects the"
+}

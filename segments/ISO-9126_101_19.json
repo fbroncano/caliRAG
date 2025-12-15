@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.19",
+  "texto": "imprecise indirect measures of the attributes. B.12 indirect measure a measure of an attribute that is derived from measures of one or more other attributes NOTE An external measure of an attribute of a computing system (such as the response time to user input) is an indirect measure of attributes of the software as the measure will be influenced by attributes of the computing environment as well as attributes of the software. B.13 intermediate software product a product of the software development process that is used as input to another stage of the software development process NOTE In some cases an intermediate product may also be an end product. B.14 internal measure a measure of the"
+}

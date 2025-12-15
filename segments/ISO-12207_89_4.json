@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.4",
+  "texto": "hosting the software system and handling communications with other systems can also be viewed as enabling systems or external systems in the operating environment. The perception and definition of a particular software system, its architecture, and its elements depend on a stakeholder’s interests and responsibilities. One stakeholder’s system‐of‐interest can be viewed as a system element in another stakeholder’s system‐of‐interest. Furthermore, a system‐of‐interest can be viewed as being part of the environment for another stakeholder’s system‐of‐interest. The following are key points regarding the characteristics of systems‐of‐interest: a) defined boundaries encapsulate meaningful needs and"
+}

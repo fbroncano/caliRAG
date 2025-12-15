@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.2",
+  "texto": "3 The validation strategy can be documented in a plan, e.g., an acceptance plan, or a project’s SDP or SEMP. i) Identify the validation scope, including the characteristics of the software system, element, or artifact to be validated, and the expected results of validation. NOTE Software system validation is typically performed both in distinct controlled environments that do not interfere with operational software or ongoing development, as well as in operational environments, typically before full operational use (e.g., beta testing or acceptance testing for a specified duration with agreed criteria). Scope includes stakeholder requirements, including related views of the system (e.g.,"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "221.1",
+  "texto": "7.3.4 Examples of applications Hypothesis testing has general application when an assertion needs to be made about a parameter or the distribution of one or more populations (as estimated by a sample) or in assessing the sample data itself. For example, the procedure can be used in the following ways: — to test whether the average value (mean) or the spread (standard deviation) of a population meets a given value, such as a target or a standard; — to test whether the means of two (or more) populations are different, as when comparing different batches of components; — to test that the proportion of a population with defects does not exceed a given value; — to test for differences in the"
+}

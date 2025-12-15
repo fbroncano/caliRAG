@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "29.1",
+  "texto": "5 Conformance ISO/IEC TR 15504 contains two principal areas where conformance may be claimed: in the conduct of a software process assessment; and in the construction of models for assessment compatible with the reference model. This clause explains the nature of conformance in these two areas. Requirements for the conduct of an assessment are contained in ISO/IEC TR 15504-3. Subclause 5.1 provides further information on the performance of assessments. Requirements for developing assessment model(s) compatible with the reference model are contained in ISO/IEC TR 15504-2. Subclause 5.2 provides further information regarding these requirements."
+}

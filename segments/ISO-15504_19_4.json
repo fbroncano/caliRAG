@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "19.4",
+  "texto": "process attributes, which are in turn grouped into a series of capability levels. Each capability level represents an incremental evolution in the management and control of the processes, so that the assessment models provide a road map for increasing capability. The capability dimension defines a scale of five levels of capability characterised by a set of nine process attributes. Figure 5 below shows the two dimensional structure of the reference model defined in ISO/IEC TR 15504-2. 4 © ISO/IEC ISO/IEC TR 15504-1:1998(E) Level Name Attributes 5 Optimizing process Process change attribute Life Cycle Processes Continuous improvement attribute 4 Predictable Process Process measurement"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.33",
+  "texto": "services, and other considerations to minimize and defend the system attack surface. Design characteristics include, for example, availability, fault tolerance and resilience, scalability, usability, capacity and performance, testability, portability, and affordability. 3) Identify and plan for the necessary enabling systems or services needed to support design definition. NOTE This includes identification of requirements and interfaces for the enabling systems. Enabling systems for design definition include selection of software and system platforms, programming languages, design notations and tools for collaboration and design development, design reuse repositories (for product lines,"
+}

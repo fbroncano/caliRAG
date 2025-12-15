@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.56",
+  "texto": "and formats, and database or data retention requirements; ii) User interfaces and user documentation (information for users) and user training; iii) Interfaces with other systems and services; iv) Functions and non‐functional characteristics, including critical quality characteristics and cost targets; v) Transition of operational processes and data from existing automated and manual systems, migration approach and schedule, software installation and acceptance of the product; and vi) Requirement attributes, such as rationale; priority; traceability to software system elements, test cases, and information items; methods of verification; inclusion in approved baselines; and evaluated risk."
+}

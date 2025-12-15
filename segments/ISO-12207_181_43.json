@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.43",
+  "texto": "“system/software requirements” emphasize the applicability of this document to software systems, having software requirements and systems requirements. This is intended to assist users who define systems requirements and software requirements hierarchically or in different stages. 6.4.3.2 Outcomes As a result of the successful implementation of the System/Software Requirements Definition process: a) The system or element description, including interfaces, functions and boundaries, for a system solution is defined. b) System/software requirements (functional, performance, process, non‐functional, and interface) and design constraints are defined. c) Critical performance measures are defined."
+}

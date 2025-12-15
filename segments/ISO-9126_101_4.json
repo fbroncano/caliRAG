@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.4",
+  "texto": "influence the observed quality. A failure in quality in use (e.g. the user cannot complete the task) can be traced to external quality attributes (e.g. suitability or operability) and the associated internal attributes which have to be changed. 14 © ISO/IEC 2001 – All rights reserved ISO/IEC 9126-1:2001(E) A.1.2 Internal metrics Internal metrics can be applied to a non-executable software product (such as a specification or source code) during designing and coding. When developing a software product the intermediate products should be evaluated using internal metrics which measure intrinsic properties, including those which can be derived from simulated behaviour. The primary purpose of"
+}

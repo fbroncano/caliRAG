@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "229.15",
+  "texto": "reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE ISO/IEC 12207:2008 (IEEE Std 12207-2008) process outcome 15288:2015 process outcome Subclause Outcome Subclause Outcome A software architectural design is developed Architecture viewpoints are and baselined that describes the software 6.4.4.2.b 7.1.3.2.a developed. items that will implement the software requirements. Context, boundaries, and external Internal and external interfaces of each 6.4.4.2.c 7.1.3.2.b interfaces of"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.113",
+  "texto": "characteristics were originally engineered to meet the needs of their initial users. As constituents of the SoS, their consideration is expanded to encompass the larger needs of the SoS. This implies added complexity, particularly when the systems continue to evolve independently of the SoS. The constituent systems also typically retain their original stakeholders and governance mechanisms, which limits alternatives to address the needs of the SoS. SoS have been characterized into four types based on the governance relationships between the constituent systems and the SoS (Table G.1). The strongest governance relations apply to directed system of systems, where the SoS organization has"
+}

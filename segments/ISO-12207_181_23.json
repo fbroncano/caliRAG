@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.23",
+  "texto": "Identify stakeholder needs. NOTE 1 Identification of stakeholder needs includes elicitation of needs directly from the stakeholders, identification of implicit stakeholder needs based on domain knowledge and context understanding, and documented gaps from previous activities. Needs often include measures of effectiveness. Functional analysis is often used to aid the elicitation of needs. Also quality characteristics of the quality model in ISO/IEC 25010 and quality model application to requirements analysis in ISO/IEC 25030 are useful to elicit and identify quality requirements of non‐functional requirements, which are often implicit stakeholder needs. NOTE 2 The SWEBOK, Guide to the"
+}

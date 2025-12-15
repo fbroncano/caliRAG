@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10007",
+  "clausula": "69.1",
+  "texto": "5.5.2.3 To p ro tect the integrity o f the co nfiguratio n in fo rmatio n and to p rovide a b as is fo r the co ntro l o f change, it is reco mmended that co nfiguratio n items and related in fo rmatio n b e held in an enviro nment: a) that is commensurate with the conditions required (e.g. for computer hardware, software, data, do c u mente d i n formation, d rawi ngs) ; b) th at provide s pro te c tion from lo s s o f i ntegrity or u nauthori ze d change; c) th at provide s me a n s for d i s as ter re cover y; d) th at it i s avai lable a nd s u itable for u s e, where and when it i s ne e de d; e) that permits retrieval."
+}

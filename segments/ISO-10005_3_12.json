@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10005",
+  "clausula": "3.12",
+  "texto": "prepared for and presented to the progress meetings with the client. The subcontractor will be invited to selected meetings. Records shall be kept by the programming team leader of any problems identified with the software at second and third level testing. Categorization of problems into problem origin: Requirements Spec. (missing or incorrect), Design (missing or incorrect), coding (missing, incorrect logic, interface error, data handling error) shall be performed. 18 Internal audit An audit of the implementation and effectiveness of the quality plan shall take place at the end of the design stage. This quality plan has been prepared by the project manager of the client's Distribution"
+}

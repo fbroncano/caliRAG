@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "21.1",
+  "texto": "5.4 Using a quality model Software product quality should be evaluated using a defined quality model. The quality model should be used when setting quality goals for software products and intermediate products. Software product quality should be hierarchically decomposed into a quality model composed of characteristics and subcharacteristics which can be used as a checklist of issues related to quality. Clauses 6 and 7 define a hierarchical quality model (although other ways of categorising quality may be more appropriate in particular circumstances). It is not practically possible to measure all internal and external subcharacteristics for all parts of a large software product. Similarly it"
+}

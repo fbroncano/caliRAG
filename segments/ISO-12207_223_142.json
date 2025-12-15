@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.142",
+  "texto": "agile development projects compared to more traditional development efforts. The baseline of requirements may initially comprise high‐level user stories (“epics”) and key performance measurements, including standards for usability. Agile projects take full advantage of the task to “Define baselines through the life cycle” (6.3.5.3.b)4). During development, new baselines are agreed upon and built at least daily under configuration control. A software element is generally traceable to a high‐level functional requirement and closely traceable to the use case it implements and the test case used to verify its functionality and performance. Rather than being traceable to a previously approved,"
+}

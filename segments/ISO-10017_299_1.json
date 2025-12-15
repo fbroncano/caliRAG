@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "299.1",
+  "texto": "4 lower control limit Figure 6 — Statistical process control chart The conventional form of a control chart for variable data are termed the “Shewhart” chart. The use of such control charts can be refined to yield a more rapid indication of process changes, or increased sensitivity to small changes, by using additional criteria in interpreting the trends and patterns in the plotted data. There are other forms of control charts, each with properties that are suited for applications in special circumstances. Examples of these include “cusum charts” that allow for increased sensitivity to small shifts in the process, and “moving average charts” (uniform or weighted) that serve to smooth out"
+}

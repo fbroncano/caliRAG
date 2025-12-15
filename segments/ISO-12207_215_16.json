@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.16",
+  "texto": "services satisfy the needs of the customers and users. NOTE The results are analyzed and the required actions to restore or amend software system or services to provide continued customer satisfaction and software system usability are identified. Wherever possible the benefit of such action is agreed with stakeholders or their representatives. The customer satisfaction data also serves as an input to the Quality Management process. 6.4.13 Maintenance process 6.4.13.1 Purpose The purpose of the Maintenance process is to sustain the capability of the system to provide a service. This process monitors the system’s capability to deliver services, records incidents for analysis, takes corrective,"
+}

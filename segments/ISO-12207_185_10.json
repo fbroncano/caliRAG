@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.10",
+  "texto": "architecture include system integrity concerns that the software system will be compromised intentionally or unintentionally via a threat agent or cause accidents as a safety hazard. Stakeholder. expectations or constraints are often associated with the system’s life cycle stages, such as utilization (e.g., availability, security, effectiveness, usability, interoperability with existing systems, availability or risks to data in the system), support (e.g., the supportability of the system over its projected life‐span, obsolescence management), evolution of the software system and its environment (e.g., adaptability, scalability, survivability), production (e.g., distribution, testability),"
+}

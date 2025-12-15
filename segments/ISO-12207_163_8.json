@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.8",
+  "texto": "safety. b) Perform configuration identification. This activity consists of the following tasks: 1) Select the software system elements to be uniquely identified as configuration items subject to configuration control. EXAMPLE Configuration items subject to configuration control in software systems usually include system/software requirements specifications, interface specifications; product and system elements (e.g., software objects, hardware, and services) while under development, baseline configurations or software versions established for transition between stages and as released for operational use; master (“gold”) copies of source code or executable software for different platforms or"
+}

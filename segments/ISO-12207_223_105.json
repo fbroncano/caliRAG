@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.105",
+  "texto": "change and the performance. Behavioral models are applicable to software control systems. A behavioral model can be described with a set of interrelated scenarios. This includes identifying the behavioral elements (e.g., modes/states, transitions, trigger events, and operational scenarios) through the life cycle. F.2.5 Temporal model A temporal model of the system is a representation that expresses how the time is taken into account in the behavior the system or its elements that presents levels of execution frequency of functions (e.g., strategic level, tactical level, operational monitoring level, regulation level) corresponding to levels of decision that enable humans and program logic to"
+}

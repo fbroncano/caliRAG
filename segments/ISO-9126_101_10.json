@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.10",
+  "texto": "product quality characteristics depends on the type of user: © ISO/IEC 2001 – All rights reserved 15 ISO/IEC 9126-1:2001(E) • the end user for whom quality in use is mainly a result of functionality, reliability, usability and efficiency; • the person maintaining the software for whom quality in use is a result of maintainability; • the person porting the software for whom quality in use is a result of portability. A.3 Choice of metrics and measurement criteria The basis on which the metrics are selected will depend on the business goals for the product and the needs of the evaluator. Needs are specified by criteria for measures. The model in this part of ISO/IEC 9126 supports a variety of"
+}

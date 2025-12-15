@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "201.4",
+  "texto": "systems, software, hardware, and interfaces being developed, maintained, or reused. NOTE 3 The SWEBOK, Guide to the Software Engineering Body of Knowledge, provides detailed discussion on Software Testing. This knowledge area addresses fundamentals, terminology, issues, techniques, application, process planning, measures, tools, practical considerations, and references. The guide also discusses Software Verification and Validation in terms of Software Quality Management processes, and identifies methods and techniques that support both Verification and Validation. The SWEBOK also addresses topics such as software construction for verification and software engineering models and methods"
+}

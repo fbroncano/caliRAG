@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.10",
+  "texto": "as the current state of the art does not provide all the support necessary for the purposes of prediction, more technology should be developed to show the co-relation between internal quality external quality and quality in use. Quality in Use is the user’s view of the quality of the software product when it is used in a specific environment and a specific context of use. It measures the extent to which users can achieve their goals in a particular environment, rather than measuring the properties of the software itself (quality in use is defined in clause 7). NOTE ‘Users’ refers to any type of intended users, including both operators and maintainers, and their requirements can be different."
+}

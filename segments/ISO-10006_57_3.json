@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10006",
+  "clausula": "57.3",
+  "texto": "todo el proyecto. Debería resolverse cualquier conflicto entre los requisitos de las partes interesadas. Normalmente, cuando surgen conflictos entre los requisitos del cliente y de otras partes interesadas, tienen prioridad los requisitos del cliente, salvo en el caso de los requisitos legales o reglamentarios. La resolución de los conflictos debería ser aprobada por el cliente. Deberían documentarse los acuerdos con las partes interesadas. Será preciso prestar atención a lo largo de todo el proyecto a los cambios en los requisitos de las partes interesadas, incluyendo los requisitos adicionales de nuevas partes interesadas que se unan al proyecto una vez que éste ya ha comenzado."
+}

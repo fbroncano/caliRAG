@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.91",
+  "texto": "and 6: b) (all tasks); c)1) and 2). t) The Transition process (6.4.10) provides for installing the software system or element in a different environment. Because some software assurance properties involve a trade‐off between design constraints and operational constraints, attention to installation and user documentation is often important. Relevant activities and tasks include a)2); b)1) and 4), 5), and 6); and c)1) and 2). u) The Validation process (6.4.11) provides evidence that the services provided by the software system meet the stakeholders’ needs, including the software assurance characteristics. Validation methods include vulnerability scans, code assessment and validation using a"
+}

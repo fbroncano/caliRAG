@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10005",
+  "clausula": "1.55",
+  "texto": "further guidance on configuration management, see ISO 10007. 5.15 Customer property The quality plan should state a) how products provided by the customer (such as material, tooling, test equipment, software, data, information, intellectual property or services) are identified and controlled, b) the methods to be used to verify that customer-supplied products meet specified requirements, c) how nonconforming customer-supplied products will be controlled, and d) how damaged, lost or unsuitable product will be controlled. NOTE Guidance on information security is given in ISO/IEC 17799. 5.16 Preservation of product The quality plan should state: a) requirements for handling, storage, packaging"
+}

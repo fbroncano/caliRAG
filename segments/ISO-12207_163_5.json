@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.5",
+  "texto": "users for changes in operational software systems and services. NOTE 1 For complex software systems, trade‐off studies are performed, e.g., to select an appropriate automated tool to support SCM needs and scope as identified in the strategy. NOTE 2 Additional guidance regarding configuration management activities can be found in ISO 10007, IEEE Std 828, and SAE ANSI/EIA‐649‐B. NOTE 3 The SWEBOK, Guide to the Software Engineering Body of Knowledge, provides detailed discussion on SCM. This knowledge area addresses SCM in the context of a system, SCM project and process planning, SCM plan and outline, tool selection, subcontractor control, surveillance and other audits, software configuration"
+}

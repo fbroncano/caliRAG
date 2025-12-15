@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "251.1",
+  "texto": "7.6.1 General description Regression analysis (see Figure 5) helps to determine the effect of various factors (usually called “explanatory” or “independent” variables) on a characteristic of interest (usually called the “response” or “dependent” variable). Regression analysis allows a model to be developed empirically. It can also be used to test a model that comes from science, economics, engineering, etc. © ISO 2021 – All rights reserved\b ﻿ 17 ISO 10017:2021(E) ﻿ Key X explanatory variable Y response variable 1.95 % confidence band 2 “best fit” regression line 3.95 % confidence band Figure 5 — Regression plot Regression analysis allows the user to, for example: — predict the value of the"
+}

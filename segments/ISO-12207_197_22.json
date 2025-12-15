@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.22",
+  "texto": "Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) receiving data from interfacing systems. Integrating the implemented software system elements is based on the priorities of the related requirements and architecture definition, typically focusing on the interfaces, while minimizing integration time, cost, and risks. Software system integration commonly maintains version control through the Configuration Management process for selection of configuration items to be integrated. NOTE 2 For software integration, the integration strategy typically is consistent with a regression strategy which is applied for re‐verifying software elements when related software units (and potentially"
+}

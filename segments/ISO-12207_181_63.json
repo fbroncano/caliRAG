@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.63",
+  "texto": "Maintaining system/software requirements includes defining, recording, and controlling the baseline, typically under formal configuration management, along with managing changes resulting from the application of other life cycle processes such as architecture or design. 1) Obtain explicit agreement on the system/software requirements. NOTE This includes confirming that system/software requirements are expressed correctly, comprehensible to originators and implementers, and that the resolution of conflict in the requirements is consistent with stakeholder decisions. 2) Maintain traceability of the system/software requirements. NOTE Through the life cycle, bidirectional traceability is"
+}

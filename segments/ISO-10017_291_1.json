@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "291.1",
+  "texto": "7.10.1 General description Statistical process control (SPC) refers to the use of process data to monitor, control, evaluate and improve a process, and the resulting product/service. A statistical process control chart (sometimes abbreviated as “control chart”) is a plot of data derived from samples that are periodically drawn from a process and plotted in time sequence (see Figure 6). Also plotted on the SPC chart are lines described as “control limits”, and these describe the inherent variability of the process when it is stable. The function of the control chart is to help assess the stability of the process, and this is done by examining the plotted data in relation to the control"
+}

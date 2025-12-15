@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.29",
+  "texto": "ISO/IEC 33004 and the non‐italicized (upright) text describes the manner in which the requirement is satisfied in this document. C.2.2 Requirements for process reference models A Process Reference Model shall contain: [ISO/IEC 33020, 5.3.1] a) A declaration of the domain of the process reference model. This is provided in Clause 1. b) A description of the relationship between the process reference model and its intended context of use. This is provided by Clause 5. c) Descriptions, meeting the requirements of [33004] 5.4 [below], of the processes within the scope of the process reference model; This is provided in Clause 6 in the description of each process. d) A description of the"
+}

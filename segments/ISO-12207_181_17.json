@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.17",
+  "texto": "Guide to the Software Engineering Body of Knowledge, Software Requirements knowledge area discusses software requirements fundamentals (e.g., definition, types, properties, quality characteristics) and other topics, such as stakeholders, requirements elicitation, analysis, and management that provide additional guidance for software systems. 6.4.2.2 Outcomes As a result of the successful implementation of the Stakeholder Needs and Requirements Definition process: a) Stakeholders of the system are identified. b) Required characteristics and context of use of capabilities and concepts in the life cycle stages, including operational concepts, are defined. c) Constraints on a system are"
+}

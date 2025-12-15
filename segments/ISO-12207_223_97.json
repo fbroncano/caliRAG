@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.97",
+  "texto": "architecture can be followed by different designs for different systems in different product lines. In this case it is important to perform these two processes in a separate manner. Furthermore, architecture is often done for other reasons than as the immediate basis for design, such as to drive technology investments, to achieve consistency or reduce complexity in an organization’s product line or portfolio of projects, or to guide acquirer‐supplier decisions. The architecture of a software system can be understood as a set of structured architectural entities and their relationships, chosen to achieve characteristics such as interoperability, scalability, environmental resilience,"
+}

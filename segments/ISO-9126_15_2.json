@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "15.2",
+  "texto": "processes in the software development lifecycle. Software product quality can be evaluated by measuring internal attributes (typically static measures of intermediate products), or by measuring external attributes (typically by measuring the behaviour of the code when executed), or by measuring quality in use attributes. The objective is for the product to have the required effect in a particular context of use (Figure 2). Process quality (the quality of any of the lifecycle processes defined in ISO/IEC 12207) contributes to improving product quality, and product quality contributes to improving quality in use. Therefore, assessing and improving a process is a means to improve product"
+}

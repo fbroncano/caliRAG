@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.50",
+  "texto": "(e.g., system diagnosing function or highly frequent data backup function for reliability). NOTE 2 Enabling functions that are required to support the system‐of‐interest in achieving its functionality are also identified and defined concurrently with the function of the system‐of‐interest. This is necessary to help ensure that the enabling functions in the system environment are identified and accounted for. 2) Identify required states or modes of operation of the software system. NOTE 1 States or modes of operation can be modeled and represented in multiple modeling techniques and perspectives to give a sufficiently complete description of the desired system or element requirements. NOTE 2"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "45.1",
+  "texto": "4 Error: Reference source not found El software comercial generalmente no requiere prueba. Las pruebas pueden incluir verificación de la presencia de virus, verificación de algoritmos programados por el usuario, o una combinación de ambas en la medida de lo necesario para alcanzar los resultados de medición requeridos. El control de la configuración del software puede ayudar a mantener la integridad y validez de los procesos de medición en los que se utilice. Puede archivarse creando copias de seguridad, mediante almacenamiento en otro sitio o por cualquier otro medio para salvaguardar la programación, asegurar el acceso y proveer el nivel de trazabilidad necesario."
+}

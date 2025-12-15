@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.19",
+  "texto": "Definition processes. The Integration process coordinates with these other processes to check that the interface definitions, as implemented and integrated, are adequate and that they take into account the integration needs. 6.4.8.2 Outcomes As a result of the successful implementation of the Integration process: a) Integration constraints that influence system requirements, architecture, or design, including interfaces, are identified. b) Approach and checkpoints for the correct operation of the assembled interfaces and system functions are defined. c) Any enabling systems or services needed for integration are available. d) A system composed of implemented system elements is integrated. e)"
+}

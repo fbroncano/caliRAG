@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "213.1",
+  "texto": "6.4.12.2 Outcomes As a result of the successful implementation of the Operation process: a) Operation constraints that influence system/software requirements, architecture, or design are identified. b) Any enabling systems, services, and material needed for operation are available. c) Trained, qualified operators are available. d) System product services that meet stakeholder requirements are delivered. e) System product performance during operation is monitored. f) Support to the customer is provided."
+}

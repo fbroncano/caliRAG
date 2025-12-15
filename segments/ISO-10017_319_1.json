@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "319.1",
+  "texto": "7.12.1 General description A time series is a sequence of observations ordered in time, and the analysis of such data is called “time series analysis”. It is used to describe patterns in time series data, for identifying “outliers” (i.e. extreme values whose validity should be investigated) to help understand the patterns or to make process adjustments, and for detecting turning points in a trend. Another use is to explain patterns in one time series with those of another time series, with all the objectives inherent in regression analysis (see 7.6). Time series analysis (see Figure 7) refers to analytical techniques in applications such as: — finding “lag” patterns by statistically looking"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.4",
+  "texto": "needed to support operation. NOTE This includes identification of operational requirements and interfaces for the enabling systems. Special modes of the operational software system, e.g., a training mode, can sometimes be active alongside or instead of a full operational mode. Enabling systems include monitoring for changes in threats to the software system. 4) Obtain or acquire access to the enabling systems or services to be used. NOTE The Validation process is used to objectively confirm that the operation enabling system achieves its intended use for its enabling functions. 5) Identify or define training and qualification requirements for personnel needed for software system operation."
+}

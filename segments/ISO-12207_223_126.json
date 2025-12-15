@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.126",
+  "texto": "acknowledged and collaborative SoS). Driven by its own organizational requirements, each of the constituent systems can be on a development or upgrade schedule that differs from the schedules of other constituent systems. The SoS organization plans an integrated life cycle that recognizes the independent changes in the constituent systems, in addition to the SoS‐initiated changes in a life cycle that treats the SoS as the SOI. This often involves the definition of stable intermediate forms that punctuate the SoS evolution with incremental capabilities added among the constituent systems. G.3.5 Technical processes Technical processes are concerned with technical actions throughout the life"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.24",
+  "texto": "the definition of usability in ISO 9241-11. In ISO/IEC 14598 the term usability is used to refer to the software quality characteristic described in ISO/IEC 9126-1. B.24 quality model the set of characteristics and the relationships between them which provide the basis for specifying quality requirements and evaluating quality B.25 rating the action of mapping the measured value to the appropriate rating level. Used to determine the rating level associated with the software for a specific quality characteristic B.26 rating level a scale point on an ordinal scale which is used to categorise a measurement scale NOTE 1 The rating level enables software to be classified (rated) in accordance"
+}

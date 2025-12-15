@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.34",
+  "texto": "of integration. This activity consists of the following tasks: 1) Record integration results and anomalies encountered. NOTE This includes anomalies due to the integration strategy, the integration enabling systems, execution of the integration or incorrect system or element definition. Where inconsistencies exist at the interface between the system, its specified operational environment and systems that enable the utilization stage, the deviations lead to corrective actions. Anomaly resolution typically involves the Technical Processes, often repetitive application of the Implementation process. The Quality Assurance and Project Assessment and Control process are used to analyze the data to"
+}

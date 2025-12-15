@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "193.7",
+  "texto": "Implementation process is to realize a specified system element. This process transforms requirements, architecture, and design, including interfaces, into actions that create a system element according to the practices of the selected implementation technology, using appropriate technical specialties or disciplines. This process results in a system element that satisfies specified system requirements (including allocated and derived requirements), architecture, and design. For software systems, the purpose of the Implementation process is to realize a software system element. 75 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to:"
+}

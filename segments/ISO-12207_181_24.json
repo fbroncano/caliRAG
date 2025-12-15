@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.24",
+  "texto": "Software Engineering Body of Knowledge, Software Requirements knowledge area discusses some additional techniques for eliciting and clarifying software requirements, such as, prototyping, observation, user stories to determine required functionality, data mining, and analyzing competitors’ products. NOTE 3 Stakeholder needs describe the needs, wants, desires, expectations and perceived constraints of identified stakeholders. Understanding stakeholder needs for the minimum security and privacy requirements necessary for the operational environment minimizes the potential for disruption in plans, schedules, and performance. If significant issues are likely to arise relating to users and other"
+}

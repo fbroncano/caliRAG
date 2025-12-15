@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.11",
+  "texto": "The level of quality in the users' environment may be different from that in the developers' environment, because of differences between the needs and capabilities of different users and differences between different hardware and support environments. The user evaluates only those attributes of software, which are used for his tasks. Sometimes, software attributes specified by an end user during the requirements analysis phase, no longer meet the user requirements when the product is in use, because of changing user requirements and the difficulty of specifying implied needs. © ISO/IEC 2001 – All rights reserved 5 ISO/IEC 9126-1:2001(E)"
+}

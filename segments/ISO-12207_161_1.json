@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "161.1",
+  "texto": "6.3.5.1 Purpose The purpose of Configuration Management is to manage and control system elements and configurations over the life cycle. Configuration Management (CM) also manages consistency between a product and its associated configuration definition. Software configuration management (SCM) applies to both the software system and its interfaces. The purpose of interface management is to agree with interface partners on the exchange of data through communications among software systems and services. Annex E (see E.5) provides an example of an Interface Management Process View. Software configurations are changed through the controlled release of a new version. The purpose of a release is"
+}

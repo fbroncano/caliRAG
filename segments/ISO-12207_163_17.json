@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.17",
+  "texto": "or Validation processes. Changes are made through the Technical processes, particularly Transition. EXAMPLE Releases for a software test, for software or system qualification or other formal tests, or for trial (beta) or operational use. 2) Approve software system releases and deliveries. NOTE 1 Releases often involve prioritization, tracking, scheduling, and closing changes. Approval of a release for operational use can include acceptance of the verified and validated changes. Criteria for approval of a release often includes rollback plans or contingency plans in the event of an unsuccessful release. NOTE 2 For software systems, automated version control tools can help ensure that only the"
+}

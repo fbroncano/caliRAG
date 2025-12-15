@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.26",
+  "texto": "Assessment and Control process. Integration proceeds as the software is verified in its functionality, performance, and suitability for site‐specific or platform‐specific environments. At major integration points, e.g., completion of a stage, element, or version, check points for reviews and validation with stakeholders are typically held. The frequency of these reviews is related to the selected life cycle model and development method. 3) Identify and plan for the necessary enabling systems or services needed to support integration. NOTE This includes identification of requirements and interfaces for the enabling systems. Enabling systems for integration commonly include integration"
+}

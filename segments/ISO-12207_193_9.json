@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "193.9",
+  "texto": "construction (coding of newly built software elements), acquisition of new software packages (e.g., from open source or a commercial or organizational source) or re‐use of existing elements (with or without modification). Software implementation commonly involves use of the Agreement processes to obtain non‐developmental items (NDI), such as hardware and operating systems (the platform) or enabling systems and services. Software implementation is usually performed concurrently with software integration. Implementation is typically performed along with all of the Technical Management processes and many of the Technical processes, especially: a) The Verification process, which provides"
+}

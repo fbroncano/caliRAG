@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.125",
+  "texto": "apply across the SoS, while the processes are also implemented independently in the constituent system organizations. For configuration management, for instance, constituent systems manage their own configurations while the SoS addresses configuration management as it applies to the mix of systems in the SoS. Risk is managed by the constituent systems based on assessment of risk as it applies to their outcomes, while the SoS risk management looks at risk to the SoS. Planning and Assessment and Control (6.3) are key to all management practices; a key challenge in SoS engineering is the lack of control by the SoS organization over the processes for the constituent systems (particularly for"
+}

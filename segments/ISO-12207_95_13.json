@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "95.13",
+  "texto": "can incorporate agile techniques and methods. These models can typically involve repeated performance of the life cycle processes and stages during the life cycle, e.g., for different increments of the software product, for more precise handling of exceptions to common functions, or for requirements that were not fully defined at the outset. These models can be applied across stages, such as development and utilization or deployment. Use of these models can affect software release strategies and acquisition strategies for software services. EXAMPLE Software elements can be developed incrementally, and then held for block operational release at a convenient time in the organization’s business"
+}

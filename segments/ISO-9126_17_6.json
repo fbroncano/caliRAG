@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.6",
+  "texto": "requirements. External quality requirements are used as the target for validation at various stages of development. External quality requirements for all the quality characteristics defined in this part of ISO/IEC 9126 should be stated in the quality requirements specification using external metrics, should be transformed into internal quality requirements, and should be used as criteria when a product is evaluated. Internal Quality Requirements specify the level of required quality from the internal view of the product. Internal quality requirements are used to specify properties of interim products. These can include static and dynamic models, other documents and source code. Internal"
+}

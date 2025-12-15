@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "77.1",
+  "texto": "3.1.69 traceability degree to which a relationship can be established among two or more logical entities, especially entities having a predecessor‐successor or master‐subordinate relationship to one another, such as requirements, system elements, verifications, or tasks EXAMPLE Software features and test cases are typically traced to software requirements."
+}

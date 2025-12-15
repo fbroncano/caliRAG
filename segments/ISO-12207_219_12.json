@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.12",
+  "texto": "elements, to improve the performance of a software system that is projected to reach unacceptable service levels, e.g., lack of capacity due to increases in demand or stored data, or to avoid unacceptable operating conditions, e.g., running with outdated security software. 6) Identify when adaptive or perfective maintenance is required. NOTE Adaptive and perfective maintenance actions usually involve change to the system/software requirements, architecture and design. A new project can be started to modify the existing software system. c) Perform logistics support. This activity consists of the following tasks: NOTE The logistics actions enable the software system to sustain operational"
+}

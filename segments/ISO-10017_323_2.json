@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "323.2",
+  "texto": "of success, depending on the patterns in the time series and on the number of periods for which predictions are desired, relative to the number of periods for which time-series data are available. The choice of a model should consider the objective of the analysis, the nature of the data, the relative cost, and the analytical and predictive properties of the various models."
+}

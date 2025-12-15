@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.32",
+  "texto": "processing, i.e., additional software system element integration, verification, or validation. NOTE 3 Anti‐counterfeit, anti‐tamper, system and software assurance and interoperability concerns can arise when performing integration and identifying and defining checkpoints. Integration and Verification processes often use fictitious data for security or privacy considerations. ISO/IEC/IEEE 15026 and the ISO/IEC 27000 series include information on assurance, integrity, and security considerations affecting integration. 3) Check that the integrated software interfaces or functions run from initiation to an expected termination within an expected range of data values. NOTE As part of the"
+}

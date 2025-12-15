@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.12",
+  "texto": "NOTE ISO/IEC 14598-1 provides requirements and guidance for the choice of metrics and measurement criteria for software product evaluation. A.4 Metrics used for comparison When reporting the results of the use of quantitative metrics to make comparisons between products or with criterion values, the report shall state whether the metrics are objective, empirical using items of known value, and reproducible. Reliable comparisons, either between products or with criterion values, can only be made when rigorous metrics are used. Measurement procedures should measure the software product quality characteristic (or subcharacteristic) they claim to be measuring with sufficient accuracy to allow"
+}

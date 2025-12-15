@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.93",
+  "texto": "support to the customers of the software product. Plans for this process consider achievement of application security throughout the life of the system, operational restrictions such as access control, and consistency of assumptions made during earlier stages regarding application security with the operational environment. The process includes establishing reporting systems and procedures for investigation and disposition of application security‐ related incidents. Relevant activities and tasks include a)1), b) (all tasks); c)1), 2), and 3); and d)1). w) The Maintenance process (6.4.13) sustains the capabilities of the software system, particularly its ongoing availability to provide its"
+}

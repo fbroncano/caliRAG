@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.15",
+  "texto": "and disposition Requests for Change and Requests for Variance. NOTE 1 Evaluation commonly includes analysis of rationale and need versus impact on the software and interoperating systems, considering risks and opportunities, quality, users, schedule, and cost. A decision is made on whether to implement or deny the change request. NOTE 2 Requests for Change and Requests for Variance are often under the formal control of a Configuration Control Board (CCB). 3) Track and manage approved changes to the baseline, Requests for Change and Requests for Variance. NOTE 1 This task involves prioritization, tracking, scheduling, and closing changes. Changes are then made through the Technical Processes."
+}

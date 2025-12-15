@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "29.2",
+  "texto": "attributes or distinguishing features that pertain to a measurable description of a product or service 3.1.20 enabling system system that supports a system‐of‐interest during its life cycle stages but does not necessarily contribute directly to its function during operation EXAMPLE A configuration management system used to control software elements during software development. Note 1 to entry: Each enabling system has a life cycle of its own. This document is applicable to each enabling system when, in its own right, it is treated as a system‐of‐interest. 3.1.21 environment <system> context determining the setting and circumstances of all influences upon a system [SOURCE: ISO/IEC/IEEE"
+}

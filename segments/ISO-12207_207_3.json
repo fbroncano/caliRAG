@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.3",
+  "texto": "scenarios or concept of operation) to be evaluated. The scope depends on what is appropriate for the systems life cycle stage: the system‐of‐interest or a system element or engineering artifact, such as a concept description or document, an operational scenario, a model, a mock‐up, or prototype. The scope also includes evaluating that the software product or service is usable in its intended environment for the principal or critical functions. Additional characteristics to be validated can include usability of the documentation; fault tolerance, resilience, and recovery features of the software. ii) Identify the constraints that potentially limit the feasibility of validation actions. NOTE"
+}

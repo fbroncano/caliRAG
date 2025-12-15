@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.12",
+  "texto": "configuration audit (PCA) and update of as‐built documentation is often performed at the time of system activation. Anti‐counterfeit provisions can be confirmed. 87 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) i) Demonstrate proper installation of the software system. NOTE This task can include integrity checks of data and operations, e.g., that the software code and data representations properly initialize, execute, and terminate as specified. ii) Demonstrate the installed or"
+}

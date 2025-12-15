@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.12",
+  "texto": "through the Configuration Management process. Baselines form the basis for subsequent changes. Selected baselines typically become formalized between acquirer and supplier, depending on the practices of the industry and the contractual involvement of the acquirer in the configuration management process. There are generally three major types of baselines at the system level: functional baseline, allocated baseline, and product baseline. These vary by domain or local strategy. NOTE 2 Software systems development often entails establishing multiple developmental baselines to address evolving software configuration needs at key points in the life cycle, e.g., to allow for simultaneous control of"
+}

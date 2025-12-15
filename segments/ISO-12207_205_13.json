@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.13",
+  "texto": "transitioned product is capable of delivering its required functions. NOTE This is an operational readiness task that examines readiness of functional capability for an operational state. Specific attention is given to the data interfaces and security concerns: information assurance and interoperability functions are exercised. iii) Demonstrate the functions provided by the system are sustainable by the enabling systems. NOTE This is an operational readiness task that examines readiness of enabling systems for an operational state. For example, activation of monitoring, problem reporting, access control, backup and recovery, and user assistance (customer support) are demonstrated. iv) Review"
+}

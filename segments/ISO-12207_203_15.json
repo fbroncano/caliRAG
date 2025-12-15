@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.15",
+  "texto": "other Technical processes. 3) Obtain stakeholder agreement that the software system or element meets the specified requirements. 4) Maintain traceability of the verified software system elements. 84 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) NOTE Bidirectional traceability is maintained between the verified system elements and the record of verification activity, system architecture, design, or system/software requirements. 5) Provide key artifacts and information items that have"
+}

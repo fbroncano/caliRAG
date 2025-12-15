@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.66",
+  "texto": "generating and using those measures to address the identified interface information needs. g) The Quality Assurance process (6.3.8), in its entirety, addresses identified anomalies (incidents and problems) that relate to the achievement of interface requirements. h) The Business and Mission Analysis process (6.4.1) provides for the definition of the problem space and characterization of the solution space, including the description of the environment and context, as well as preliminary operational concepts, including software system interfaces and enabling system interfaces. It often identifies external systems that interface with the system‐of‐interest. Relevant activities and tasks include"
+}

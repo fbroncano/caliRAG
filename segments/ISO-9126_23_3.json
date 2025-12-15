@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "23.3",
+  "texto": "be measured externally by the extent to which the capability is provided by the system containing the software. Examples of external metrics are given in ISO/IEC 9126-2. NOTE 1 There is a compliance subcharacteristic for all characteristics, as the principles are generally applicable to all the internal and external quality characteristics. NOTE 2 Some of the characteristics in this part of ISO/IEC 9126 relate to dependability. Dependability characteristics are defined for all types of systems in IEC 50-191, and where a term in this part of ISO/IEC 9126 is also defined in IEC 50-191, the definition given is broadly compatible."
+}

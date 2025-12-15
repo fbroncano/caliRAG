@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "285.1",
+  "texto": "7.9.3 Limitations and cautions Within theoretical science, proofs based on conceptual reasoning should be preferred over simulation, since simulation often provides no understanding of the reasons for the result. Computer simulation of empirical models is subject to the limitation that the model is not necessarily adequate (i.e. it is possible that it does not represent the problem sufficiently). Therefore, it cannot be considered a substitute for actual empirical investigations and experimentation."
+}

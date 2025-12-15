@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.3",
+  "texto": "“built right”. NOTE 2 The verification strategy and schedule account for dynamic changes when anomalous results (events, incidents, or problems) occur. According to the progress of the project, planned verification actions are redefined or rescheduled when unexpected events or system evolutions occur. NOTE 3 The verification strategy can be documented in a plan, e.g., a verification plan, or a project’s SDP or SEMP. i) Identify the verification scope, including the software system, element, or artifact, the properties to be verified, and the expected results. NOTE Overall verification scope includes the software system‐of‐interest or system elements, including interfaces. For each"
+}

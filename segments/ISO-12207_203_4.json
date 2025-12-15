@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.4",
+  "texto": "verification action, the scope identifies the software system, element, or artifact to be verified (e.g., the actual system, or a model, a mock‐up, a prototype, code, a procedure, a plan or other document) and the expected results, such as conformance, or performance, fault tolerance, and recovery after service interruption. The properties to be verified can include requirements, architecture and design characteristics, integration, and accuracy of documentation. Design characteristics can include security implications of the design in the context of the planned operational environment and the achievement of critical quality characteristics as stated in the requirements. ii) Identify the"
+}

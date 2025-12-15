@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "37.1",
+  "texto": "6.2 Reliability The capability of the software product to maintain a specified level of performance when used under specified conditions. NOTE 1 Wear or ageing does not occur in software. Limitations in reliability are due to faults in requirements, design, and implementation. Failures due to these faults depend on the way the software product is used and the program options selected rather than on elapsed time. NOTE 2 The definition of reliability in ISO/IEC 2382-14:1997 is \"The ability of functional unit to perform a required function...\". In this document, functionality is only one of the characteristics of software quality. Therefore, the definition of reliability has been broadened to"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10006",
+  "clausula": "127.2",
+  "texto": "entre las actividades. Debería resolverse cualquier incoherencia halladas antes de finalizar y hacer públicos los programas. Los programas deberían identificar las actividades críticas y cuasi- críticas. El programa debería identificar aquellos acontecimientos que requieren elementos de entrada o decisiones específicos, o aquéllos para los cuales se prevén resultados importantes, tales como las evaluaciones del avance. En ocasiones, a éstos se los denomina acontecimientos clave o hitos. Las evaluaciones del avance deberían incluirse en el programa. El cliente y las demás partes interesadas deberían estar informados durante el desarrollo del programa y participar su desarrollo del programa"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "103.7",
+  "texto": "to imply any specific hierarchical, vertical, or horizontal structure for the system‐of‐interest, enabling system, organization, or project. Where justified by product quality risks, detailed descriptions of process instances in the context of the specific product may also be created. Instantiation of processes involves identifying specific success criteria for a process instance, derived from the product requirements, and identifying the specific activities and tasks needed to achieve the success criteria, derived from the activities and tasks identified in this document. Creating detailed descriptions of process instances enables better management of product quality risks by establishing"
+}

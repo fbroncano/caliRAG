@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.32",
+  "texto": "with methods of operations and support, health and safety, threats to property and environmental influences. Use applicable standards, and accepted professional practices. For example, IEC 61508:2010, Functional safety of electrical/electronic/programmable electronic safety-related systems, provides detailed requirements. NOTE 3 Identifying security risks facilitates the identification of additional security requirements and functions. If warranted, include applicable areas of system security, such as physical, procedural, communications, computers, programs, data and emissions. This includes access and damage to protected personnel, properties and information, compromise of sensitive"
+}

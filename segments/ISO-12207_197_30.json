@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.30",
+  "texto": "system elements are provided from the developers or received from suppliers, the acquirer, or other resources and typically placed under CM control. The elements are handled in accordance with relevant health, safety, security and privacy considerations. 2) Integrate the implemented elements. NOTE 1 This task is performed to achieve software system element configuration (complete or partial) connecting the implemented elements as prescribed in the integration strategy, using the defined procedures, interface control descriptions, and the related integration enabling systems. NOTE 2 In terms of software, integrating the implemented elements can involve linking together pieces of object code"
+}

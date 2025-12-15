@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "3.16",
+  "texto": "be specified and evaluated from different perspectives by those associated with acquisition, requirements, development, use, evaluation, support, maintenance, quality assurance and audit of software. It can for example be used by developers, acquirers, quality assurance staff and independent evaluators, particularly those responsible for specifying and evaluating software product quality. Examples of uses of the quality model defined in this part of ISO/IEC 9126 are to: • validate the completeness of a requirements definition; • identify software requirements; • identify software design objectives; • identify software testing objectives; • identify quality assurance criteria; • identify"
+}

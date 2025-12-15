@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "231.2",
+  "texto": "services 6.4.8.2.c needed for integration are available. A system composed of implemented Software items defined by the integration 6.4.8.2.d 7.1.6.2.d system elements is integrated. strategy are produced. The interfaces between the Software items are verified using the defined 7.1.6.2.c 6.4.8.2.e implemented system elements that criteria. compose the system are checked. The interfaces between the system Software items are verified using the defined 7.1.6.2.c 6.4.8.2.f and the external environment are criteria. checked. Software items are verified using the defined Integration results and anomalies 7.1.6.2.c, 6.4.8.2.g criteria. are identified. 7.1.6.2.e Results of integration testing are"
+}

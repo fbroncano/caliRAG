@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.13",
+  "texto": "characteristics. Conveyance and storage, and their durations, can influence the specified containment. For software, a master copy of the implemented software (electronic or on physical media) is stored in a controlled location and made available to authorized roles (e.g., for use in the Integration and Transition processes). Configuration and product information is captured by the Configuration Management and Information Management processes when the element is stored. 6) Record objective evidence that the software system element meets requirements. NOTE Evidence is provided in accordance with supply agreements, legislation and organization policy. Evidence includes element modifications"
+}

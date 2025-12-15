@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.25",
+  "texto": "operation and integrity of the interfaces and the selected software system functions will be verified. NOTE 1 Detailed verification of the interfaces is performed using the Verification process. Software integration typically involves combining software elements, resulting in a set of integrated software elements, that is consistent with the software design, and that satisfies the functional and non‐functional system/software requirements on an equivalent of the operational environment. NOTE 2 For projects involving multiple suppliers or development teams, the availability of software system elements for integration is typically part of the project schedule with milestones under the Project"
+}

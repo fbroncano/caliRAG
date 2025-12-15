@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "239.1",
+  "texto": "6.4.14 Disposal Process 6.4.11 Software Disposal Process Disposal constraints are provided as 6.4.11.2.a, A software disposal strategy is defined. inputs to requirements, 6.4.14.2.a Disposal constraints are provided as inputs architecture, design, and 6.4.11.2.b to requirements. implementation. A software disposal strategy is defined. 6.4.14.2.b Any enabling systems or services 6.4.11.2.a, needed for disposal are available. 6.4.11.2.c The system’s software elements are destroyed or stored. The system elements or waste products are destroyed, stored, 6.4.14.2.c 6.4.11.2.c The system’s software elements are reclaimed or recycled in accordance destroyed or stored. with requirements, e.g.,"
+}

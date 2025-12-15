@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.12",
+  "texto": "performance of a validation action typically consists of capturing execution results, comparing the obtained result with the success criteria, and deducing a degree of compliance or stakeholder satisfaction with the software system, element, service, or engineering artifact. c) Manage results of validation. This activity consists of the following tasks: 1) Review validation results and anomalies encountered and identify follow‐up actions. NOTE 1 Confirm that the services of the system that are required by stakeholders are available. Anomalies can result from the validation strategy, the validation enabling systems, execution of the validation, incorrect system definition, or inefficient or"
+}

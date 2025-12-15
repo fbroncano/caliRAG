@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "47.1",
+  "texto": "6.2.3 Registros Deben mantenerse los registros con la información requerida para el funcionamiento del sistema de gestión de las mediciones. Los procedimientos documentados deben asegurar la identificación, el almacenamiento, la protección, la recuperación, el tiempo de retención y la disposición de los registros. Orientación: Ejemplos de registros son: resultados de confirmación, resultados de medición, compras, datos de operación, datos sobre no conformidades, quejas de clientes, formación, calificación o cualquier otro dato histórico que sustente los procesos de medición."
+}

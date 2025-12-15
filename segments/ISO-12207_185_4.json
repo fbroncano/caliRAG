@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.4",
+  "texto": "remains constant. An effective architecture also highlights and supports trade‐offs for the Design Definition process and possibly other processes, such as Portfolio Management, Project Planning, System/Software Requirements Definition, and Verification. NOTE 3 Architecture Definition can apply to a product line rather than a single software system. A product line architecture describes the structural properties for building a group of related systems with common components and interrelationships. In product line architectures, the architecture necessarily spans several designs. The architecture serves to make the product line cohesive and helps ensure compatibility and interoperability"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10005",
+  "clausula": "3.4",
+  "texto": "terms of quantified quality objectives. Accordingly, the company standard of releasing software with no known category A defects, no known category B defects, and category C defects only with client agreement shall apply. A defect is defined as system behaviour showing evidence of nonconformity against the agreed requirements. In addition, the company objective of commissioning systems within a 5 % margin of the contractual date based on the contractual elapsed time for the project shall also apply. 3 Responsibilities The Project Manager has overall responsibility for the successful execution of the project, including conformity with the company's QMS and meeting the above objectives. The"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.28",
+  "texto": "software elements. NOTE 1 The Design Definition process is driven by requirements that have been vetted through the architecture and more detailed analyzes of feasibility. Architecture focuses on suitability, viability, and desirability, whereas design focuses on compatibility with technologies and other design elements and feasibility of implementation and integration. An effective architecture is as design‐agnostic as possible to allow for maximum flexibility in the design trade space. NOTE 2 This process provides feedback to the software system architecture to consolidate or confirm the allocation, partitioning and alignment of architectural entities. 6.4.5.2 Outcomes As a result of the"
+}

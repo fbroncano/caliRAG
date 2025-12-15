@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.99",
+  "texto": "systems in general, and has additional information relating to views and modelling of the architecture of physical products, such as mass models and layout models. F.2 Views, models and model kinds used in software system architecture The Architectural Definition process uses a variety of models for software systems, including the example models listed in the following section. Model kinds specify the languages, notations, conventions, modelling techniques, analytical methods or other operations to be used on models of that kind. (Traditional system engineering practice classifies some of these models as “logical models” or “physical models”, but the taxonomical distinction is unnecessary in"
+}

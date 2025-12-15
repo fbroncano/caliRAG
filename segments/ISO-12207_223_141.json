@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.141",
+  "texto": "is defined by a predetermined baseline of specified requirements. When an Agile project requires a defined product, its scope is initially tied to high‐level or fundamental requirements. More detailed levels of product definition are expected to emerge as additional knowledge is gained throughout construction. Agile work without pre‐defined products (e.g., level of effort maintenance) may control scope through time‐boxed schedules or resource‐limited teams. This approach is particularly appropriate for software maintenance efforts, where the extent or content of corrective or adaptive work is not fully specified initially. Specification of baselines also differs in degree and timing for"
+}

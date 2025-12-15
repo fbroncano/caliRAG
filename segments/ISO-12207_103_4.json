@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "103.4",
+  "texto": "conformance of the product. Iteration is not only appropriate but also expected. New information is created by the application of a process or set of processes. Typically, this information takes the form of questions with respect to requirements, analyzed risks or opportunities. Such questions should be resolved before completing the activities of a process or set of processes. The recursive use of processes, i.e., the repeated application of the same process or set of processes applied to successive levels of system elements in a system’s structure, is a key aspect of the application of this document. The outputs of processes at any level, whether information, artifacts or services, are"
+}

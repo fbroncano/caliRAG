@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.36",
+  "texto": "Capability determination of processes requires that the process descriptions include a clear statement of the purpose of the process and a description of the expected outcomes. Consistent implementation of the processes is aided by having activities, tasks, and implementation notes defined. Thus, the life cycle processes in both life cycle standards have adopted common process constructs, as defined in D.2, Process constructs and their usage, and are consistent with the process definition guidance contained in ISO/IEC/IEEE TR 24774. D.2 Process constructs and their usage The process descriptions in this document follow clearly defined rules. First, they were grouped in a logical fashion."
+}

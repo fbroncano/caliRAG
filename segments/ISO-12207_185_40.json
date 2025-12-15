@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.40",
+  "texto": "requirements to determine suitability for the intended application. NOTE A make‐or‐buy decision and resulting implementation and integration approach typically involve trade‐offs of the design criteria, including cost. Design choices commonly consider enabling systems required to test the candidate alternative (test‐driven design and development) and sustainability over the system life, including maintenance costs. The Maintenance process can be used to determine the suitability of the design for long‐term maintenance and sustainability. 4) Choose the preferred alternatives among candidate design solutions for the software system elements. NOTE The System Analysis process can be used for"
+}

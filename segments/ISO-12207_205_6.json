@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.6",
+  "texto": "12207:2017(E) for complex transitions, in which procedures, such as database and system backup and restore and software installation, are tested to verify durations and correct results. NOTE 2 During a specified period of changeover or concurrent operation, the transfer of services is managed so that continuing conformance to persistent stakeholder needs or an agreed level of service is achieved. If a period of parallel operations for both the old and new systems is needed, special procedures are identified and developed for receiving and utilizing data from interface partners. 5) Identify system constraints from transition to be incorporated in the software system requirements, architecture"
+}

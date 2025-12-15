@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.65",
+  "texto": "identification and control of interfaces. It includes management of interface specifications and interface control documents. Internal and external interface requirements and changes are documented in accordance with the project’s CM strategy, which is commonly represented in a CM plan. Relevant activities include b)1) and d)1). e) The Information Management process (6.3.6), in its entirety, provides for the specification, development and maintenance of information items for documenting interfaces and their operational performance. f) The Measurement process (6.3.7), in its entirety, provides for defining an approach that relates measures to the required interface information needs, and then"
+}

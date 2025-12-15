@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.25",
+  "texto": "Definition process Architecture Viewpoints artifact Architecture Views and Models (Architecture Description) artifact Interface Definition (initial) artifact Design Definition process Design Artifact artifact Design Artifacts Report (Design description) info Interface Specification info System Analysis process System Analysis Report info Implementation process Software System Element artifact Implementation Procedures info Implementation Records (unit test results) record Integration process Interface Control Description info Integration and Test Procedures info Integrated Software System Elements (software library) artifact Integration Records record Verification process Verified System"
+}

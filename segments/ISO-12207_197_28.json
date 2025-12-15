@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.28",
+  "texto": "integration as the software system and enabling environments evolve to operational status. This “DevOps” approach supports iterative software system implementation, integration, verification, transition, validation, operation and maintenance processes. 4) Obtain or acquire access to the enabling systems or services to be used to support integration. NOTE The Validation process is used to objectively confirm that an integration enabling system achieves its intended use for its enabling functions. 5) Identify constraints for integration to be incorporated in the system/software requirements, architecture or design. 80 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved"
+}

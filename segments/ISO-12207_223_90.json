@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.90",
+  "texto": "information required to effect the remedial actions that correct nonconformances in the software or the processes that act on it and account for uncertainty in verification activities, such as test tool reliability and level of the uncertainty in results (i.e., rates of false positives and false negatives). 118 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) Additional considerations include the resiliency of the software to function. Relevant activities and tasks include a)1), 4), 5)"
+}

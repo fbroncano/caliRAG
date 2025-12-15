@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.45",
+  "texto": "ISO/IEC/IEEE 12207:2017(E) NOTE The Configuration Management process is used to establish and maintain configuration items and baselines for artifacts such as design models. This process identifies candidates for the baseline, and the Information Management process controls the information items, such as design descriptions and specifications."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.36",
+  "texto": "entity that bear on ...’. NOTE 4 in this definition states that ‘The term quality should not be used as a single term to express a degree of excellence in a comparative sense’. For this reason the terms ‘internal quality’ and ‘‘external quality’ have been defined in ISO/IEC 14598-1 to refer to aspects of quality which can be measured. The wording of the definitions of the quality characteristics has been changed from: ‘‘A set of attributes that bear on’ to: ‘‘The capability of the software to ...’ so they can be interpreted in terms which enable both internal and external quality to be measured. Subcharacteristics have been introduced, based on those in the informative annex of the previous"
+}

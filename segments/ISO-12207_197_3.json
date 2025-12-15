@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.3",
+  "texto": "Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) vii) creation of manual or automated test procedures to verify that a software unit meets its requirements before creation of the software unit (test‐driven development); and viii) comprehensive or specialized life cycle development and support environments for realizing and managing requirements, models and prototypes, deliverable system or software elements, and test specifications and test cases. NOTE The implementation strategy is commonly recorded in a project’s SDP or SEMP, or sometimes in a PMP. 2) Identify constraints from the implementation strategy and implementation technology on the system/software requirements, architecture"
+}

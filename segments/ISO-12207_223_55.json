@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.55",
+  "texto": "manufacturability, testability; retirement, e.g., environmental impact, transportability. This process further addresses those critical quality characteristic requirements that drive the architecture decisions, including the assessment of the architecture with respect to the concerns and associated characteristics. Relevant activities and tasks include a)2) and 4); b)1); c)2), 3), 4), and 5); d)1); and e)2). k) The Design Definition process (6.4.5) provides for the determination of necessary design characteristics, which includes the critical quality characteristics, such as security of design criteria for the specialty characteristics and the evaluation of alternative designs with respect"
+}

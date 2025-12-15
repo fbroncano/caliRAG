@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "23.1",
+  "texto": "6 Quality model for external and internal quality This clause defines the quality model for external and internal quality. It categorises software quality attributes into six characteristics (functionality, reliability, usability, efficiency, maintainability and portability), which are further subdivided into subcharacteristics (Figure 4). The subcharacteristics can be measured by internal or external metrics. external and internal quality functionality reliability usability efficiency maintainability portability suitability understandability analysability adaptability maturity time behaviour accuracy fault tolerance learnability changeability installability interoperability recoverability"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "309.1",
+  "texto": "7.11.1 General description Statistical tolerance refers to a procedure based on statistical principles, used for establishing tolerances. It makes use of the statistical distributions of relevant dimensions of individual components to determine the overall tolerance for the assembled unit. When assembling multiple individual components into a module, the critical factor or requirement (in terms of assembly and interchangeability) of such modules is often not the dimensions of the individual components but instead the total dimension achieved as a result of assembly. For a statistical determination of overall tolerances, it is assumed that, in assemblies involving a large number of individual"
+}

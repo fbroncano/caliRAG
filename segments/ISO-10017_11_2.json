@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "11.2",
+  "texto": "analysis (see 7.7); — sampling (see 7.8); — simulation (see 7.9); — statistical process control (SPC) (see 7.10); — statistical tolerance (see 7.11); — time series analysis (see 7.12). Many of these techniques are used in conjunction with other techniques or as sub-sets of other statistical techniques. The list of statistical techniques cited in this document is neither complete nor exhaustive and does not preclude the use of any other techniques (statistical or otherwise) that are deemed to be beneficial to the organization. Furthermore, this document does not attempt to specify which statistical technique(s) should be used and it does not attempt to advise on how the technique(s) should be"
+}

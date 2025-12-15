@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.134",
+  "texto": "techniques. As discussed in 5.4.2, the life cycle models used in agile projects are often highly incremental and evolutionary. However, organizations that use agile methods do apply the life cycle processes identified in this document, including organizational, technical management, and technical processes (and may operate under the agreement processes). As stated in 5.4.1, this document does not prescribe any particular sequence of processes within the life cycle model. The sequence of the processes is determined by project objectives and by selection of the life cycle model. An agile project, because it transforms or combines activities while creating or improving working software, may"
+}

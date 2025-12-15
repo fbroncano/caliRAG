@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "151.13",
+  "texto": "alternatives is assessed against the decision criteria (e.g., cost impact, schedule impact, programmatic constraints, regulatory implications, technical performance characteristics, critical quality characteristics, and risk). Results of these comparisons are ranked, via a suitable selection model, and are then used to decide on an optimal solution. Key study data (e.g., assumptions and decision rationale) are typically maintained to inform decision‐makers and support future decision‐making. NOTE When it is necessary to perform a detailed assessment of a parameter for one of the criteria, the System Analysis process can be employed to perform the assessment. 6.3.3.2 Outcomes As a result of"
+}

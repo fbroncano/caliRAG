@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.47",
+  "texto": "evolutionary, incremental or iterative. Many factors can influence the strategy, e.g., complexity of the software system and information and functions to be managed; need for ready access and common understanding by multiple team members; degree of collaborative involvement by the acquirer or user representatives throughout the development stage; whether the project involves a new development, a modification, re‐use or integration of existing systems; and process documentation requirements including period of retention. The life cycle model will influence when and how often the system/software requirements definition will be done. Annex H describes the progressive development of requirements"
+}

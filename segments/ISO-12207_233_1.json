@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "233.1",
+  "texto": "6.4.9 Verification process 7.1.5 Software Construction Process Constraints of verification that influence the requirements, Verification criteria are defined for all 6.4.9.2.a 7.1.5.2.a architecture, or design are software units against their requirements. identified. 7.1.6 Software Integration Process Verification criteria for software items are developed that ensure compliance with the software requirements allocated to the Constraints of verification that items influence the requirements, 7.1.6.2.b, 6.4.9.2.a A regression strategy is developed and architecture, or design are 7.1.6.2.g identified. applied for re‐verifying software items when a change in software units (including associated"
+}

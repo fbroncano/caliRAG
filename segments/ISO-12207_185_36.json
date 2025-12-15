@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.36",
+  "texto": "For the software system and software elements, typically reuse, adaptation, outsourced service, or new development are examined. NOTE 2 Assess the feasibility of realizing design characteristics. If warranted by assessment results, examine other alternative design options or perform trade‐offs in the architecture or requirements when design characteristics are impractical to implement. 4) Refine or define the interfaces among the software system elements and with external entities. NOTE Interfaces are identified and defined in the Architecture Definition process (see 6.4.4) to the level or extent needed for the architecture intent and understanding. These are refined in the Design Definition"
+}

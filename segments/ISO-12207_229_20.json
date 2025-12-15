@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "229.20",
+  "texto": "ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE ISO/IEC 12207:2008 (IEEE Std 12207-2008) process outcome 15288:2015 process outcome Subclause Outcome Subclause Outcome A domain architecture describing the family An architectural basis for processes of systems within the domain, including 6.4.4.2.h 7.3.1.2.d throughout the life cycle is achieved. their commonalities and variabilities, is developed. 6.4.5 Design Definition process 7.1.4.7.1.4 Software Detailed Design process A detailed design of each software Design characteristics of each 6.4.5.2.a 7.1.4.2.a component, describing the software units to system element are defined. be built, is developed. A detailed design of each software component,"
+}

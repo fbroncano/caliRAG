@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.144",
+  "texto": "a set of functions and to agree on the content of the next iteration. Documented information items focus on what will be needed for transition, operation and maintenance, such as operator and end‐user documentation and baselines of tested and released versions of software with test plans and test cases. Projects reuse organizational procedures for configuration and release management, verification, and incident and problem management. Where possible, bidirectional traceability is enabled and enforced by integrated automated systems and procedures for requirements management, architecture and design, configuration management, measurement, and information management. The incremental and"
+}

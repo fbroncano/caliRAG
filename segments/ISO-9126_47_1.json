@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "47.1",
+  "texto": "6.3 Usability The capability of the software product to be understood, learned, used and attractive to the user, when used under specified conditions. NOTE 1 Some aspects of functionality, reliability and efficiency will also affect usability, but for the purposes of ISO/IEC 9126 they are not classified as usability. NOTE 2 Users may include operators, end users and indirect users who are under the influence of or dependent on the use of the software. Usability should address all of the different user environments that the software may affect, which may include preparation for usage and evaluation of results."
+}

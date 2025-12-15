@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.11",
+  "texto": "systems. NOTE Service elements include a set of services to be provided. ISO/IEC 20000 (IEEE Std 20000) applies to management of system elements realized in services, including strategy, design, and transition. As appropriate, service elements are verified for conformance to the system requirements and service criteria. For example, operational resource elements are verified for conformance to the system requirements and operational concept. Service elements can include network communications, training, software packaging and distribution services, software customization services for customer‐specific needs, operational and security monitoring, and user assistance. 4) Evaluate software unit"
+}

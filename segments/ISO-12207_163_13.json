@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.13",
+  "texto": "software versions during software design, prototype, integration, and test releases. This can involve distributed configuration management responsibilities and access limitations for archives, e.g., software development or test libraries and a master configuration support library. 4) Obtain acquirer and supplier agreement to establish a baseline. NOTE The Project Assessment and Control process is used to reach agreement. When software is being developed for commercial or internal use, the acquirer or project sponsor can be the authority to approve a baseline. c) Perform configuration change management This activity consists of the following tasks: 48 © ISO/IEC 2017 – All rights reserved ©"
+}

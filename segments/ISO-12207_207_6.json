@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.6",
+  "texto": "inspection, analysis, analogy/similarity, demonstration, simulation, peer review, and testing. Software validation techniques typically include demonstrations, inspection, reviews and code walkthroughs, usability tests, and trial use of the software (e.g., beta testing, operational testing, user testing, or an acceptance test with agreed criteria). The selection of validation methods or techniques is made according to the type of system, the purpose of the validation, the objectives of the project, legal and regulatory requirements, and the acceptable risks of a validation action. For software systems with human interaction, usability testing is commonly used to validate that representative"
+}

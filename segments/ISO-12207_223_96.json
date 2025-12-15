@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.96",
+  "texto": "provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) Annex F (informative) Software system architecture modelling F.1 Introduction In this document, architecture and design activities are described as separate processes. Several iterations of the Architecture Definition, Design Definition, and Implementation processes can be involved when evolving a software element’s architecture e.g., to determine whether an entity or function will be realized through integration of existing software, adaptive reuse, or newly constructed software. In the systems and software engineering communities dealing with complex systems,"
+}

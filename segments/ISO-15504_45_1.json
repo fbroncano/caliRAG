@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "45.1",
+  "texto": "5.2 Developing a compatible model ISO/IEC TR 15504-2 provides a reference model for process assessment. The reference model identifies critical attributes that a process should have to be considered complete and effective, but without unduly constraining the implementation of the process. Assessment models may be built that address the unique needs of an industry sector or organization by addressing the requirements for compatibility contained in clause 7 of ISO/IEC TR 15504-2. Compatible models may be developed by organizations for their own internal use; by acquirers of software systems for use in specific acquisition situations; or by professional organizations defining requirements for"
+}

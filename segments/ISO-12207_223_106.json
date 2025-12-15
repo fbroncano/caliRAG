@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.106",
+  "texto": "monitor and control the system operations. This includes identifying temporal elements (e.g., duration, frequency, response time, triggers, timeout, stop conditions), from the operational concept and system requirements. F.2.6 Structural model A structural model of the system is a representation that shows the arrangement of elements with respect to each other and where necessary shows the interfaces between elements and with external entities. Such a model enables consolidating or identifying physical interfaces between system elements in a level of the system hierarchy and between levels of the system hierarchy, as well as those with external entities to the concerned system (in its"
+}

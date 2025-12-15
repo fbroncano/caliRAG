@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "91.1",
+  "texto": "5.2.4 Life cycle processes for the software system In the software system, the requirements, architecture, and design processes at the system level result in an allocation of the system requirements to various elements. The software system‐of‐interest is implemented primarily by analyzing the software system requirements, architecture, and design and determining which functions will be implemented in software or by other elements, implementing the software and other elements, and integrating the elements as a software system. Therefore, a software product or service can be treated as an element of a software system. In some cases, the architectural definition of a software system can"
+}

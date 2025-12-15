@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.18",
+  "texto": "different environments, e.g., from a development environment to a test or maintenance environment, or between various test environments, or from one operational environment to another (e.g., rehosting or use of cloud services). Transitions to backup or contingent sites are typically planned and rehearsed for business continuity and disaster recovery. Transition for software systems can involve the physical relocation of hardware, the installation and activation or deactivation of physical or virtual infrastructure or enabling systems in different locations, or no change to the physical infrastructure. Transition can involve changes to the data sources, data structure, or updates or upgrades"
+}

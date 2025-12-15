@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "19.2",
+  "texto": "includes an outline of the intended outcomes of process implementation. Processes are grouped into five process categories as shown in the table below. Table 2 — Description of process categories Process category Brief description Customer-Supplier Processes that directly impact the customer, support development and transition of the software to the customer, and provide for the correct operation and use of the software product and/or service. Engineering The Engineering process category consists of processes that directly specify, implement, or maintain the software product, its relation to the system, and its customer documentation. In circumstances where the system is composed totally of"
+}

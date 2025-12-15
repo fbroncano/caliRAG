@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.111",
+  "texto": "systems G.1 Introduction A system of systems (SoS) is a system‐of‐interest (SOI) whose elements are themselves systems. A SoS brings together a set of systems for a task that none of the systems can accomplish on its own. Each constituent system keeps its own management, goals, and resources while coordinating within the SoS and adapting to meet SoS goals. In the context of terminology discussed in 5.2.3 (as shown in Figure 3), the composite set of systems including the original SOI, enabling systems and interacting systems together constitute an SoS. Where there are concerns that affect the composite set, the system of systems becomes the SOI, which is considered to satisfy some business or"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "107.2",
+  "texto": "of operational activities, software elements of a system, or elements of a software system being provided by a supplier. If the Supply process is invoked, it provides the means for an agreement in which the result is a product or service that is provided to the acquirer. NOTE Security is an increasing concern in systems and software engineering. See ISO/IEC 27036, Security techniques - Information security for supplier relationships, for requirements and guidance for suppliers and acquirers on how to secure information in supplier relationships. Specific aspects of information security supplier relationships are addressed in ISO/IEC 27036‐3:2013 and ISO/IEC 27036‐4 (in development)."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "241.1",
+  "texto": "3 process spread Figure 4 — Process capability A typical measure of process dispersion is the standard deviation (σ, “sigma”) of the process data. If the distribution of process data is “normal” (i.e. bell shaped) and its mean value written as “μ”, then the output of the process is typically defined as μ ± 3σ. This range of values, termed “process spread”, will (in theory) encompass 99,73 % of the output of the process when it is stable. A convenient measure of process capability is Cp, a capability index, which is the ratio of process spread (µ ± 3σ) against allowable specifications, when the process mean is centred between the specifications. Where the process mean is not centred between"
+}

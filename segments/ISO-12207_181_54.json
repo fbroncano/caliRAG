@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.54",
+  "texto": "designated safety‐related systems. Applicable standards are used concerning functional safety, e.g., IEC 61508, and environmental protection, e.g., ISO 14001. Analysis includes security considerations, e.g., those related to compromise and protection of sensitive information, data and material. The security‐related risks are defined, including administrative, personnel, physical, computer, communication, network, emission and environment factors using, as appropriate, applicable security standards. Refer to ISO/IEC/IEEE 15026‐4 for system and software assurance guidance. ISO/IEC 27036 provides guidance for information security requirements for the outsourcing of products and services. ISO"
+}

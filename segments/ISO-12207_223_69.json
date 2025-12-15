@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.69",
+  "texto": "process (6.4.6) provides for the level of analysis needed to balance interface architecture, design constraints, interface performance requirements, and operational performance measurements, through the conduct of modeling, simulation, and other techniques. The analysis results are input to the Decision Management process in support of other Technical processes. Relevant activities and tasks include a) (all tasks); and (b) (all tasks). n) The Implementation process (6.4.7) provides for development of the interfaces and recording the evidence that interface requirements for an implemented system element have been met. Relevant activities and tasks include b) 1) and 3). 115 © ISO/IEC 2017 –"
+}

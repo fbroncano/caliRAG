@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.20",
+  "texto": "suitability of the software for performing business tasks and fulfilling the operational concept. For software systems, the following are purposes of the Validation process: a) To confirm that the requirements for a specific intended use of the software work product are fulfilled (often called software validation); and b) To achieve confidence (especially with an acquirer or customer) that the delivered product meets stakeholder requirements and is fit for use (often called software acceptance testing). NOTE 1 The validation process determines that the “right product is built”. The verification process determines that the “product is built right”. NOTE 2 Acceptance criteria, as used for"
+}

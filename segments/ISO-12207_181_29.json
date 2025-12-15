@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.29",
+  "texto": "2 These scenarios often motivate updates to the operational or other life cycle concepts. Abuse and failure scenarios highlight the need for additional functional requirements (or more specific derived requirements) to mitigate risks that are identified in the abuse or failure scenarios. 2) Identify the factors affecting interactions between users and the system. i) Anticipated physical, mental, and learned capabilities of the users; ii) Workplace, environment and facilities, including other equipment in the context of use; iii) Normal, unusual, and emergency conditions; and iv) Operator and user recruitment, training and culture. NOTE 1 Usability requirements take into account human"
+}

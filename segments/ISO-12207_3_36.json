@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "3.36",
+  "texto": "software, and all software systems require physical system components (hardware) to operate, either as part of the software system‐of‐interest or as an enabling system or infrastructure. Thus, the choice of whether to apply this document for the software life cycle processes, or ISO/IEC/IEEE 15288:2015, Systems and software engineering—System life cycle processes, depends on the system‐of‐interest. Processes in both documents have the same process purpose and process outcomes, but differ in activities and tasks to perform software engineering or systems engineering, respectively. 1.2 Purpose The purpose of this document is to provide a defined set of processes to facilitate communication"
+}

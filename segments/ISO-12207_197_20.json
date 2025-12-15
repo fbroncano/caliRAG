@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.20",
+  "texto": "The interfaces between the implemented system elements that compose the system are checked. f) The interfaces between the system and the external environment are checked. g) Integration results and anomalies are identified. h) Traceability of the integrated system elements is established. 6.4.8.3 Activities and tasks The project shall implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the Integration process. a) Prepare for integration. This activity consists of the following tasks: 1) Define the integration strategy. NOTE 1 Integration builds sequences of progressively more complete software system element or"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.5",
+  "texto": "constraints that potentially limit the feasibility of verification actions. NOTE Constraints include technical feasibility, cost, time, availability of verification enablers or qualified personnel, contractual constraints, and characteristics such as criticality of the mission. Such constraints often factor into verification strategy determination, e.g., whether an organizationally independent verification effort is necessary or justified. iii) Identify verification priorities. NOTE In software systems, verification of every possible scenario (100% code coverage) is typically infeasible. The verification strategy typically includes trading off what will be verified (scope) against the"
+}

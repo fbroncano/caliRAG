@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.85",
+  "texto": "software assurance characteristics. Relevant activities and tasks include c) and e) (all tasks). l) The Business and Mission Analysis process (6.4.1) provides for understanding the operating environment for the software system under development and laws, policies, risks, and constraints related to software assurance. Relevant activities and tasks include b)1) and c)1). m) The Stakeholder Needs and Requirements Definition process (6.4.2) provides for the selection and definition of risks and threats to missions or information. It incorporates this knowledge in defining requirements relating to software assurance (information security), including confidentiality, availability and integrity in"
+}

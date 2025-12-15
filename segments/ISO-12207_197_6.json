@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.6",
+  "texto": "environments, specifications and test cases; simulators for external systems, training systems; and content management systems for user documentation. 4) Obtain or acquire access to the software environments and other enabling systems or services. NOTE The Validation process is used to objectively confirm that the integration enabling system achieves its intended use for its enabling functions. b) Perform implementation. This activity consists of the following tasks: NOTE Throughout the Implementation process the Verification process is used to objectively confirm the system elements conform to requirements. The Validation process is used to objectively confirm the element is suitable to be"
+}

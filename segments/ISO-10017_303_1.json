@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "303.1",
+  "texto": "7.10.3 Limitations and cautions It is important to draw process samples in a way that best reveals the variation of interest, and such a sample is termed a “rational subgroup”. This is central to the effective use and interpretation of SPC charts, and to understanding the sources of process variation. Short run processes present special difficulties as there is sometimes insufficient data to establish appropriate control limits. In such cases, there are various practical approaches for addressing this limitation. There is a risk of “false alarms” when interpreting control charts (i.e. the risk of concluding that a change has occurred when this is not the case). There is also the risk of"
+}

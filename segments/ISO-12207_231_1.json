@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "231.1",
+  "texto": "6.4.8 Integration process 7.1.6 Software Integration Process Integration constraints that An integration strategy is developed for influence system requirements, software units consistent with the software 6.4.8.2.a 7.1.6.2.a architecture, or design, including design and the prioritized software interfaces, are identified. requirements. An integration strategy is developed for Approach and checkpoints for the software units consistent with the software correct operation of the assembled 7.1.6.2.a, design and the prioritized software 6.4.8.2.b requirements. interfaces and system functions are 7.1.6.2.c defined. Software items are verified using the defined criteria. Any enabling systems or"
+}

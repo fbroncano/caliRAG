@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.18",
+  "texto": "inability to perform within previously specified limits B.9 fault an incorrect step, process or data definition in a computer program NOTE This definition is taken from IEEE 610.12-1990. B.10 implied needs needs that may not have been stated but are actual needs when the entity is used in particular conditions NOTE Implied needs are real needs which may not have been documented. B.11 indicator a measure that can be used to estimate or predict another measure NOTE 1 The predicted measure may be of the same or a different software quality characteristic. NOTE 2 Indicators may be used both to estimate software quality attributes and to estimate attributes of the development process. They are"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.43",
+  "texto": "verification methods or techniques, and software system element requirements. Allocations and design properties are assigned to software elements, software units and affiliated artifacts, at a detailed enough level to permit software testing and implementation, including construction. 3) Determine the status of the software system and element design. NOTE 1 The Measurement process is used to establish measures for the completeness and quality of the design as it progresses. The Verification and Validation processes are invoked to verify and validate the detailed design and implementation NOTE 2 This includes periodic assessment of the design characteristics in case of evolution of the"
+}

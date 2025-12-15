@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.12",
+  "texto": "NOTE Verification occurs, in accordance with the verification strategy, at the appropriate time in the schedule, in the defined environment, with defined enabling systems and resources. The performance of a verification action consists of capturing a result from the execution of the verification procedure; comparing the obtained and recorded result with the expected result; and deducing a degree of correctness (or success/failure) of the submitted element. c) Manage results of verification. This activity consists of the following tasks: 1) Review verification results and anomalies encountered and identify follow‐up actions. NOTE 1 This includes anomalies due to the verification strategy, the"
+}

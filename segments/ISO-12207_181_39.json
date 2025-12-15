@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.39",
+  "texto": "stakeholder intentions. 2) Maintain traceability of stakeholder needs and requirements. NOTE Through the life cycle, bidirectional traceability is maintained between the stakeholder needs and requirements, organizational strategy, and business and mission problems and opportunities. Stakeholder requirements are traced to the system/software requirements during the System/Software Requirements Definition process. Traceability is often maintained using an appropriate data repository. 3) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management process is used to establish and maintain configuration items and baselines. This process"
+}

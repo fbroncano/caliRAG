@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "311.1",
+  "texto": "7.11.2 Benefits Given a set of tolerances (which need not be the same) for individual components, the calculation of the statistical overall tolerance will yield an overall dimensional tolerance that will usually be significantly smaller than the overall dimensional tolerance calculated arithmetically. This means that, given an overall dimensional tolerance, statistical tolerance will permit the use of individual components with wider tolerances, than those determined by arithmetical calculation. In practical terms, this can be a significant benefit since wider tolerances are associated with lower cost methods of production."
+}

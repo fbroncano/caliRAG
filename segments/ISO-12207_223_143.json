@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.143",
+  "texto": "baselined design document, a new software element may simply be traced to a design element or object that was, in fact, created during the construction of the software and only then placed under configuration control. The preparation of specifications, design artifacts, and information items or documentation during agile projects is often limited, while software developers apply their time and skills to transform a scenario or narrative of a function (“user story”) into a working, testable software element. Rather than preparing elaborate review packages for briefing at infrequent major milestone reviews, the team meets with stakeholders frequently to present informal evidence of completing"
+}

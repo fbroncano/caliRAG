@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "265.1",
+  "texto": "7.7.3 Limitations and cautions A basic assumption of reliability analysis is that the performance of a system under study can be reasonably characterized by a statistical distribution. The accuracy of reliability estimates will therefore depend on the validity of this assumption. The complexity of reliability analysis is compounded when multiple failure modes are present, and when it is not certain whether they conform to the same statistical distribution. Also, when the number of failures observed in a reliability stress test is small, this can dramatically affect the statistical confidence and precision attached to estimates of reliability. The conditions under which the reliability test"
+}

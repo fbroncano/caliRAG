@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.46",
+  "texto": "as “critical quality characteristics”. These characteristics determine how well the product meets its specified requirements in a specific area selected for focus. See E.6 for a process view relating to (information security assurance for software systems). NOTE 1 This is a generalized instance of a process view that covers a broad set of functional and non‐functional characteristics related to specialty engineering. It provides a broad view across the processes. If a specific critical quality characteristic has a high priority relative to other characteristics, a specific process view can be created for that characteristic, including more detailed information and requirements. NOTE 2"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.17",
+  "texto": "NOTE The Configuration Management process is used to establish and maintain configuration items and baselines. This process identifies candidates for the baseline, and the Information Management process controls the information items. For this process, the software system elements (e.g., source code), software packages, and unit test results are typical artifacts that are baselined. 6.4.8 Integration process 6.4.8.1 Purpose The purpose of the Integration process is to synthesize a set of system elements into a realized system (product or service) that satisfies system/software requirements, architecture, and design. This process assembles the implemented system elements. Interfaces are"
+}

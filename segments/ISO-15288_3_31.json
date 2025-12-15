@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15288",
+  "clausula": "3.31",
+  "texto": "IEEE 2023 – All rights reserved ISO/IEC/IEEE 15288:2023(E) Introduction The complexity of systems continues to increase to unprecedented levels. This has led to new opportunities, but also to increased challenges for the organizations that create and utilise systems. These challenges exist throughout the life cycle of a system and at all levels of architectural detail. This document provides a common process framework for describing the life cycle of systems, adopting a systems engineering approach. This document concerns systems that can be configured with one or more of the following system elements: hardware elements, software elements, data, humans, processes, services, procedures,"
+}

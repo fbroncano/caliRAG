@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "147.6",
+  "texto": "based on the defined processes of the organization (see Life Cycle Model Management process). Annex A contains information on tailoring that can be used to address project‐specific needs. The definition of the processes includes the entry and exit criteria, inputs, process sequence constraints (predecessor/successor relationships), process concurrency requirements (what processes and tasks are to be worked concurrently with other process area tasks or activities), Measures of Effectiveness/Measures of Performance attributes, and scope and cost parameters (for critically important cost estimation). NOTE 2 Identifying interfaces with other projects or organizational units is addressed through"
+}

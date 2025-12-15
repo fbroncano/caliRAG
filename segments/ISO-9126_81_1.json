@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "81.1",
+  "texto": "6.6.1 Adaptability The capability of the software product to be adapted for different specified environments without applying actions or means other than those provided for this purpose for the software considered. NOTE 1 Adaptability includes the scalability of internal capacity (e.g. screen fields, tables, transaction volumes, report formats, etc.). NOTE 2 If the software is to be adapted by the end user, adaptability corresponds to suitability for individualisation as defined in ISO 9241-10, and may affect operability."
+}

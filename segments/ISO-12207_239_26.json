@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "239.26",
+  "texto": "assessment and improvement of these processes. These processes can be applied concurrently, iteratively, and recursively to a software system and its elements throughout the life cycle of a software system. Users of the document can apply the processes and terminology to construct a suitable life cycle model, composed of stages that use selected processes. The process purposes and outcomes in ISO/IEC/IEEE 15288:2015 (systems life cycle processes) and this document are fully aligned so that one may select appropriate activities from either document for use in systems with substantial software content. Keywords: acquisition, agreement, architecture, design, assessment, audit, configuration"
+}

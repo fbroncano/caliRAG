@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.11",
+  "texto": "configuration items are tracked at the level at which change needs to be controlled. EXAMPLE Software from external suppliers can be tracked by its license and maintenance agreement, which can involve tracking to the location, number or size of systems where it is used or the number of concurrent users allowed. Software versions can be traced to the stakeholder requirements which they implement. 3) Define baselines through the life cycle. NOTE 1 Baselines capture the evolving configuration states of software system elements at designated times or under defined circumstances. The content for the baselines is developed through the technical processes, but is formalized at a point in time"
+}

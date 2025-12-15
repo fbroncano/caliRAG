@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.89",
+  "texto": "achievement of the characteristics is determined and recorded. Implementation of interface standards wherever practical promotes system and element sustainability and element reusability. Relevant activities and tasks include a)2) and 5); b)3); and c)1) and 2). s) The Verification process (6.4.9) provides for the planning and execution of a strategy to verify that software assurance requirements, including the software assurance characteristics, have been achieved. The selected verification strategy can introduce testing for code weaknesses in the development process or during sustainment. Threat analysis provides input into the creation of test plans and cases. The results include the"
+}

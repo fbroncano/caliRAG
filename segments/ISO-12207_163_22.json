@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.22",
+  "texto": "the baseline. NOTE This is sometimes called a functional configuration audit (FCA), which assures that the product configuration meets specified requirements. 5) Assess whether the operational software system elements conform to the approved configuration information. NOTE This is sometimes called a physical configuration audit (PCA). For software items, criteria for the PCA can include whether specified configuration items are installed on designated systems according to software license or agreement. 6) Record the CM audit results and disposition action items."
+}

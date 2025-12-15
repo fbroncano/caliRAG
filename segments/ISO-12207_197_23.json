@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.23",
+  "texto": "associated requirements, design and user documentation) are changed. NOTE 3 Defining a strategy for software unit and element integration commonly accompanies defining the strategy for other processes that occur concurrently, such as: i) The Implementation process to help ensure timely coordination of Implementation and Integration process tasks and enabling systems, e.g., combined software development and test environments to support automated or continuous implementation and integration of software units and elements. ii) The Verification process to provide objective evidence that the integrated software fulfils its specified requirements and to identify anomalies (errors, defects, faults)"
+}

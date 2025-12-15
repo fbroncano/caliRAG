@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.37",
+  "texto": "Those groupings are dictated by: a) Logical relations among the processes; and b) Responsibility for execution of the processes. This document groups the activities that may be performed during the life cycle of the system into four Process Groups. The top‐level description of these groups can be found in 5.6. Each life cycle process within those groups is described in terms of its purpose and desired outcomes and lists the activities and tasks that need to be performed to achieve those outcomes. c) Agreement processes – two processes (6.1); d) Organizational Project‐Enabling processes – six processes (6.2); e) Technical Management processes – eight processes (6.3); and f) Technical"
+}

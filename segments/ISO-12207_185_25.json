@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.25",
+  "texto": "the management of external and internal interfaces that are defined at this level of software system decomposition. 6) Maintain traceability of the architecture. NOTE Throughout the life cycle, traceability is often maintained among the architectural entities or elements (models, views, and viewpoints), the requirements (including allocated, decomposed, and derived) and stakeholder concerns, software system design, interface definitions, analysis results, and verification methods or techniques. 7) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management process is used to establish and maintain configuration items and baselines."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.5",
+  "texto": "NOTE The training and qualification includes awareness of the software system in its operational environment and a defined program of familiarization, with appropriate failure detection and isolation instruction. Operator knowledge, skill and experience requirements guide the personnel selection criteria, and where relevant, their authorization to operate is confirmed. The scope of qualification depends on the system‐of‐interest and its environment. For example, in some environments regulatory requirements include certification of operators, whereas in others there is no certification requirement. 6) Depending on the need for human intervention and control of operations, assign trained,"
+}

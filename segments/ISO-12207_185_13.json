@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.13",
+  "texto": "requirements. 5) Identify and plan for the necessary enabling systems or services needed to support the Architecture Definition process. NOTE This includes identification of requirements and interfaces for the enabling systems and services. Enabling systems for architecture definition can include tools for collaboration and architecture development, and architecture reuse repositories for artifacts such as architecture patterns, models, and reference architectures. 6) Obtain or acquire access to the enabling systems or services to be used. NOTE The Validation process is used to objectively confirm that the enabling system achieves its intended use for its enabling functions. The"
+}

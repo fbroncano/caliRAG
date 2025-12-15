@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.10",
+  "texto": "Restrictions apply. ISO/IEC/IEEE 12207:2017(E) similar to the operational environment and the root causes of the fault are identified. The Configuration Management process, especially release management activities, is invoked to control scheduled and emergency changes to the system. 4) Implement the procedures for correction of flaws (defects) and errors, or for replacement or upgrade of system elements. NOTE 1 Correction of flaws and errors uses problem resolution and can be handled through the Quality Assurance and Project Assessment and Control processes. NOTE 2 Typically, regression testing is performed to verify that the maintenance change has not introduced other issues, i.e., complete"
+}

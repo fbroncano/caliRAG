@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.27",
+  "texto": "consistent with architectural entities as defined in models and views of the system architecture. For software systems, design activities typically iterate with activities in System/Software Requirements Definition and Architecture Definition. Design definition is typically applied iteratively and incrementally to develop a detailed design, including software elements, interfaces, databases, and user documentation. Software design is usually concurrent with software implementation, integration, verification, and validation. Annex H discusses software design using agile methods. During design and implementation, further process application refines allocation of evolving requirements among"
+}

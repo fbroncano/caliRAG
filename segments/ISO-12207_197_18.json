@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.18",
+  "texto": "identified and activated to enable interoperation of the system elements as intended. This process integrates the enabling systems with the system‐ of‐interest to facilitate interoperation. Software system integration iteratively combines implemented software system elements to form complete or partial system configurations in order to build a product or service. Software integration is typically performed daily or continuously during development and maintenance stages, using automated tools. Continuous integration involves frequent inclusion or replacement and archiving of items in software libraries under CM control. NOTE Interfaces are defined by the Architecture Definition and Design"
+}

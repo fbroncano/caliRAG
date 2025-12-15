@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.7",
+  "texto": "or design. 6) Identify and plan for the necessary enabling systems or services needed to support transition. NOTE 1 This includes identification of requirements and interfaces for the enabling systems. Transition often involves the use of highly automated infrastructure to deliver, install, and activate or inactivate software. For electronic software distribution, temporary or continuing changes in connectivity are often needed for software and data migration and continuing sustainment. Enabling systems can include backup or alternate systems for use during a transitional period. 7) Obtain or acquire access to the enabling systems or services to be used. NOTE The Validation process is used"
+}

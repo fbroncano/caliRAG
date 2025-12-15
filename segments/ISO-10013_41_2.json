@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10013",
+  "clausula": "41.2",
+  "texto": "normalmente comienza con un iniciador o un recordatorio del sistema automatizado para una acción. Es necesario completar la acción o la entrada de datos necesarias y, a continuación, la información se envía a un receptor de la información directamente o a través de un proceso de aprobación. En última instancia, a través de una serie de acciones automatizadas, la entrada se transforma electrónicamente en la salida necesaria. Por ejemplo, un recordatorio de una actividad de una programación planificada de actividades dará lugar a que la actividad se complete automáticamente. Cuando se realiza una transacción de actividad de flujo de trabajo automatizada, puede generar información documentada"
+}

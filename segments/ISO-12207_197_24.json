@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.24",
+  "texto": "in integration‐related information items, (e.g., system/software requirements, architecture, design, test, or other descriptions), processes, software elements, items, units. iii) The Validation process to confirm that a work product fulfils requirements for a specific intended use of an integrated software function. iv) The Quality Assurance process to support integration process and work product audits and inspections and to address problem, non‐conformance, or incident reporting and handling. NOTE 4 The integration strategy is commonly recorded in a plan, e.g., an integration plan, or a project’s SDP or SEMP. 2) Identify and define criteria for integration and points at which the correct"
+}

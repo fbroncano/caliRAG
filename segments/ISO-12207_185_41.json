@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.41",
+  "texto": "analyzes and assessments to support the Decision Management process in performing the selection. Design reviews are conducted using the Validation process. d) Manage the design. This activity consists of the following tasks: 1) Capture the design and rationale. NOTE Commonly captured information includes the software system elements and affiliated requirements and design data, e.g., for software elements, internal and external interfaces, data structures, implementation and test requirements, unit aggregation data for integration, and test cases. Rationale typically includes information about major implementation options and enablers. The resultant design is controlled in accordance with the"
+}

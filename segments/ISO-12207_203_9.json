@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.9",
+  "texto": "automation tools, and incident and problem management systems. Software system verification is typically performed in distinct controlled environments that do not interfere with operational software or ongoing development. If the enabling systems for verification differ in capability from the planned operational environment, the Measurement process can be used to calibrate the performance of the verification enabling systems and suitability for the verification action. 6) Obtain or acquire access to the enabling systems or services to be used to support verification. NOTE The acquisition of the enabling systems can be done through various ways such as rental, procurement, development, reuse"
+}

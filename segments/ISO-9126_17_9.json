@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.9",
+  "texto": "and eliminated. However, some faults may still remain after testing. As it is difficult to correct the software architecture or other fundamental design aspects of the software, the fundamental design usually remains unchanged throughout testing. Estimated (or Predicted) Quality in Use is the quality that is estimated or predicted for the end software product at each stage of development for each quality in use characteristic, and based on knowledge of the internal and external quality. NOTE External quality and quality in use can be estimated and predicted during development for each quality characteristic defined in this part of ISO/IEC 9126 when proper technologies are developed. However"
+}

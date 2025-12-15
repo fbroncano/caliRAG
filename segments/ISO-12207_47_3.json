@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "47.3",
+  "texto": "with regard to quality 3.1.43 release particular version of a configuration item that is made available for a specific purpose EXAMPLE Test release. 3.1.44 requirement statement that translates or expresses a need and its associated constraints and conditions [SOURCE: ISO/IEC/IEEE 29148:2011, modified, NOTE has been removed.] 3.1.45 resource asset that is utilized or consumed during the execution of a process Note 1 to entry: Resources include those that are reusable, renewable or consumable. EXAMPLE diverse entities such as funding, personnel, facilities, capital equipment, tools, and utilities such as power, water, fuel and communication infrastructures. 3.1.46 retirement withdrawal of"
+}

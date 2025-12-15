@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.8",
+  "texto": "integration of existing units, refactoring, database development, and construction of manual or automated test procedures for each unit. NOTE 2 For software elements that are developed, at the lowest level of implementation executable software units are constructed (often with associated data structures, application programming interfaces, service descriptions, user documentation, test cases, or other elements), controlled, made available to authorized roles, and stored according to the CM procedures for development artifacts. NOTE 3 The SWEBOK, Guide to the Software Engineering Body of Knowledge provides detailed discussion on Software Construction. This knowledge area addresses"
+}

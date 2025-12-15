@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "99.1",
+  "texto": "7.1.3 Safety The capability of the software product to achieve acceptable levels of risk of harm to people, business, software, property or the environment in a specified context of use. NOTE Risks are usually a result of deficiencies in the functionality (including security), reliability, usability or maintainability."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15288",
+  "clausula": "3.36",
+  "texto": "assessors — to serve as a process reference model for use in the performance of process assessments that can be used to support organizational process improvement. In the context of this document and ISO/IEC/IEEE 12207, there is a continuum of human‐made systems from those that use little or no software to those in which software is the primary interest. When software is the predominant system or element of interest, ISO/IEC/IEEE 12207 should be used. Both documents have the same process model, share most activities and tasks, and differ primarily in descriptive notes. Although this document does not establish a management system, it is intended to be compatible with the quality management"
+}

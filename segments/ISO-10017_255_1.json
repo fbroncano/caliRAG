@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "255.1",
+  "texto": "7.6.3 Limitations and cautions When modelling a process, skill is required in specifying a suitable regression model (e.g. linear, exponential, multivariate) and in using diagnostics to improve the model. The presence of omitted variables, measurement error(s) and other sources of unexplained variation in the response can lead to incorrect conclusions. Other risks lie in the assumptions that are made, the characteristics of the available data, and in the estimation technique. 18\b ﻿ © ISO 2021 – All rights reserved ISO 10017:2021(E) ﻿ A problem sometimes encountered in developing a regression model is the presence of data whose validity is questionable. Such data should be investigated where"
+}

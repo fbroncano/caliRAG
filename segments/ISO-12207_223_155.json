@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.155",
+  "texto": "Comparison of process outcomes in ISO/IEC/IEEE 12207:2017 and software-related outcomes in the previous edition ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE ISO/IEC 12207:2008 (IEEE Std 12207-2008) process outcome 15288:2015 process outcome Subclause Outcome Subclause Outcome 6.2.6 Knowledge Management process 7.3.1 Domain Engineering process The representation forms for the domain models and the domain architectures are selected. The boundaries of the domain and its relationships to other domains are 7.3.1.2.a, established. A taxonomy for the application of 7.3.1.2.b, 6.2.6.2.a A domain model that captures the essential knowledge assets is identified. 7.3.1.2.c, common and different features,"
+}

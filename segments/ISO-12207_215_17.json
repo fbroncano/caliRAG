@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.17",
+  "texto": "adaptive, perfective and preventive actions and confirms restored capability. For software systems, the Maintenance process makes corrections, changes, and improvements to deployed software systems and elements. The software systems maintenance approach differs for systems that are freely available, in wide commercial distribution, or operating in a small number of controlled environments. The need for software system maintenance can arise from multiple causes other than latent system defects, such as changes to interfaced systems or infrastructure, evolving security threats, and technical obsolescence of system elements and enabling systems over the system life cycle. Often the extension of"
+}

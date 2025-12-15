@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.1",
+  "texto": "7.1.4 Satisfaction The capability of the software product to satisfy users in a specified context of use. NOTE Satisfaction is the user’s response to interaction with the product, and includes attitudes towards use of the product. © ISO/IEC 2001 – All rights reserved 13 ISO/IEC 9126-1:2001(E) Annex A (normative) Metrics A.1 Software metrics A.1.1 Internal and external attributes The levels of certain internal attributes have been found to influence the levels of some external attributes, so that there is both an external aspect and an internal aspect to most characteristics. For example, reliability may be measured externally by observing the number of failures in a given period of execution"
+}

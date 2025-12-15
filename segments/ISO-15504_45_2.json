@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "45.2",
+  "texto": "specific application domains or use situations. The requirements for constructing compatible models are set out in ISO/IEC TR 15504-2. There must be a clear and unambiguous mapping from the elements in a compatible model to the basic elements of the reference model - the processes and process attributes. The model must contain a set of indicators of process performance and capability. Finally, there must be a mechanism for translating the results of assessments performed with the model to the form defined in ISO/IEC TR 15504-2. 10 © ISO/IEC ISO/IEC TR 15504-1:1998(E) Bibliography These references provide background information on the theoretical and practical applications of software process"
+}

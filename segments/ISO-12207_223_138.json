@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.138",
+  "texto": "agree on improvements for the next cycle. Each iteration includes design, development, and test activities (test‐driven development). After a sprint of approximately one to four weeks or longer, new working software elements are accepted as “done” — completely developed, verified (tested) and validated. Lessons learned and process improvements are identified, and work begins on another sprint. Continuing learning, risk management, and process improvement can be facilitated by planning meetings that initiate each iteration and retrospective meetings held at the end of each iteration. Agile methods emphasize the Stakeholder Needs and Requirements Definition process, facilitating change through"
+}

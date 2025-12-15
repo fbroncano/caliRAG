@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "191.1",
+  "texto": "7.1.1.1 Data characteristics The term “descriptive statistics” refers to a broad range of techniques for summarizing and characterizing data. It is usually the initial step in the analysis of quantitative data, and often constitutes the first step towards the use of other statistical techniques. It should be regarded as a fundamental component of statistical analysis. Whereas the role of descriptive statistics is to record and present data, the procedures for drawing an inference from the data constitute “inferential statistics”, and such procedures are invoked in hypothesis testing (see 7.3). The characteristics of data taken from a sample can serve as a basis for making inferences"
+}

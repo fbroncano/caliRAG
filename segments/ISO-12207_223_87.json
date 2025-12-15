@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.87",
+  "texto": "Architecture Definition process (6.4.4) provides for the identification of stakeholder concerns from an architecture viewpoint through threat modeling and assessing the vulnerability of the product architecture and design to potential attacks to gain an understanding of the threat landscape and the relevant architecture elements. Relevant activities and tasks include a)2) and 4); b)1); c) (all tasks), d)5), and f)10, 20, and 5). p) The Design Definition process (6.4.5) provides for the determination of necessary design characteristics, which include attack surface reduction, including the location of components; software assurance design patterns; and avoidance of anti‐patterns. Relevant"
+}

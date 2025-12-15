@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.39",
+  "texto": "given software system element, e.g., internet presence, embedded systems, adaptation of open source software, human operator roles. 2) Identify candidate alternatives for the software system elements. NOTE Alternatives include newly designed and constructed items; adaptations of existing product lines, components, objects, or services; or acquisition or reuse of Non‐Developed Items (NDI). NDI include COTS (Commercial‐Off‐The‐Shelf) or FOSS (Free and Open Source Software) packages or elements, reuse of a previous design, or existing assets, including acquirer provided items. 3) Assess each candidate alternative against criteria developed from expected design characteristics and element"
+}

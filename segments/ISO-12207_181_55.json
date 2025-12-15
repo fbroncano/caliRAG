@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.55",
+  "texto": "25030 provides guidance for external system quality factors and characteristics. Annex E (E.6) provides a software assurance view of the life cycle processes. NOTE 3 For software systems intended for human interaction, human‐factors engineering (ergonomics) specifications are considered. For systems that have usability requirements, recommendations for obtaining a desired level of usability can be found in ISO/FDIS 9241‐220, Ergonomics of human-system interaction — Part 220: Processes for enabling, executing and assessing human-centred design within organizations. 5) Define system/software requirements and requirements attributes, including the following: i) Data elements, data structures"
+}

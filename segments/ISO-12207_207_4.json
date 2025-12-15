@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.4",
+  "texto": "Constraints include practical limitations of accuracy, uncertainty, repeatability that are imposed by the validation enablers, the associated measurement methods, and the availability, accessibility and interconnection with enablers. The validation strategy is constrained by the progress of the project; in particular, planned validation actions are redefined or rescheduled when unexpected events or system evolutions occur. Validation can be extended to include ongoing measurements of user satisfaction and customer complaints. iii) Identify validation priorities. NOTE 1 To make effective use of stakeholders’ time and expertise, validation typically focuses on stakeholder priorities, while"
+}

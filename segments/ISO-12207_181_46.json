@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.46",
+  "texto": "constraints, such as procedural flows, calling orders, data formats and flows, throughput, and timing. This establishes the expected software system behavior, expressed in quantitative terms, at its boundary. For software, boundaries are commonly expressed in Application Program Interfaces (API) and a graphical user interface (GUI) or interface files or services, including data formats. Annex E (E.5) provides an interface management view of the life cycle processes. 2) Define the system/software requirements definition strategy. NOTE This includes the approach to be used to identify and define, and manage the system/software requirements with the selected life cycle model, e.g.,"
+}

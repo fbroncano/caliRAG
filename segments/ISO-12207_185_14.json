@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.14",
+  "texto": "Infrastructure Management process supports reuse of enabling systems. b) Develop architecture viewpoints. This activity consists of the following tasks: 1) Select, adapt, or develop viewpoints and model kinds based on stakeholder concerns. 2) Establish or identify potential architecture framework(s) to be used in developing models and views. NOTE Some architecture frameworks identify stakeholders and their concerns, and relevant viewpoints that address those concerns, while other architecture frameworks are more general in their guidance. Viewpoints specify the kinds of models to be used and how the resulting models can be used to generate architecture views. Refer to ISO/IEC/IEEE 42010 for"
+}

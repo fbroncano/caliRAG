@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "59.1",
+  "texto": "6.4 Efficiency The capability of the software product to provide appropriate performance, relative to the amount of resources used, under stated conditions. NOTE 1 Resources may include other software products, the software and hardware configuration of the system, and materials (e.g. print paper, diskettes). NOTE 2 For a system which is operated by a user, the combination of functionality, reliability, usability and efficiency can be measured externally by quality in use."
+}

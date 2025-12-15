@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.25",
+  "texto": "stakeholders and their involvement in or interaction with a software system, recommendations for identifying and treating human‐system issues can be found in ISO TS 18152. 3) Prioritize and down‐select needs. NOTE The Decision Management process is typically used to support prioritization. The System Analysis process is used to analyze needs for feasibility or other factors. 4) Define the stakeholder needs and rationale. NOTE Needs concentrate on system purpose and behavior, and are described in the context of the operational environment and conditions. It is useful to trace needs to their sources and rationale. c) Develop the operational concept and other life cycle concepts. This activity"
+}

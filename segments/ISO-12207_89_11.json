@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.11",
+  "texto": "required from systems that are not directly a part of the operational environment of the system‐of‐interest, e.g., modelling system, training system, maintenance system. Each of these systems enables a part, e.g., a stage of the life cycle of the system‐of‐interest to be conducted. Termed “enabling systems”, they facilitate progression of the system‐of‐interest through its life cycle. The relationship between the services delivered to the operational environment by the system‐of‐interest and the services delivered by the enabling systems to the system‐of‐interest is shown in Figure 3. Enabling systems can be seen to contribute indirectly to the services provided by the system‐of‐interest."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "255.2",
+  "texto": "possible, since the inclusion or omission of the data from the analysis can influence the estimates of the model parameters, and thereby the response. Simplifying the model, by minimizing the number of explanatory variables, is important in modelling. The inclusion of unnecessary variables can cloud the influence of explanatory variables and reduce the precision of model predictions."
+}

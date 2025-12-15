@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.4",
+  "texto": "14598-1). The categories should be specified so that both the user and the developer can avoid unnecessary cost and schedule overruns. There are different views of product quality and associated metrics at different stages in the software lifecycle (see Figure 3). User quality needs Quality in use use and feedback contribute to specifying indicates External External quality quality requirement validation contribute to specifying indicates Internal Internal quality quality requirement verification NOTE This figure is a simplified version of ISO/IEC 14598-1:1999 Figure 4, modified to be consistent with ISO/IEC 9126-1. Figure 3 - Quality in the software lifecycle User quality needs can be"
+}

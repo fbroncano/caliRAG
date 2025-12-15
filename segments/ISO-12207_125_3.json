@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "125.3",
+  "texto": "System Analysis processes provide details on performing an analysis of alternatives. 3) Define projects, accountabilities and authorities. 4) Identify the expected goals, objectives, and outcomes of each project. 5) Identify and allocate resources for the achievement of project goals and objectives. 6) Identify multi‐project interfaces and dependencies to be managed or supported by each project. NOTE 1 This includes the use or reuse of enabling systems used by more than one project and the use or reuse of common system elements, including software elements, by more than one project. NOTE 2 Understanding each project in the context of the enterprise architecture helps to ensure interfaces and"
+}

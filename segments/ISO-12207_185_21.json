@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.21",
+  "texto": "necessary to convey the architectural intent and can be further refined in the Design Definition process. 3) Partition, align and allocate requirements to architectural entities and system elements. 69 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) 4) Map software system elements and architectural entities to design characteristics. 5) Define principles for the software system design and evolution. EXAMPLE Principles can include interoperability, use of selected design patterns, ease"
+}

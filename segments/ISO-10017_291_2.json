@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "291.2",
+  "texto": "limits. At the simplest level, a plotted point that falls outside the control limits signals a possible change in the process, possibly due to some “assignable cause”. This points to the need to investigate the cause of the “out-of-control” point and make process adjustments where necessary. This helps to maintain process stability and improve processes in the long run. Any variable (measurement data) representing a characteristic of interest of a product, service or process can be plotted. In the case of attribute data, control charts are commonly maintained of the number or proportion of nonconforming units, or the number or proportion of nonconformities, found in samples drawn from the"
+}

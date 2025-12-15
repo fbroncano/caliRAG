@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.7",
+  "texto": "developers with the benefit that they are able to evaluate software product quality during testing or operation. A.1.4 Relationship between internal and external metrics When the software product quality requirements are defined, the software product quality characteristics or subcharacteristics which contribute to the quality requirements are listed. Then, the appropriate external metrics and acceptable ranges are specified to quantify the quality criteria which validate that the software meets the user needs. The internal quality attributes of the software are then defined and specified to plan to finally achieve the required external quality and quality in use and to build them into the"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "67.1",
+  "texto": "3.1.64 system of systems SoS set of systems that integrate or interoperate to provide a unique capability that none of the constituent systems can accomplish on its own Note 1 to entry: Each constituent system is a useful system by itself, having its own management, goals, and resources, but coordinates within the SoS to provide the unique capability of the SoS."
+}

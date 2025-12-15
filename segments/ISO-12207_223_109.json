@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.109",
+  "texto": "deducing potential architectural mitigations to minimize operational risks (mission loss due to exploited security vulnerabilities) related to critical concerns and functions. Determination of which models to use in system definition can be based on examination of stakeholder concerns. The models and the resulting views can be used to express how the system architecture and design addresses their concerns and to gain better understanding of their actual needs, wants and expectations. Furthermore, models can be used in other life cycle processes besides architecture and design definition. Model‐ Based Systems Engineering (MBSE) is the formalized application of modelling to support system"
+}

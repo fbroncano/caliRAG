@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.34",
+  "texto": "design patterns, and design artifacts), and design standards. 4) Obtain or acquire access to the enabling systems or services to be used. NOTE The Validation process is used to objectively confirm that the enabling system achieves its intended use for its enabling functions. b) Establish designs related to each software system element. This activity consists of the following tasks: 1) Transform architectural and design characteristics into the design of software system elements. NOTE Characteristics apply to physical and logical system elements, such as database structures, provisions for memory and storage, software processes and controls, external interfaces such as user interfaces, or"
+}

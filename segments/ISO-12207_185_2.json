@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.2",
+  "texto": "Stakeholder Needs and Requirements Definition process is often employed so that there is a negotiated understanding of the problem to be solved and a satisfactory solution is identified. The results of the Architecture Definition process are widely used across the life cycle processes. Architecture definition may be applied at many levels of abstraction, highlighting the relevant detail that is necessary for the decisions at that level. NOTE 1 System architecture deals with fundamental principles, concepts, properties, and characteristics and their incorporation into the system‐of‐interest. Architecture definition has more uses than as merely a driver or part of design. Refer to ISO/IEC/IEEE"
+}

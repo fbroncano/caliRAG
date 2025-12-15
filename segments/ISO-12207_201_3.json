@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "201.3",
+  "texto": "qualification testing); and c) To confirm that the implementation of each system/software requirement is tested for compliance and that the software system is ready for delivery (often called system qualification testing). NOTE 1 The Verification process determines that the “product is built right”. The Validation process determines that the “right product is built”. NOTE 2 ISO/IEC/IEEE 29119 Systems and software engineering — Software testing (in multiple parts) provides detailed processes and techniques for verification performed through testing. IEEE Std 1012‐2012, IEEE Standard for System and Software Verification and Validation, provides additional details about these processes for"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "43.2",
+  "texto": "record; requirements for recording the assessment outputs are contained in ISO/IEC TR 15504-3. Attribute ratings may be used to calculate a capability level rating for the assessed process. Whatever the final format of the process output, it is essential that clear traceability to the processes and process attributes contained in the reference model is provided, to enable the process of calculation to be verified. A clear mechanism for the translation of results has to be provided by the developer of a compatible model, and this mechanism should ensure that such traceability is achieved. It should be noted that assessment output contains full details of the process context in the assessment"
+}

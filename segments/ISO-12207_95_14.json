@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "95.14",
+  "texto": "cycle. The “incremental development” model includes initial planning, initial requirements analysis, initial architectural definition, and initial validation, but allocates design, implementation, verification (and sometimes delivery) activities to a series of stages, each of which provides a portion of the intended functionality. The approach provides for some flexibility to respond to inaccurate cost or schedule estimates by moving functionality to later increments. The “spiral” variation on incremental developmental proposes ordering the development of functionality based on risk, with the riskiest problems considered in the early increments. This provides some protection against cost"
+}

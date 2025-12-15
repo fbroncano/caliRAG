@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.35",
+  "texto": "identify the root cause, enable corrective or improvement actions, and to record lessons learned. 2) Maintain traceability of the integrated software system elements. NOTE Bidirectional traceability is maintained between the integrated system elements and the software system architecture, design, and system or element requirements, such as use cases, and including interface requirements and definitions that are necessary for integration. Integrated software elements and their components are identified by version. Versions of integrated software elements are commonly traceable to implemented units, test procedures, and test cases. 3) Provide key artifacts and information items that have been"
+}

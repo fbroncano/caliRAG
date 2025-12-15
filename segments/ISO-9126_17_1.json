@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.1",
+  "texto": "5.2 Product quality and the lifecycle The views of internal quality, external quality and quality in use change during the software lifecycle. For example, quality specified as quality requirements at the start of the lifecycle is mostly seen from the external and users’ view, and it differs from the interim product quality, such as design quality, which is mostly seen from the internal and developers view. The technologies used for achieving the necessary level of quality, such as specification and evaluation of quality, need to support these diverse points of view. It is necessary to define these perspectives and the associated technologies for quality, in order to manage quality properly"
+}

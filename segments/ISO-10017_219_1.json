@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "219.1",
+  "texto": "7.3.3 Limitations and cautions The conclusions reached through hypothesis testing are based on several statistical assumptions, notably that the samples are independently and randomly drawn, and that underlying distribution is normal. Also, the significance level of the conclusion is governed by the sample size."
+}

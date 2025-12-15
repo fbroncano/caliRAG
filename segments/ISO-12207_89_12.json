@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.12",
+  "texto": "The interrelationships between the system‐of‐interest and the enabling systems can be bidirectional or a one‐way relationship. In addition to interacting with enabling systems, the system‐of‐interest can also interact with other systems in the operating environment, shown as Systems A, B, and C. Requirements for interfaces with enabling systems and other systems in the operational environment are included in the requirements for the system‐of‐interest. System B in operational environment Software system A Software system C in operational in operational environment environment Interaction with systems comprising the Enabling operational environment software system X Software system- of-"
+}

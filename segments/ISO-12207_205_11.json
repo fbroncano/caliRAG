@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.11",
+  "texto": "a representative example is selected. NOTE 2 Acceptance tests are sometimes defined in the agreement to demonstrate satisfactory installation. This task interacts with the Validation process to objectively confirm that the system fulfills stakeholder requirements in the operational environment. Acceptance tests, as specified in agreements, can define the criteria that demonstrate that the software system entity possesses the capability to deliver the required functions and services when installed and sustained in its operational environment. Specific attention is given to the key functions and logical interfaces. NOTE 3 As part of the Configuration Management process, a physical"
+}

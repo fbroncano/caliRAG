@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.16",
+  "texto": "been selected for baselines. NOTE The Configuration Management process is used to establish and maintain configuration items and baselines. This process identifies candidates for the baseline, and the Information Management process controls the information items. For this process, the verification strategy and verification procedures are typical information items. 6.4.10 Transition process 6.4.10.1 Purpose The purpose of the Transition process is to establish a capability for a system to provide services specified by stakeholder requirements in the operational environment. This process moves the system in an orderly, planned manner into the operational status, such that the system is"
+}

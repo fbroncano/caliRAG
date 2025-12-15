@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.6",
+  "texto": "items and relationships, software libraries, and Configuration Management process activities. NOTE 4 The SCM strategy is commonly documented in a plan, e.g., a configuration management plan, or sometimes in a project’s SEMP, SDP, or Project Management Plan (PMP). The strategy planning for Configuration Management is coordinated through the Project Planning process. In establishing points to establish baselines and conduct audits, CM planning is aligned with the software life cycle. The frequency of recurring SCM activities aligns with the iteration of technical processes and stages. SCM planning typically includes deciding when to review Configuration Management planning, what conditions"
+}

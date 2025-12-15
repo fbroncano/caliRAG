@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.19",
+  "texto": "configuration status accounting. This activity consists of the following tasks: 1) Develop and maintain the CM status information for software system elements, baselines, and releases. NOTE 1 Configuration status accounting provides the data on the status of controlled products needed to make decisions regarding system elements throughout the product life cycle. For example, software status can include past, current, and planned progression through stages in the life cycle for software functions and completion of verification and validation activities for software elements. Configuration status information permits forward and backward traceability to other configuration states. Configuration"
+}

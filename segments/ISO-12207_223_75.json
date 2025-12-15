@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.75",
+  "texto": "interest. The software assurance characteristics, their extent of achievement, and related information may support a software assurance claim, as described in ISO/IEC/IEEE 15026. This example is focused on protection against intentional subversion or forced failure due to the software architecture, design, or implementation, especially construction of the code. Name: Software Assurance Process View Purpose: The purpose of the Software Assurance Process View is to provide objective evidence that the software achieves satisfactory levels of certainty that sufficient protection is achieved against intentional subversion or forced failure due to the software architecture, design, or construction"
+}

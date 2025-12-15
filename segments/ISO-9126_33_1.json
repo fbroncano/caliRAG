@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "33.1",
+  "texto": "6.1.4 Security The capability of the software product to protect information and data so that unauthorised persons or systems cannot read or modify them and authorised persons or systems are not denied access to them. [ISO/IEC 12207:1995] NOTE 1 This also applies to data in transmission. NOTE 2 Safety is defined as a characteristic of quality in use, as it does not relate to software alone, but to a whole system."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.65",
+  "texto": "process is used to establish and maintain configuration items and baselines. This process identifies candidates for the baseline, and the Information Management process controls the information items, such as requirements specifications. For this process, the system/software requirements are typical artifacts that are baselined."
+}

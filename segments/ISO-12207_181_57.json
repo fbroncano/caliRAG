@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.57",
+  "texto": "NOTE 1 Requirements definition involves iterative and recursive steps in parallel with other life cycle processes. Depending on the life cycle model that is being employed, it is useful to compare the resources to be spent in assuring initial correctness of requirements versus the resource needed to evolve requirements based on verification and validation results. NOTE 2 The system/software requirements and attributes are recorded with a level of detail and in a form suitable for requirements management through the life cycle. See ISO/IEC/IEEE 29148:2011 Clauses 5 and 6 for more information on requirements, and Clauses 8 and 9 for a description of and an annotated outline for a System"
+}

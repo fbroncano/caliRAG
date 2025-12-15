@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "229.18",
+  "texto": "that describes the software Alignment of the architecture with items that will implement the software 7.1.3.2.a, 6.4.4.2.i requirements and design requirements. characteristics is achieved. 7.1.3.2.c Consistency and traceability are established between software requirements and software design. Any enabling systems or services 6.4.4.2.j needed for architecture definition are available. Traceability of architecture Consistency and traceability are established elements to stakeholder and 6.4.4.2.k 7.1.3.2.c between software requirements and system/software requirements is software design. developed. 7.3.1 Domain Engineering process The boundaries of the domain and its Context, boundaries, and"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.21",
+  "texto": "acceptable requirements. The intent or desires of those that oppose the acquirers, or detractors of the system, are addressed through the Risk Management process, threat analyzes of the System Analysis process, or the system/software requirements for security, adaptability, or resilience. In this case, the stakeholder needs are not satisfied, but rather addressed in a manner to help ensure system assurance and integrity if actions from the detractors are encountered. 3) Identify and plan for the necessary enabling systems or services needed to support stakeholder needs and requirements definition. NOTE This includes identification of requirements and interfaces for the enabling systems."
+}

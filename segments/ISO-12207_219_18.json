@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.18",
+  "texto": "and record lessons learned. This activity can include changes to logistics or software distribution procedures. Changes to the software system requirements, architecture, or design are done within other Technical processes. 2) Identify and record trends of incidents, problems, and maintenance and logistics actions. NOTE 1 Trend data and problem resolution reports are used to inform operations and maintenance personnel, customers, and other stakeholders and projects that are creating or utilizing similar system entities. NOTE 2 Incident and problem reporting, including resulting action taken, is tracked through the incident and process management activity of the Quality Assurance process. 3)"
+}

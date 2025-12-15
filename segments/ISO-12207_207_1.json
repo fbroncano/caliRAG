@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.1",
+  "texto": "6.4.11.3 Activities and tasks The project shall implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the Validation process. a) Prepare for validation. This activity consists of the following tasks: 1) Define the validation strategy, which includes the following: NOTE 1 A validation strategy generally focuses on minimizing cost, schedule, or risk by progressively building confidence in the quality and suitability of the software system for the stakeholders. NOTE 2 The validation strategy reflects the life cycle model, and often involves repeated validation for iterative, incremental, or evolutionary life cycles. NOTE"
+}

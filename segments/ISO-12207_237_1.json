@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "237.1",
+  "texto": "6.4.13 Maintenance process 6.4.10 Software Maintenance process A maintenance strategy is developed to Maintenance constraints that manage modification and migration of influence system requirements, 6.4.10.2.a, products according to the release strategy. 6.4.13.2.a architecture, or design are 6.4.10.2.b The impact of changes to the existing system identified. on organization, operations or interfaces are identified. Modified products are developed with Any enabling systems or services associated tests that demonstrate that 6.4.10.2.d,6.4.10.2.e requirements are not compromised. 6.4.13.2.b needed for maintenance are available. Product upgrades are migrated to the customer’s environment."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.1",
+  "texto": "6.4.1.1 Purpose The purpose of the Business or Mission Analysis process is to define the business or mission problem or opportunity, characterize the solution space, and determine potential solution class(es) that could address a problem or take advantage of an opportunity. NOTE 1 Business and Mission Analysis is related to the organization encompassing stakeholders concerned by the activities of the software life cycle. This process interacts with the organization’s strategy, which is generally outside the scope of ISO/IEC/IEEE 12207. The results of the organization’s strategic analysis include the organizational Concept of Operations, strategic goals and plans, new market or mission"
+}

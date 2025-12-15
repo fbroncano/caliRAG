@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "23.2",
+  "texto": "operability resource stability co-existence security attractiveness utilisation testability replaceability functionality reliability usability efficiency maintainability portability compliance compliance compliance compliance compliance compliance Figure 4 – Quality model for external and internal quality Definitions are given for each quality characteristic and the subcharacteristics of the software which influences the quality characteristic. For each characteristic and subcharacteristic, the capability of the software is determined by a set of internal attributes which can be measured. Examples of internal metrics are given in ISO/IEC 9126-3. The characteristics and subcharacteristics can"
+}

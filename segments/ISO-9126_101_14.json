@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.14",
+  "texto": "checklist is used to provide data, the items should if necessary be weighted. • To be reproducible, the procedures for measurement shall result in the same measures (within appropriate tolerances) being obtained by different persons making the same measurement of the software product on different occasions. 16 © ISO/IEC 2001 – All rights reserved ISO/IEC 9126-1:2001(E) Internal metrics should also have predictive validity, that is they should correlate with some desired external measures. For example an internal measure of a particular software attribute should correlate with some measurable aspect of quality when the software is used. It is important that measurements assign values which"
+}

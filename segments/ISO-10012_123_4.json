@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "123.4",
+  "texto": "incluir los efectos relacionados con el tiempo) y con una deriva no mayor de 0,1 kPa en un periodo especificado. El cliente compara sus RMC con las características (explícitas o implícitas) especificadas por el fabricante del equipo y selecciona el equipo y los procedimientos que mejor se ajusten a sus RMC. El cliente puede especificar un manómetro de un proveedor particular con una clase de exactitud de 0,5 % y un intervalo de medición de 0 kPa a 400 kPa. A.3 Características metrológicas del equipo de medición (CMEM) Dado que las CMEM a menudo se determinan por calibración (o por varias calibraciones) o pruebas, la función metrológica del sistema de confirmación metrológica especifica y"
+}

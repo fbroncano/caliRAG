@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "19.1",
+  "texto": "4.2.2 An architecture for software processes ISO/IEC TR 15504-2 defines a reference model of processes and process capability that forms the basis for any model to be used for the purposes of process assessment. The reference model comprises a two-dimensional approach to the evaluation of process capability - one dimension defines the processes to be assessed, the other describes the scale for measurement of capability. Any model(s) compatible with the reference model may be used for assessment, and the results of any conformant assessments will be able to be translated into a common base. Each process in the reference model is described by a statement of the purpose of the process, which"
+}

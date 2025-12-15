@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.6",
+  "texto": "constraints or limits, and deducing what verification actions to perform and how many iterations of verification actions and rework are needed to reduce risk. A model‐based testing approach can enable the generation and management of multiple scenarios. Potential verification actions that are candidates for deletion are evaluated for the risks their withdrawal imposes. 2) Identify constraints from the verification strategy to be incorporated in the system/software requirements, architecture, or design. NOTE This includes practical limitations of accuracy, uncertainty, repeatability that are imposed by the verification enablers, the associated measurement methods, the need for software system"
+}

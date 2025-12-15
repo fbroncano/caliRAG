@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "261.2",
+  "texto": "laboratory or factory testing or from field operation. Reliability analysis employs a wide range of tools and techniques, such as failure mode and effect analysis (FMEA), which examines the physical nature and causes of failure, and the prevention or reduction of future failures. Such techniques, quantitative and qualitative, are used in concert with statistical techniques. Reliability analysis can, for example, be used: — to verify that specified reliability targets are met, on the basis of data from a test of limited duration and involving a specific number of test units; — to predict the probability of problem-free operation, or other measures of reliability such as the failure rate or"
+}

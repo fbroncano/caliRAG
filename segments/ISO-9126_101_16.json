@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.16",
+  "texto": "activities (including requirements analysis, design, testing through acceptance) during the software lifecycle process [ISO/IEC 12207:1995] B.4 direct measure a measure of an attribute that does not depend upon a measure of any other attribute B.5 evaluation module a package of evaluation technology for a specific software quality characteristic or subcharacteristic NOTE The package includes evaluation methods and techniques, inputs to be evaluated, data to be measured and collected and supporting procedures and tools. B.6 external measure an indirect measure of a product derived from measures of the behaviour of the system of which it is a part NOTE 1 The system includes any associated"
+}

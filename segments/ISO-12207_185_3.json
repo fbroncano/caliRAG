@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.3",
+  "texto": "42010:2011 for more information about architecture description and the uses and nature of architecture. NOTE 2 The Architecture Definition process supports identification of stakeholders and their concerns. As the process unfolds, insights are gained into the relation between the requirements specified for the software system and the emergent properties and behaviors of the system that arise from the interactions and relations between the system elements. An effective architecture is as design‐agnostic as possible to allow for maximum flexibility in the design trade space. Even for a single‐product software system, the design of the product will likely change over time while the architecture"
+}

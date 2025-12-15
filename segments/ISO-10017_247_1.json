@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "247.1",
+  "texto": "7.5.4 Examples of applications The utility of process capability analysis is illustrated by the following examples. a) Process capability is used to establish rational engineering specifications for manufactured products by ensuring that component variations are consistent with allowable tolerance build- ups in the assembled product. When tight tolerances are necessary, component manufacturers are required to achieve specified levels of process capability to ensure high yields and minimum waste. b) High process capability index goals (e.g. Cp > 2) are sometimes used at the component and subsystem level to achieve desired cumulative quality and reliability of complex systems. c) Process"
+}

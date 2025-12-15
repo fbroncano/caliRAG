@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "241.2",
+  "texto": "the specifications, a corresponding measure of process capability is Cpk . These concepts underlie the business improvement programme called “Six Sigma”. When the process data involve “attributes” (e.g. per cent nonconforming or the number of nonconformities), process capability is stated as the average proportion of nonconforming units or the average rate of nonconformities. This concept can be applied to assessing the capability of an entire system or process, or any sub-set of a process such as a specific machine (in which case, the assessment is called “machine performance analysis”)."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.12",
+  "texto": "and affiliated data or other information according to the implementation strategy and criteria. NOTE 1 Criteria for evaluation commonly include satisfaction of unit requirements and test criteria, unit test coverage, traceability requirements, consistency with software element requirements or design, internal unit requirement consistency, and feasibility for further process activity, e.g., integration, verification, validation, operations and maintenance. NOTE 2 Use the Manage results of implementation activity to record construction and address anomalies. 5) Package and store the software system element. NOTE Contain the software system element in order to achieve continuance of its"
+}

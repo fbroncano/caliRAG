@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "27.1",
+  "texto": "4.5 Process capability determination context The procedure for process capability determination is described in ISO/IEC TR 15504-8. Process capability determination is mainly built upon process assessment as described in the ISO/IEC TR 15504-3. Processes are rated against an assessment model or models compatible with the reference model defined in ISO/IEC TR 15504-2, and results are expressed using the measurement and rating framework included in the reference model. The context of process capability determination is shown in figure 7. Specified Requirements Capability Report PROCESS CAPABILITY DETERMINATION Proposed Capability Target Scope Validated Assessment Output Target Capability •"
+}

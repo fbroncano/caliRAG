@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.64",
+  "texto": "decision makers. Relevant activities and tasks include b)6), 7), 9) and 10). b) The Decision Management process (6.3.3) provides assessing alternative requirements, architecture characteristics and design characteristics against the decision criteria, including the interfaces. Results of these comparisons are ranked, via a suitable selection model and are then used to decide on an optimal solution. Relevant activities and tasks include b) all tasks); and c)1). c) The Risk Management process (6.3.4), in its entirety, provides for identifying, evaluating, and handling risks of the system, including those related to interfaces. d) The Configuration Management process (6.3.5) provides for the"
+}

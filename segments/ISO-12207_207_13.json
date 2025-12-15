@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.13",
+  "texto": "ineffective system design, implementation, and integration. NOTE 2 The evaluation of validation results and follow‐up actions can include acceptance of the anomaly as a low risk occurrence. Corrective action can vary greatly depending on the impact of the validation result. For elements of software, examples include a simple defect fix for a failed software element, additional training for users, corrections and clarifications in documentation, or major project re‐direction based on a failure to attain a key milestone, e.g., failed software system acceptance testing. 2) Record incidents and problems during validation and track their resolution. NOTE The Project Assessment and Control process"
+}

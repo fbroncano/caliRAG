@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "43.1",
+  "texto": "6.2.3 Recoverability The capability of the software product to re-establish a specified level of performance and recover the data directly affected in the case of a failure. NOTE 1 Following a failure, a software product will sometimes be down for a certain period of time, the length of which is assessed by its recoverability. NOTE 2 Availability is the capability of the software product to be in a state to perform a required function at a given point in time, under stated conditions of use. Externally, availability can be assessed by the proportion of total time during which the software product is in an up state. Availability is therefore a combination of maturity (which governs the"
+}

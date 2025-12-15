@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.18",
+  "texto": "Definition process there will be requirements that are deemed to be inappropriate, unaffordable, or unsuitable. These are requirements issues that are resolved through iteration of the System/Software Requirements Definition process. It is also important that the architecture addresses key stakeholder concerns since not all of these will be captured in requirements. 3) Allocate concepts, properties, characteristics, behaviors, functions, or constraints that are significant to architecture decisions of the software system to architectural entities. NOTE The items being allocated can be physical, logical, or conceptual. 4) Select, adapt, or develop models of the candidate architectures of the"
+}

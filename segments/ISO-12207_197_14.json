@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.14",
+  "texto": "made due to processing changes or non‐conformances found during the Verification and Validation processes. The objective evidence is part of the element’s as‐implemented configuration baseline established through the Configuration Management process and includes the results of unit testing, analysis, inspections, walk‐ through events, demonstrations, product or technical reviews, or other verification exercises. c) Manage results of implementation. This activity consists of the following tasks: 1) Record implementation results and anomalies encountered. NOTE This includes anomalies due to the implementation strategy, the implementation enabling systems, or incorrect software system"
+}

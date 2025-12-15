@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.49",
+  "texto": "acquire access to the enabling systems or services to be used. NOTE The Validation process is used to objectively confirm that the enabling system achieves its intended use for its enabling functions. b) Define system/software requirements. This activity consists of the following tasks: 1) Define each function that the software system or element is required to perform. NOTE 1 Software functions can be described in use cases, user stories, or scenarios, and involve the transformation of data and information to achieve user needs (stakeholder requirements). In some cases, functions are derived from analysis of critical quality characteristics, such as performance, security or availability"
+}

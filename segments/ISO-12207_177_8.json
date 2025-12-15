@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "177.8",
+  "texto": "test activities specific to the products or services; and vi) Problem resolution and process and product improvement activities. NOTE In software projects, activities and tasks that have significant impact on product quality include obtaining agreement on new and changed requirements, performance of peer reviews and unit testing, analysis of problem reports and feedback from users; validating completion of corrective actions assigned at project milestone reviews, and root cause analysis of defects. 2) Establish independence of quality assurance from other life cycle processes. NOTE Resources for quality assurance are often assigned from distinct organizations for independence from project"
+}

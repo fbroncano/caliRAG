@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.20",
+  "texto": "views. See ISO/IEC/IEEE 42010. d) Relate the architecture to design. This activity consists of the following tasks: 1) Identify software system elements that relate to architectural entities and the nature of these relationships. NOTE Sometimes the software system elements are initially notional until Design Definition has occurred since this depends on the actual design(s) to be done. Sometimes a “reference architecture” is created using these notional system elements as a means to convey architectural intent and to check for design feasibility. 2) Define the interfaces and interactions among the software system elements and external entities. NOTE This is defined at level of detail"
+}

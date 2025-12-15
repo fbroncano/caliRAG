@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.5",
+  "texto": "deployment and sustainment stages. 3) Identify constraints from maintenance to be incorporated in the system/software requirements, architecture, or design. NOTE These often result from the need to 1) re‐use existing maintenance and verification enabling systems; 2) re‐use existing holdings of replaceable system element and accommodate re‐supply limitations; 3) conduct maintenance in specific locations or environments. For example, software architectures and designs that emphasize encapsulation, modularity, and scalability can be simpler to maintain. Requirements to document the system design and construction can reduce the effort needed to reverse engineer systems and elements when"
+}

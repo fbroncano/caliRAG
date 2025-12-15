@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.6",
+  "texto": "maintenance is needed. The system architecture and design reflect the need to roll back, back up, and recover data during problem resolution. Functions to make the system available for remote diagnostics and maintenance can be incorporated in the architecture and design. 4) Identify trades such that the system and associated maintenance and logistics actions result in a solution that is affordable, operable, supportable, and sustainable. NOTE The System Analysis and Decision Management processes are used to perform the assessments and trade decisions. 5) Identify and plan for the necessary enabling systems or services needed to support maintenance. NOTE This includes identification of"
+}

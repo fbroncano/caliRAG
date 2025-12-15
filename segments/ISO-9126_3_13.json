@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "3.13",
+  "texto": "support process metrics metrics use metrics 14598-1.14598-2.14598-3.9126-1.14598-4.14598-6.9126-3.9126-2.9126-4.14598-5 Figure 1 - Relationship between ISO/IEC 9126 and ISO/IEC 14598 standards vi © ISO/IEC 2001 – All rights reserved INTERNATIONAL STANDARD ISO/IEC 9126-1:2001(E) Software engineering — Product quality — Part 1: Quality model 1 Scope This part of ISO/IEC 9126 describes a two-part model for software product quality: a) internal quality and external quality, and b) quality in use. The first part of the model specifies six characteristics for internal and external quality, which are further subdivided into subcharacteristics. These subcharacteristics are manifested externally when"
+}

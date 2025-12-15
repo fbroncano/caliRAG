@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "93.1",
+  "texto": "7.1 Quality in use The capability of the software product to enable specified users to achieve specified goals with effectiveness, productivity, safety and satisfaction in specified contexts of use. NOTE 1 Quality in use is the user's view of the quality of an environment containing software, and is measured from the results of using the software in the environment, rather than properties of the software itself. NOTE 2 The definition of quality in use in ISO/IEC 14598-1 (which is reproduced in annex B) does not currently include the new characteristic of “safety”. NOTE 3 Usability is defined in ISO 9241-11 in a similar way to the definition of quality in use in this part of ISO/IEC 9126."
+}

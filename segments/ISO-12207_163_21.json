@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.21",
+  "texto": "architecture view, interface control documents, software license agreements, and other agreement requirements. 2) Capture, store and report configuration management data. f) Perform configuration evaluation. This activity consists of the following tasks: 1) Identify the need for CM audits, and schedule the events. 2) Verify the product configuration meets the configuration requirements by comparing requirements, constraints, and waivers (variances) with results of formal verification activities, which can involve sampling methods. 3) Monitor the incorporation of approved configuration changes. 4) Assess whether the software system meets functional and performance capabilities identified for"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "169.6",
+  "texto": "records, and record the status of information. NOTE 1 Information items are maintained according to their integrity, security and privacy requirements. The status of information items is maintained, (e.g., version description, date of issue or validity date, record of distribution, security classification). Legible information is stored and retained in such a way that it is readily retrievable. NOTE 2 The source data and tools used to transform information, along with the resulting documentation is placed under configuration control in accordance with the Configuration Management process. ISO/IEC/IEEE 26531 provides requirements for content management systems useful for life cycle"
+}

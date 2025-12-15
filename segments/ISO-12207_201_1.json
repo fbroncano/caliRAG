@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "201.1",
+  "texto": "6.4.9.1 Purpose The purpose of the Verification process is to provide objective evidence that a system or system element fulfils its specified requirements and characteristics. The Verification process identifies the anomalies (errors, defects, or faults) in any information item (e.g., system/software requirements or architecture description), implemented system elements, or life cycle processes using appropriate methods, techniques, standards or rules. This process provides the necessary information to determine resolution of identified anomalies. Verification can be performed across all technical processes. The Verification process is typically used at key points in a software system’s"
+}

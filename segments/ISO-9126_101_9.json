@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.9",
+  "texto": "a product meets the needs of specified users to achieve specified goals with effectiveness, productivity, safety and satisfaction in a specified context of use . Evaluating quality in use validates software product quality in specific user-task scenarios. NOTE ISO/IEC FDIS 14598-6 Annex D, contains an informative example of a quality in use evaluation module. Quality in use is the user's view of the quality of a system containing software, and is measured in terms of the result of using the software, rather than properties of the software itself. Quality in use is the combined effect of internal and external quality for the user. The relationship of quality in use to the other software"
+}

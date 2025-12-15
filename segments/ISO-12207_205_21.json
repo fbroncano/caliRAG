@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.21",
+  "texto": "acceptance testing, include criteria to determine whether the delivered product is fit to use or not. Acceptance criteria for acceptance can be specified and agreed between two parties, i.e., an acquirer and a supplier, and included in the stakeholder requirements. NOTE 3 IEEE Std 1012‐2012, IEEE Standard for System and Software Verification and Validation, provides detailed requirements. The SWEBOK, Guide to the Software Engineering Body of Knowledge, discusses software verification and validation in terms of software Quality Management processes, and contains methods and techniques that support both verification and validation. The SWEBOK also addresses topics such as requirements and"
+}

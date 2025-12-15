@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.42",
+  "texto": "strategy. 2) Establish traceability between the detailed design elements, the system/software requirements, and the architectural entities of the software system architecture. NOTE 1 This task facilitates providing feedback to the Architecture Definition process for potential modifications, for example, to modify the allocation of software system elements in order to obtain the expected architectural characteristics; or possibly to modify the expected architectural characteristic due to factors discovered during the design process, or to make stakeholders aware of the potential impacts. NOTE 2 Through the life cycle, bidirectional traceability is maintained between the design and the"
+}

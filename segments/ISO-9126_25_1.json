@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "25.1",
+  "texto": "6.1 Functionality The capability of the software product to provide functions which meet stated and implied needs when the software is used under specified conditions. NOTE 1 This characteristic is concerned with what the software does to fulfil needs, whereas the other characteristics are mainly concerned with when and how it fulfils needs. NOTE 2 For the stated and implied needs in this characteristic, the note to the definition of quality in B.21 applies. NOTE 3 For a system which is operated by a user, the combination of functionality, reliability, usability and efficiency can be measured externally by quality in use (see clause 7). © ISO/IEC 2001 – All rights reserved 7 ISO/IEC"
+}

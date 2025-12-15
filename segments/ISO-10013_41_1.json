@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10013",
+  "clausula": "41.1",
+  "texto": "4.2.4.6 Flujos de trabajo automatizados Los flujos de trabajo automatizados son procesos que pueden administrar y controlar el flujo de actividades en una secuencia definida de tareas con intervención humana predeterminada. Al ejecutar la actividad, los menús desplegables específicos del contexto o las ventanas emergentes pueden guiar al usuario en completar una transacción. Los flujos de trabajo automatizados pueden mejorar la coherencia del proceso (es decir, la corrección de errores) y el rendimiento a través del diseño del flujo de trabajo, y pueden dar lugar a la toma de decisiones automatizada mediante el análisis de datos en áreas interrelacionadas. Un flujo de trabajo automatizado"
+}

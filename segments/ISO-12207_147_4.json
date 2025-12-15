@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "147.4",
+  "texto": "detailed information regarding life cycle stages and the definition of an appropriate life cycle model. It defines a general set of exemplar system life cycle stages, including Concept, Development, Production, Utilization, Support and Retirement. It also identifies a generic exemplar set of software life cycle stages, including Needs determination, Concept exploration and definition, Demonstration and evaluation, Engineering/development, Production/manufacturing, Deployment/sales, Operations, Maintenance and support, and Retirement. 4) Establish a work breakdown structure (WBS) based on the deliverable products or the evolving architecture of the software system. NOTE 1 Each element of the"
+}

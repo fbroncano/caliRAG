@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.19",
+  "texto": "Maintain traceability of the system elements being maintained. NOTE Bidirectional traceability is maintained between the recorded maintenance actions and the software system elements and life cycle artifacts. Changes in software asset management, such as assignment of software licenses to replacement systems, are recorded. 4) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management process is used to establish and maintain configuration items and baselines and to track licenses and data rights. This process identifies candidates for the baseline, and the Information Management process controls the information items, such as"
+}

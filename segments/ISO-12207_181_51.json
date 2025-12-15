@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.51",
+  "texto": "Conditions for performance of functions often involve interoperability across functions or elements. For example, some software requirements (e.g., a performance timing limit) can be allocated across multiple software system elements, affecting treatment of the requirement in a test case or regression test. 3) Define necessary implementation constraints. NOTE For software elements, this includes the implementation decisions that are allocated from architecture definition at higher levels in the software system, introduced by stakeholder requirements, or solution limitations. Implementation constraints include the conditions under which the system is to be capable of performing the function,"
+}

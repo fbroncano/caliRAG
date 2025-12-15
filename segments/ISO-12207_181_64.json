@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.64",
+  "texto": "maintained between the system/software requirements and the stakeholder requirements, architectural entities, interface definitions, analysis results, verification methods or techniques, and allocated, decomposed, and derived requirements. Traceability allows verification that achievable stakeholder requirements are met by one or more system or element requirements, and such requirements meet or contribute to meeting at least one stakeholder requirement. Traceability is often facilitated by an appropriate data repository or integrated development and test infrastructure. 3) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management"
+}

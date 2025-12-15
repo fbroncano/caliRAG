@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.5",
+  "texto": "practical solutions; b) there is a hierarchical or other relationship between system elements; c) an entity at any level in the system‐of‐interest can be viewed as a system; d) a system comprises an integrated, defined set of subordinate system elements; e) humans can be viewed as both users external to a system and as system elements (i.e., operators) within a system; and f) a system can be viewed in isolation as an entity, i.e., a product; or as a collection of functions capable of interacting with its surrounding environment, i.e., a set of services. Whatever the boundaries chosen to define the system, the concepts in this document are generic and permit a practitioner to correlate or"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.11",
+  "texto": "evaluation requirements, for example: • a user or a user’s business unit could evaluate the suitability of a software product using metrics for quality in use; • an acquirer could evaluate a software product against criterion values of external measures of functionality, reliability, usability and efficiency, or of quality in use; • a maintainer could evaluate a software product using metrics for maintainability; • a person responsible for implementing the software in different environments could evaluate a software product using metrics for portability; • a developer could evaluate a software product against criterion values using internal measures of any of the quality characteristics."
+}

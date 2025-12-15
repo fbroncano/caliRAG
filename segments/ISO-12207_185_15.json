@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.15",
+  "texto": "more information on architecture framework and architecture description practices. 68 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) 3) Capture rationale for selection of framework(s), viewpoints and model kinds. 4) Select or develop supporting modelling techniques and tools. NOTE Both the SWEBOK and ISO/IEC TR 24748‐3 describe modeling techniques that support Architecture Definition and Design Definition of software elements. c) Develop models and views of candidate architectures."
+}

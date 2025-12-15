@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15504",
+  "clausula": "17.4",
+  "texto": "the assessment model(s) selected for the assessment. This assessment model(s) have to be compatible with the reference model defined in ISO/IEC TR 15504-2. This two-dimensional model consists of a set of processes and a set of process attributes. The process attributes apply across all processes. They are grouped into capability levels that may be used to determine the capability of the process. The assessment output includes a set of process profiles and optionally a capability level rating for each process assessed. The assessment process contains at least five specified activities: planning, data collection, data validation, process rating, and reporting. The assessment process must be"
+}

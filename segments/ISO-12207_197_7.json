@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.7",
+  "texto": "used in its intended operational environment according to stakeholder requirements. 1) Realize or adapt software elements, according to the strategy, constraints, and defined implementation procedures. NOTE 1 Software elements are acquired, identified for reuse from organizational assets, or developed (constructed). Software elements that are acquired can range from a simple product purchase in accordance with organizational or project purchasing rules to a complex acquisition of a software system that involves the Acquisition and Supply processes. Adaptation includes configuration of software elements that are reused or modified. Construction can involve software coding, adaptive reuse and"
+}

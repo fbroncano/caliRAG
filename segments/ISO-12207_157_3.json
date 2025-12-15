@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "157.3",
+  "texto": "project risk process. 2) Define and record the context of the Risk Management process. NOTE 1 This includes a description of stakeholders’ perspectives, risk categories, and a description (perhaps by reference) of the technical and managerial objectives, assumptions and constraints. The risk categories include the relevant technical areas of the software system and facilitate identification of risks across the product life cycle. As noted in ISO 31000, the aim of this step is to generate a comprehensive list of risks based on those events that might create, enhance, prevent, degrade, accelerate, or delay the achievement of objectives. NOTE 2 Opportunities, which are one type of risk, provide"
+}

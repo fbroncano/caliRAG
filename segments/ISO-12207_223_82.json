@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.82",
+  "texto": "not being able to achieve the necessary application security, resulting in a risk to the users including the interface partners, or resulting in the software not being used as intended. Software security is a risk category in each risk analysis. h) The Configuration Management process (6.3.5) provides for the establishment and maintenance of the integrity of all identified outputs of a project or process, including the monitoring of assets and security of designated storage systems, and makes them available to authorized parties. This includes records of changes made to the software and software releases, as well as control and audit of all accesses to the software items that handle security"
+}

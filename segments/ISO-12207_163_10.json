@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.10",
+  "texto": "identifiers facilitate traceability when more than one developer or maintenance programmer is working on the same software function, so that various branches of code can be successfully reassembled and tested. NOTE 3 The ISO/IEC 19770 standard (multiple parts) provides an IT Asset management system for tracking software licenses. 2) Identify the attributes of configuration items. NOTE 1 Attributes refers to item status, or physical or logical features useful for managing or maintaining the software system. Appropriate attributes can differ for hardware and software configuration items. NOTE 2 Configuration attributes and identifiers can reflect a decomposition of the software system, so that"
+}

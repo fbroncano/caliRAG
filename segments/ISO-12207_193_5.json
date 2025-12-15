@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "193.5",
+  "texto": "validate contexts and assumptions. 2) Apply the selected analysis methods to perform the required analysis. 3) Review the analysis results for quality and validity. NOTE The results are coordinated with associated analyzes that have been previously completed. 4) Establish conclusions and recommendations. NOTE The appropriate subject matter experts and stakeholders are identified and engaged in this task. 5) Record the results of the system analysis, c) Manage the system analysis. This activity consists of the following tasks: 1) Maintain traceability of the analysis results. NOTE Through the life cycle, bidirectional traceability is maintained between the analysis results and any software"
+}

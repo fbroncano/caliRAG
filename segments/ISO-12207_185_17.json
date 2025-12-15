@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.17",
+  "texto": "the necessary enabling systems. The Architecture Definition process defines interfaces to the extent needed to support essential architectural decisions and understanding. These interface definitions are then refined by the Design Definition process. 2) Identify architectural entities and relationships between entities that address key stakeholder concerns and critical software system requirements. NOTE Architecture is not necessarily concerned with all requirements, but rather only with those system/software requirements that drive the architecture. On the other hand, the Design Definition process addresses and takes into account all the requirements. Sometimes, through the Architecture"
+}

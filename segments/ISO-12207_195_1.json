@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "195.1",
+  "texto": "6.4.7.2 Outcomes As a result of the successful implementation of the Implementation process: a) Implementation constraints that influence the requirements, architecture, or design are identified. b) A system element is realized. c) A system element is packaged or stored. d) Any enabling systems or services needed for implementation are available. e) Traceability is established."
+}

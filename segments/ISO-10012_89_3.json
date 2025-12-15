@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "89.3",
+  "texto": "presentarse como “declaraciones genéricas” para tipos de equipos de medición similares, agregando las contribuciones correspondientes para los procesos de medición individuales. La incertidumbre del resultado de la medición debería tener en cuenta, entre otras contribuciones, la incertidumbre de la calibración del equipo de medición. En la estimación de la incertidumbre, puede ayudar el uso apropiado de técnicas estadísticas para analizar los resultados de calibraciones previas y para evaluar los resultados de calibraciones de equipos de medición similares."
+}

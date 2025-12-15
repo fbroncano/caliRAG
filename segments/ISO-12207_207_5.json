@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.5",
+  "texto": "verification is used for non‐functional requirements. Potential validation actions that are candidates for deletion are evaluated for the risks their withdrawal imposes NOTE 2 The supplier, the acquirer, or an agent of the acquirer participates in or performs validation. The responsibility is often designated in the agreement. 2) Identify system constraints from the validation strategy to be incorporated in the stakeholder requirements. 3) Define the purpose, conditions and conformance criteria for each validation action. 4) Select appropriate validation methods or techniques and associated criteria for each validation action. NOTE 1 Software system validation methods or techniques include"
+}

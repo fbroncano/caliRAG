@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.5",
+  "texto": "specified as quality requirements by quality in use metrics, by external metrics, and sometimes by internal metrics. These requirements specified by metrics should be used as criteria when a product is validated. Achieving a product which satisfies the user’s needs normally requires an iterative approach to software development with continual feedback from a user perspective. 4 © ISO/IEC 2001 – All rights reserved ISO/IEC 9126-1:2001(E) NOTE Guidance on design processes for interactive systems is given in ISO 13407. External Quality Requirements specify the required level of quality from the external view. They include requirements derived from user quality needs, including quality in use"
+}

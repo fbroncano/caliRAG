@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "261.1",
+  "texto": "7.7.1 General description Reliability analysis is the application of engineering and analytical methods to the assessment, prediction and assurance of problem-free performance over time of a product or system under study. The methods used in reliability analysis often require the use of statistical techniques to deal with uncertainties, random characteristics or the probabilities of occurrence (of failures, etc.) over time. Such analyses generally involve the use of appropriate statistical models to characterize variables of interest, such as the time-to-failure or mean-time-between-failures. The parameters of these statistical models are estimated from empirical data obtained through"
+}

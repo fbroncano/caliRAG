@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.104",
+  "texto": "general objects) and their use in the system functions (frequency of change, data volume, use in searching) as well as the logical relationships among data elements. Data models are applied in the development of interfaces and software services, data analysis, and data reporting. Physical data models reflect the schema for storage and retrieval of data records. F.2.4 Behavioral model A behavioral model (dynamic model) is an arrangement of functions and interfaces (internal and external) that defines how the system or its elements act under conditions to sustain the operational scenarios, including the execution sequencing, synchronization, and concurrency, the conditions for behavioral"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "103.6",
+  "texto": "cycle can be dynamic, responding to the many external influences on the software system. The life cycle approach also allows for incorporating the changes in the next stage. The life cycle stages assist the planning, execution and management of life cycle processes in the face of this complexity in life cycles by providing comprehensible and recognizable high‐ level purpose and structure. The set of processes within a life cycle stage are applied with the common goal of satisfying the exit criteria for that stage or the entry criteria of the formal progress reviews within that stage. The discussion in this section on iterative and recursive use of software life cycle processes is not meant"
+}

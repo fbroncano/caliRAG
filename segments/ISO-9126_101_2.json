@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.2",
+  "texto": "time during a trial of the software, and internally by inspecting the detailed specifications and source code to assess the level of fault tolerance. The internal attributes are said to be indicators of the external attributes. An internal attribute may influence one or more characteristics, and a characteristic may be influenced by more than one attribute (Figure A.1). In this model the totality of software product quality attributes are classified in a hierarchical tree structure of characteristics and subcharacteristics. The highest level of this structure consists of quality characteristics and the lowest level consists of software quality attributes. The hierarchy is not perfect, as"
+}

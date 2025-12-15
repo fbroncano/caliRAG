@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.12",
+  "texto": "services that can address the need for operational or functional modifications. This includes deducing what potential expected services will be needed. The solution space characterization often invokes the Architecture Definition process for a user architecture viewpoint, resulting in architecture views (e.g., capability views, program views and operational views) as proposed by ISO/IEC/IEEE 42010. d) Evaluate alternative solution classes. This activity consists of the following tasks: 1) Assess each alternative solution class. NOTE 1 Each alternative solution class is assessed against defined criteria that are established based on the organization’s strategy. Feasibility of the solution"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.37",
+  "texto": "process based on the design characteristics, interfaces, and interactions of software elements with other elements composing the software system and with external entities. Additional interfaces are sometimes identified and defined that were not addressed in the architecture definition. 5) Establish the design artifacts. NOTE This task formalizes the design characteristics of the software system elements through dedicated artifacts, depending on the implementation technology. Examples of artifacts include prototypes, data models, pseudocode, entity‐ relationship diagrams, use cases, user role and privilege matrixes, interface specifications, service descriptions, and 72 © ISO/IEC 2017 – All"
+}

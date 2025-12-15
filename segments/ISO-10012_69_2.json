@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "69.2",
+  "texto": "por ejemplo, ajustadores a cero. Debería ponerse especial atención a las medidas de protección contra escritura que impidan cambios no autorizados en el software de aplicación o en el de programación. Normalmente se deja a la función metrológica la decisión sobre qué equipo de medición debería ser sellado, los controles o ajustes que serán sellados, y el tipo de material para ello, como etiquetas, soldadura, alambre, pintura, etc. La implementación de un programa de sellado por la función metrológica debería estar documentada. No todos los equipos de medición son susceptibles de sellarse."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "53.1",
+  "texto": "6.3.3 Operability The capability of the software product to enable the user to operate and control it. NOTE 1 Aspects of suitability, changeability, adaptability and installability may affect operability. NOTE 2 Operability corresponds to controllability, error tolerance and conformity with user expectations as defined in ISO 9241-10. NOTE 3 For a system which is operated by a user, the combination of functionality, reliability, usability and efficiency can be measured externally by quality in use. © ISO/IEC 2001 – All rights reserved 9 ISO/IEC 9126-1:2001(E)"
+}

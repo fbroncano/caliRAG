@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.48",
+  "texto": "in projects using agile methods. 3) Identify and plan for the necessary enabling systems or services needed to support system/software requirements definition. NOTE This includes identification of requirements and interfaces for the enabling systems. Enabling systems for requirements definition include tools for facilitation and requirements management. Tools for software requirements management which are integrated with software development, test, and CM can simplify tracking and expedite software construction. Plans for enabling systems and description of modeling techniques used in support of the System/Software Requirements Definition process can be incorporated into an SDP. 4) Obtain or"
+}

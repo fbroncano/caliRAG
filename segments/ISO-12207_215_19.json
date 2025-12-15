@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.19",
+  "texto": "elements can include hardware, software, and services, such as communication or web services. Maintenance is closely connected with the Configuration Management process and software asset management and is performed concurrently with the other Technical processes. NOTE ISO/IEC/IEEE 14764:2006 Software Engineering — Software Life Cycle Processes — Maintenance and ISO/IEC 16350, Information technology — Systems and software engineering — Application management, provide additional detail. The SWEBOK, Guide to the Software Engineering Body of Knowledge, Software Maintenance knowledge area discusses software maintenance fundamentals, key issues, measurement, techniques, maintenance process and"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.14",
+  "texto": "system qualification testing. Often simple or recommended solutions to anomalies discovered during verification, are recorded with the verification result to facilitate analysis and potential corrective action. 2) Record incidents and problems during verification and track their resolution. NOTE 1 Performing problem resolution is handled through the Quality Assurance and Project Assessment and Control processes. During software verification, the conditions under which the problem occurred are documented so that if possible, the problem can be duplicated and the root cause of the software defect identified. Changes to the requirements, architecture, design, or system elements are done using"
+}

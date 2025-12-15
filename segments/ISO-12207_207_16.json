@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.16",
+  "texto": "requirements and record of validation results. 5) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management process is used to establish and maintain configuration items and baselines. This process identifies candidates for the baseline (such as the validated software system or element), and the Information Management process controls the information items. For this process, the validation strategy and validation results are typical information items that are baselined."
+}

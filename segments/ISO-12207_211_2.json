@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "211.2",
+  "texto": "(e.g., the internet) are active. The security, availability, and operational performance of the software system‐of‐interest are thus a matter of concern within a larger system of systems. It can include coordination with pre‐existing, concurrent or continuing services delivered by other systems that provide identical or similar services. NOTE ISO/IEC 20000‐1:2011 (IEEE Std 20000‐1) is a service management system standard that specifies requirements for the design, transition, delivery and improvement of managed operational services, and supports the Operation process to achieve its purpose."
+}

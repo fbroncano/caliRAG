@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.53",
+  "texto": "security and software assurance, reliability, availability and supportability (maintainability), and time constraints for throughput and performance. The System Analysis process can be used to determine appropriate values for performance requirements, considering the anticipated cost of achieving them and their impact on operation and use of the system. NOTE 2 Analysis and definition of safety considerations include those requirements relating to methods of operation and maintenance, environmental influences, and risk of personnel injury. It also includes expressing each safety‐related function and its associated integrity, in terms of the necessary risk reduction and allocation to"
+}

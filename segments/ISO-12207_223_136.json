@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.136",
+  "texto": "this document in which processes occur concurrently, as contrasted with sequentially staged (idealized waterfall) projects. In agile projects, concept exploration, development, construction, testing, transition, and retirement of previous software can be performed concurrently for successive iterations. Agile projects often perform replanning concurrently with the activities mentioned above. In such approaches, using the end of a stage as a management checkpoint or control is not very useful. Other agile approaches perform replanning at points between designated iterations (e.g., sprints or pre‐defined time‐boxed cadences) so that each of these iterations can be treated as a stage. Agile"
+}

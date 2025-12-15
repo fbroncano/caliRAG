@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "177.9",
+  "texto": "management. b) Perform product or service evaluations. This activity consists of the following tasks: 1) Evaluate products and services for conformance to established criteria, contracts, standards, and regulations. NOTE This task includes verifying if criteria for product or service acceptance are reflected in verification and validation activities. Derived system/software quality requirements are usually associated with quality characteristics during requirements definition processes. ISO/IEC 25010 and ISO/IEC 25030 provide additional information on system/software quality characteristics. 2) Monitor that verification and validation of the outputs of the life cycle processes are performed"
+}

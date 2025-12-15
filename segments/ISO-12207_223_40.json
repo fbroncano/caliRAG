@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.40",
+  "texto": "ISO/IEC/IEEE 12207:2017(E) A task is a detailed provision for implementation of a process. It may be presented as a requirement (“shall”), a recommendation (“should”) or a permission (“may”). Notes are used to explain the intent or mechanics of a process, activity, or task. Notes provide insight regarding potential implementation or areas of applicability, such as lists, examples, and other considerations. 0… PROCESS Name Purpose Outcome 1.1.1… ACTIVITY Name 1.1… TASK 1.0… NOTE Figure D.1 — ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE 15288:2015 process constructs 110 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.114",
+  "texto": "authority over the constituent systems despite the fact that the constituent systems were not originally engineered to support the SoS. Somewhat less control is afforded for acknowledged SoS, where allocated authority between the constituent systems and the systems of systems has an impact on application of some of the systems engineering processes. In collaborative SoS, which lack system of systems authorities, application of systems engineering depends on cooperation among the constituent systems. Virtual systems of systems are largely self‐organizing and limit opportunity for systems engineering of the SoS. Table G.1 — System of Systems types Type Characteristic Virtual  Decentralized"
+}

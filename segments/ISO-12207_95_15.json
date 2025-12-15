@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "95.15",
+  "texto": "surprises occurring late in the development cycle. The “iterative development” model performs initial planning and then consists of a cyclic process of prototyping, testing, analyzing and refining the requirements and the solution. “Iterative” models repeatedly perform the life cycle processes to deliver prioritized system functions sooner, with refined or more complex elements of the system coming in later iterations. The “evolutionary model” is intended to deal with incomplete knowledge of requirements. It provides for initial planning and initial architecture definition, but allocates requirements analysis, design, construction, verification, validation and delivery to a series of stages."
+}

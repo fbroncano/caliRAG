@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "95.11",
+  "texto": "document does not prescribe any particular sequence of processes within the life cycle model. The sequence of the processes is determined by project objectives and by selection of the life cycle model. Often, the development stage is subdivided more finely and in different ways. One oft‐cited set of software development stages are elicitation, requirements, design, construction, and testing‐ the predictive or “waterfall” model. If the stages are considered as sequential, then each stage is required to produce correct results before proceeding to the next stage. In practice, this is extremely difficult to achieve unless the requirements are known well and the initial cost estimates are"
+}

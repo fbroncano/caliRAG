@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "5.1",
+  "texto": "1.4 Limitations This document does not prescribe a specific software life cycle model, development methodology, method, modelling approach, or technique. The users of this document are responsible for selecting a life cycle model for the project and mapping the processes, activities, and tasks in this document into that model. The parties are also responsible for selecting and applying appropriate methodologies, methods, models and techniques suitable for the project. This document does not establish a management system or require the use of any management system standard. However, it is intended to be compatible with the quality management system specified by ISO 9001, the service"
+}

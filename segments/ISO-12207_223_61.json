@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.61",
+  "texto": "characteristics that have been selected as being of special interest. This example treats a specific instance of a process view, called interface management, which includes interface definition, design, and change management. Within this document, the tasks that comprise interface management are fully contained within the existing processes. NOTE For software systems, interfaces with other systems are a typical way of receiving input data or exporting output data (reports). Interfaces with external systems and services allow the software system to function in its operating environment and with enabling systems. The GUI is a special interface for human interaction with the software system."
+}

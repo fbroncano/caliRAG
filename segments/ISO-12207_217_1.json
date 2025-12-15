@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "217.1",
+  "texto": "6.4.13.2 Outcomes As a result of the successful implementation of the Maintenance process: a) Maintenance constraints that influence system requirements, architecture, or design are identified. b) Any enabling systems or services needed for maintenance are available. c) Replacement, repaired, or revised system elements are made available. d) The need for changes to address corrective, perfective, or adaptive maintenance is reported. e) Failure and lifetime data, including associated costs, is determined."
+}

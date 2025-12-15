@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.19",
+  "texto": "of functional software. Transition includes recurring scheduled or emergency patches and fixes for security and other concerns. Transition can involve transfer between organizations and also encompasses the addition of a large group of new users to an existing software system or service. Transition to a new system often is performed concurrently with retirement and disposal of an existing system, entailing data migration from the old system to its replacement. NOTE Transition can involve knowledge transfer using the Knowledge Management process. 6.4.10.2 Outcomes As a result of the successful implementation of the Transition process: a) Transition constraints that influence system/software"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.86",
+  "texto": "the context of how the software is intended to function; and in consideration of misuse and abuse scenarios. Stakeholders need to agree upon what aspects of software assurance are sufficient. Relevant activities and tasks include a)2); b)1) and 2); and c) (all tasks). n) The System/Software Requirements Definition process (6.4.3) provides for the selection and definition of software assurance (information security) related requirements, including confidentiality, availability and integrity in the context of how the software is intended to function; and requirements for software integrity in the event of misuse and abuse. Relevant activities and tasks include b)3) and 4); and c) 3). o) The"
+}

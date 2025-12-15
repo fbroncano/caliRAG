@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.8",
+  "texto": "(that in turn is comprised of system elements) before a complete set of system elements can be defined with confidence (Figure 2). In this manner, the appropriate system life cycle processes are applied recursively to a system‐of‐interest to resolve its structure to the point where understandable and manageable software system elements can be implemented (created, adapted, acquired, or reused). Software System-of- Interest Software System System System Element System System Software System Software Software Element Element System Element Element System System Software Software System Software Software Element Element Element System System Software System System Software Software System"
+}

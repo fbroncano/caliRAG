@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "5.1",
+  "texto": "2 Conformance Any software product quality requirement, specification or evaluation that conforms to this part of ISO/IEC 9126 shall either use the characteristics and subcharacteristics from clauses 6 and 7, giving the reasons for any exclusions, or describe its own categorisation of software product quality attributes and provide a mapping to the characteristics and subcharacteristics in clauses 6 and 7. A software product quality requirement or specification that contains metrics used for comparison shall state whether the metrics have the properties specified in A.4."
+}

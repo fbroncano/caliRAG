@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.16",
+  "texto": "This activity consists of the following tasks: 1) Define the software system context and boundaries in terms of interfaces and interactions with external entities. NOTE This task is mainly based on the outcomes of the Business or Mission Analysis process, and is performed concurrently with the Stakeholder Needs and Requirements Definition process. It consists of identifying the entities external to the software system (i.e., existing and projected systems, products, and services that constitute the system context) and defining the boundaries of the software system (i.e., interactions with these external entities through the interfaces that cross the boundaries). The external entities include"
+}

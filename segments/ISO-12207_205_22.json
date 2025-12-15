@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.22",
+  "texto": "model validation. 6.4.11.2 Outcomes As a result of the successful implementation of the Validation process a) Validation criteria for stakeholder requirements are defined. b) The availability of services required by stakeholders is confirmed. c) Constraints of validation that influence the requirements, architecture, or design are identified. d) The system or system element is validated. e) Any enabling systems or services needed for validation are available. f) Validation results and anomalies are identified. g) Objective evidence that the realized system or system element satisfies stakeholder needs is provided. 89 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved"
+}

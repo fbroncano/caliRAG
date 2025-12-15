@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.12",
+  "texto": "designated stakeholders, the definition of architecture review activities, evaluation approach and criteria, measurement approach, and measurement methods (refer to the Measurement process). The roadmap shows how the architecture will evolve to an envisioned end state and often has a longer timeframe than for the current system‐of‐interest. The approach is the manner in which the work will be accomplished, such as how to engage with stakeholders, how to vet the results, or where to do the work. The strategy deals with the systematic plan of action for implementing the approach consistent with the roadmap. 4) Define architecture evaluation criteria based on stakeholder concerns and key"
+}

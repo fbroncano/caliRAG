@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.71",
+  "texto": "the services provided by the system meet the system requirements, including the interface requirements. The process provides for the planning and execution of a strategy to perform verification, including the interface requirements. The selected verification strategy may introduce interface constraints that affect their implementation. Relevant activities and tasks include a)1) and 3); b)1), 2); and c)1). q) The Transition process (6.4.10) provides for planning and migrating the software system or elements and data sets into a different environment using interfaces, and establishing the use of interfaces in the new system. This includes identifying constraints, and checking the installation,"
+}

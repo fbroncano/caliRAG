@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.10",
+  "texto": "achieves its intended use for its enabling functions. b) Perform validation. This activity consists of the following tasks: 1) Define the validation procedures, each supporting one or a set of validation actions. NOTE Validation procedures identify stakeholder requirements to be validated, the associated software system artifact (e.g., the actual system, or a model, a mock‐up, a prototype, code, a set of instructions or other information item), and the expected results (success criteria), such as completed and timely performance of a function. The procedures identify the purpose of the validation with success criteria (expected results), the validation technique to be applied, the necessary"
+}

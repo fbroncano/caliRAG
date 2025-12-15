@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.43",
+  "texto": "of a process view does not include activities and tasks. Instead, the description includes guidance explaining how the outcomes can be achieved by employing the activities and tasks of the various processes in ISO/IEC/IEEE 15288 and ISO/IEC/IEEE 12207. Process views can be constructed using the process viewpoint template found in E.3. E.3 Process viewpoint A process view conforms to a process viewpoint. The process viewpoint provided here can be used to create process views. 1) The Process viewpoint is defined by: 1) its stakeholders: users of this document; and 2) the concerns it frames: the processes needed to reflect a particular engineering interest. 2) The contents of resulting process"
+}

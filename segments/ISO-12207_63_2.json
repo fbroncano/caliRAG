@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "63.2",
+  "texto": "software system element can include one or more software units, software elements, hardware units, hardware elements, services, and other system elements and systems. Note 2 to entry: A software system element can be viewed as a system element. 3.1.57 software unit atomic‐level software component of the software architecture that can be subjected to standalone testing Note 1 to entry: Some software units are separately compilable pieces of code. [SOURCE: ISO 26262‐1:2011, modified, Note 1 to entry added.] 3.1.58 stage period within the life cycle of an entity that relates to the state of its description or realization Note 1 to entry: As used in this document, stages relate to major progress"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.6",
+  "texto": "Architecture views and models of the system are developed. e) Concepts, properties, characteristics, behaviors, functions, or constraints that are significant to architecture decisions of the system are allocated to architectural entities. f) System elements and their interfaces are identified. g) Architecture candidates are assessed. h) An architectural basis for processes throughout the life cycle is achieved. i) Alignment of the architecture with requirements and design characteristics is achieved. j) Any enabling systems or services needed for architecture definition are available. k) Traceability of architecture elements to stakeholder and system/software requirements is developed."
+}

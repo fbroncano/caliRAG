@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "15.3",
+  "texto": "quality, and evaluating and improving product quality is one means of improving quality in use. Similarly, evaluating quality in use can provide feedback to improve a product, and evaluating a product can provide feedback to improve a process. Appropriate internal attributes of the software are a pre-requisite for achieving the required external behaviour, and appropriate external behaviour is a pre-requisite for achieving quality in use (Figure 2). The requirements for software product quality will generally include assessment criteria for internal quality, external quality and quality in use, to meet the needs of developers, maintainers, acquirers and end users. (See ISO/IEC 14598-1:1999,"
+}

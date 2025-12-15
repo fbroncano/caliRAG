@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.42",
+  "texto": "or set of functions and this process can be used to further specify requirements. Requirements analyzes and tools support traceability of requirements between the software system and its elements. NOTE 2 The SWEBOK, Guide to the Software Engineering Body of Knowledge, Software Requirements knowledge area discusses software requirements definition, analysis, modelling, specification, validation, management and other topics that provide additional guidance for software systems. NOTE 3 The wording of the outcomes of the System/Software Requirements Definition process differs slightly from the outcomes in the System Requirements Definition process of ISO/IEC/IEEE 15288:2015. Use of the wording"
+}

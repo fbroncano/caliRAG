@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "319.2",
+  "texto": "at how each observation is correlated with the observation immediately before it, and repeating this for each successive lagged period; — finding patterns (in, for example, sales) that are cyclical or seasonal, to understand how causal factors in the past can have repeated influences in the future; 26\b ﻿ © ISO 2021 – All rights reserved ISO 10017:2021(E) ﻿ — using statistical tools to predict future observations or to understand which causal factors have contributed most to variations in the time series. Key X time Y characteristic Figure 7 — Time series plot While the techniques employed in time series analysis can include simple “trend charts”, such elementary plots are listed among the"
+}

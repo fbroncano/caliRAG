@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.23",
+  "texto": "other relevant architecture descriptions. f) Manage the selected architecture. This activity consists of the following tasks: 1) Formalize the architecture governance approach and specify governance‐related roles and responsibilities, accountabilities, and authorities related to design, quality, security, and safety. 2) Obtain explicit acceptance of the architecture by stakeholders. NOTE The Validation process is used to confirm that the architecture models and views reflect stakeholder requirements, that stakeholder concerns are addressed, and to help ensure that future iterations of software system architecture better address stakeholder concerns. 3) Maintain concordance and completeness"
+}

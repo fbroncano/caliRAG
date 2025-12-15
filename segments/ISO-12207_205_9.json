@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.9",
+  "texto": "delivered electronically. For physical media, hardware, and embedded software systems, it is sometimes necessary to account for temporary storage prior to delivery or installation. NOTE 2 Deliver agreed information items in electronic or physical form, such as training material, logistics support packages, or user documentation. 3) Install the product in its physical or virtual operational location and interface to its environment. NOTE The product installation includes configuring it with required operational data, changes to the environment, or business process changes. Databases are instantiated and data migration is performed as applicable. Licenses and maintenance agreements for system"
+}

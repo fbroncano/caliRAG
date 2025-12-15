@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.18",
+  "texto": "correct source code versions are accessed, updated, tested and documented for approved changes by appropriate personnel, and released. 3) Track and manage distribution of software system releases to specified environments or software deliveries. NOTE Master copies or copies of incremental changes to released software versions can be maintained for the life of the system or project in a controlled environment. Software suppliers often track delivered copies of licensed software to the acquirer in order to provide agreed software maintenance. The software system release is stored and distributed in accordance with agreement and with the policies of the organizations involved. e) Perform"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.3",
+  "texto": "provide insight into performance levels; vi) The operational and occupational safety strategy for operators and others using or in contact with the software system during operation, accounting for safety regulations; and vii) The environmental protection and sustainability strategy for operating the software system. NOTE ISO/IEC 16350 Information technology – Systems and software engineering – Application management, provides guidance for operational aspects. 2) Identify system constraints from operation to be incorporated in changes to the system/software requirements, architecture, design, implementation, or transition. 3) Identify and plan for the necessary enabling systems or services"
+}

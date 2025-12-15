@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "19.1",
+  "texto": "5.3 Items to be evaluated Items can be evaluated by direct measurement, or indirectly by measuring their consequences. For example, a process may be assessed indirectly by measuring and evaluating it's product, and a product may be evaluated indirectly by measuring the task performance of a user (using quality in use metrics). Software never runs alone, but always as part of a larger system typically consisting of other software products with which it has interfaces, hardware, human operators, and workflows. The completed software product can be evaluated by the levels of the chosen external metrics. These metrics describe its interaction with its environment, and are assessed by observing"
+}

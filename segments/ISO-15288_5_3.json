@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-15288",
+  "clausula": "5.3",
+  "texto": "and concurrently to a system and recursively to the system elements. This document applies to one-of-a-kind systems, mass-produced systems, and customised, adaptable systems. It also applies to a complete stand-alone system and to systems that are embedded and integrated into larger more complex and complete systems. This document does not prescribe a specific system life cycle model, development methodology, method, modelling approach or technique. This document does not detail information items in terms of name, format, explicit content, and recording media. ISO/IEC/IEEE 15289 addresses the content for life cycle process information items (documentation)."
+}

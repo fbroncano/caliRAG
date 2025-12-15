@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.9",
+  "texto": "encountering unexpected faults that cause a software system failure, restore the system to operational status. NOTE Restoration to full or degraded operational status can often be accomplished through a rollback, workaround or by identifying and correcting the cause of the fault. If full restoration is delayed or not possible, the system is restored to a degraded mode, consistent with the contingency planning. If possible, the fault is replicated using a distinct environment 97 © ISO/IEC 2017 – All rights reserved © IEEE 2017 – All rights reserved Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore."
+}

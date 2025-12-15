@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "13.3",
+  "texto": "established within a specific domain of application and/or community of stakeholders EXAMPLE 1 Generalised Enterprise Reference Architecture and Methodologies (GERAM) [ISO 15704] is an architecture framework. EXAMPLE 2 Reference Model of Open Distributed Processing (RM‐ODP) [ISO/IEC 10746] is an architecture framework. [SOURCE: ISO/IEC/IEEE 42010:2011] 3.1.8 architecture view work product expressing the architecture of a system from the perspective of specific system concerns [SOURCE: ISO/IEC/IEEE 42010:2011] 3.1.9 architecture viewpoint work product establishing the conventions for the construction, interpretation and use of architecture views to frame specific system concerns [SOURCE:"
+}

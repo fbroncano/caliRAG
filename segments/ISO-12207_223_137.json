@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.137",
+  "texto": "projects can have closely tied cycles for development and software release (e.g., with daily, weekly, monthly scheduled releases) or can separate completion of development iterations from management of scheduled software releases, for the convenience of the customer or according to organizational strategy. Besides applying a highly iterative and evolutionary life cycle model, agile organizations have specific practices for the Project Planning and Project Assessment and Control processes. Rather than establishing major control points at the transition between stages or processes, agile projects often hold less formal checkpoints or retrospective reviews at the end of a time‐boxed cycle to"
+}

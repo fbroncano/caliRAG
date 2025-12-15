@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "23.1",
+  "texto": "3.1.15 configuration item item or aggregation of hardware, software, or both, that is designated for configuration management and treated as a single entity in the configuration management process EXAMPLE Software, firmware, data, hardware, humans, processes (e.g., processes for providing service to users), procedures (e.g., operator instructions and user manuals), facilities, services, materials, and naturally occurring entities"
+}

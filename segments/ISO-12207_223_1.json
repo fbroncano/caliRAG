@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.1",
+  "texto": "6.4.14.3 Activities and tasks The project shall implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the Disposal process. a) Prepare for disposal. This activity consists of the following tasks: 1) Define a disposal strategy for the software system, to include each system element and to identify and address critical disposal needs, including the following considerations: i) Permanent termination of the system’s functions and delivery of services, e.g., physical destruction of data storage devices, or transition of the software system elements for future reuse in modified or adapted form; ii) Identification of"
+}

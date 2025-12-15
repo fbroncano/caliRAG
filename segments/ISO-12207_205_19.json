@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.19",
+  "texto": "typically used at key points in a product’s life cycle to demonstrate that the product’s requirements for stakeholder intended operational use have been met. Validation is also applicable to the software engineering artifacts (viewed as software system elements). Different domains and engineering or development communities can identify the milestones, validation strategies and criteria differently. For software systems, highly iterative life cycle models often feature frequent involvement by the acquirer, user representative, or other stakeholders to validate, e.g., the priority of requirements for inclusion in an iteration, the usability of the software interface through prototypes, and the"
+}

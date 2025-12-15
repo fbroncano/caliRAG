@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.100",
+  "texto": "the application of this document.) A variety of views are used to represent how the system architecture addresses stakeholder concerns. Views are composed of models. For example, a logical view of software can represent business processes in its functions; a process view can represent the events and transformations occurring within different states of the software and can include concurrency and timing concerns; a structural view represents the different system components, which can be associated with physical or virtual system elements, an information view represents the relationships between data elements contained in and transformed by the software. Refer to ISO/IEC/IEEE 42010 for"
+}

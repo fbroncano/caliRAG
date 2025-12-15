@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "245.1",
+  "texto": "7.5.3 Limitations and cautions Process capability analysis assumes that the process is demonstrably stable. Therefore, process capability analysis should be performed in conjunction with control methods to ensure ongoing verification of control. Estimates of the percentage of nonconforming products are subject to assumptions of a normal distribution. When this is not realized in practice, such estimates should be treated with caution. 16\b ﻿ © ISO 2021 – All rights reserved ISO 10017:2021(E) ﻿ Likewise, in the case of processes that are subject to systematic assignable causes of variation, such as tool wear, specialized approaches should be used to calculate and interpret capability."
+}

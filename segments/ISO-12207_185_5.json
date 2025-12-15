@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.5",
+  "texto": "across the product line. ISO/IEC 26550:2013 describes establishing a domain architecture for a product line. NOTE 4 The SWEBOK (Guide to the Software Engineering Body of Knowledge) Software Requirements, Software Design and Software Engineering Models and Methods knowledge areas discuss key aspects of software architecture in relationship to the system, as well as with respect to iteration with design. 6.4.4.2 Outcomes As a result of the successful implementation of the Architecture Definition process: a) Identified stakeholder concerns are addressed by the architecture. b) Architecture viewpoints are developed. c) Context, boundaries, and external interfaces of the system are defined. d)"
+}

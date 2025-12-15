@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.4",
+  "texto": "software system, or the extent of the agreement or project, as appropriate. iv) Control of access and changes to and disposition of configuration items. v) The necessary baselines to be established, including criteria or events for commencing configuration control and maintaining baselines of evolving configurations. vi) Control of software licenses, data rights, and other intellectual property assets. vii) Frequency, priorities, and content of software versions and releases. viii) The audit strategy and the responsibilities for validating continuous integrity and security of the configuration definition information. ix) Change management, including preparing stakeholders and especially"
+}

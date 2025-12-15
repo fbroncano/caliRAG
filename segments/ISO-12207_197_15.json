@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.15",
+  "texto": "definition. The Project Assessment and Control and Quality Assurance processes are used to analyze the data to identify the root cause, enable corrective or improvement actions, and to record lessons learned. 2) Maintain traceability of the implemented software system elements. NOTE 1 To support traceability throughout the life cycle during operations and maintenance, sources of software licenses and other system assets in the supply chain are recorded. The information management and configuration management processes are used to maintain license and maintenance support terms for a software application and its required infrastructure (host system). The ISO/IEC 19770 standards provide"
+}

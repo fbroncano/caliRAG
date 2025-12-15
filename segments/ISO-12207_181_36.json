@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.36",
+  "texto": "characteristics include that the requirements are necessary, implementation‐ free, unambiguous, consistent, complete, singular, feasible, traceable, verifiable, affordable, and bounded. ISO/IEC/IEEE 29148 provides additional information on characteristics of requirements. NOTE 2 The System Analysis process is used to assess feasibility and affordability. The Verification and Validation processes are used in the review of stakeholder requirements. 2) Define critical performance measures that enable the assessment of technical achievement. NOTE This includes defining technical and quality measures and critical performance parameters associated with each effectiveness measure identified in the"
+}

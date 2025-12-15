@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "281.1",
+  "texto": "7.9.1 General description Simulation is a collective term for procedures by which a (theoretical or empirical) system is represented mathematically by a computer program for the definition (and eventual solution) of a problem. If the representation involves concepts of probability theory, in particular random variables, simulation can be called the “Monte Carlo method”. In the context of theoretical science, simulation is used if no comprehensive theory for the solution of a problem is known (or, if known, is impossible or difficult to solve), and where the solution can be obtained through brute computer force. In the empirical context, simulation is used if the system can be adequately"
+}

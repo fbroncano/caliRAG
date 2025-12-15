@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.117",
+  "texto": "regard to their role in the SoS, can result in new, unexpected behaviors. Identifying and addressing unanticipated emergent results is a particular challenge in engineering SoS. NOTE Some of the largest software SoS, such as the Internet, are virtual SoS in which the constituent systems are engineered to follow common recommendations and communication protocols. Virtual SoS can exhibit beneficial emerging behaviors such as redundancy, dynamic reconfiguration, collaboration and resilience. G.3 SE processes applied to systems of systems G.3.1 General The above characteristics of SoS have implications on the application of each of the four types of system life cycle processes. G.3.2 Agreement"
+}

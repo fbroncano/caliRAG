@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.24",
+  "texto": "of the architectural entities and their architectural characteristics. NOTE The entities to be checked are not only technical. These are also, for example, legal, economical, organizational and operational entities that are normally part of stakeholder requirements and concerns. 4) Organize, assess and control evolution of the architecture models and views to help ensure that the architectural intent is met and the architectural vision and key concepts are correctly implemented. 5) Maintain the architecture definition and evaluation strategy. NOTE This includes updating the architecture based upon technological (e.g., obsolescence), implementation, or operational experience. This includes"
+}

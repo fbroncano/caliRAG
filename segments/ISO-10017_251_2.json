@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "251.2",
+  "texto": "response variable, for specific values of the explanatory variables; — predict (at a stated level of confidence) the range of values within which the response is expected to lie, given specific values for the explanatory variables; — test hypotheses about the influence of potential explanatory variables on the response. NOTE A related methodology is “correlation analysis”, which is used to estimate the nature and degree of association between two variables. Such association does not imply causation."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "257.1",
+  "texto": "7.6.4 Examples of applications Regression analysis can be used, for example: a) to model production characteristics such as yield, throughput, quality of performance, cycle time, probability of failing a test or inspection, and various patterns of deficiencies in processes; b) to identify the most important factors in a process, and the magnitude and nature of their contribution to variation in the characteristic of interest; c) to predict the outcomes from an experiment or from a retrospective study of existing data; d) to verify the substitution of one measurement method by another (e.g. replacing a destructive or time-consuming method by a non-destructive or time-saving one); e) to model"
+}

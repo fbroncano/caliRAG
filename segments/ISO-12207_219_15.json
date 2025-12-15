@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.15",
+  "texto": "backup files to current media and currently maintained enabling systems. 3) Implement mechanisms for software system or element distribution, including packaging, handling, storage and communications or transportation needed for items during the life cycle. NOTE 1 Software distribution and installation is typically automated. Software packages commonly include software license terms, including data rights, and elements for software asset management. Logistics planning for other systems elements is often required to support the objectives of the Integration and Transition processes. NOTE 2 Consider the need to store spare elements or backup copies of software onsite or in additional"
+}

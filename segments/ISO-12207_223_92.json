@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.92",
+  "texto": "variety of tools and techniques such as static code analysis, dynamic code analysis, binary code analysis, code coverage tools, stress testing, and the use of tools to gather evidence of changes resulting from remote maintenance activities. Additional considerations include the resiliency of the software to function under use and abuse cases. Relevant activities and tasks include, a)1), 3, and 4), b (all tasks), and c)2) and 3). v) The Operation process (6.4.12) provides for usage of the software system. Assuring that software assurance characteristics are appropriately achieved involves monitoring the operation of the system to deliver its services in its intended environment and provides"
+}

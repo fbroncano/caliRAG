@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.38",
+  "texto": "processes – fourteen processes (6.455). Consistent application of process description rules allows for the normalized clause numbering. Within this document a subclause numbered as 6.x denotes a process group and 6.x.y denotes a process within that group. Subclauses numbered as 6.x.y.1 describe the purpose of a process, subclauses numbered 6.x.y.2 describe the outcomes of a process, and subclauses numbered as 6.x.y.3 describe the activities and tasks of a process. Figure D.1 is a representation of process constructs used in this document and in ISO/IEC/IEEE 15288:2015. These are Process, Activity, Task, and Note. A process requires a name, purpose and at least one outcome. Each process has"
+}

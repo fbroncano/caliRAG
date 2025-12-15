@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.2",
+  "texto": "assessment of the design characteristics in case of evolution of the software system and of its architecture; iv) Forecasting potential obsolescence of components and technologies using information on technical changes in related systems; v) Establishing priorities and resources to obtain access to the correct versions of the product and product information needed for performing maintenance (e.g., scheduled or phased installation, maintenance patches or software upgrades); vi) Measures for maintenance that will provide insight into performance levels, effectiveness, and efficiency, including access to historical fault and failure; vii) Agreed rights to data and the impact on data in the"
+}

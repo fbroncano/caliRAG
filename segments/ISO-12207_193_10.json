@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "193.10",
+  "texto": "objective evidence that the software implementation fulfills its specified requirements and identifies anomalies (errors, defects, faults) in implementation‐related information items, (e.g., system/software requirements, architecture, design, or other descriptions), processes, software elements, items, units; b) The Validation process, which confirms that the implementation fulfils requirements for a specific intended use of a software work product."
+}

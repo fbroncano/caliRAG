@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "43.2",
+  "texto": "frequency of failure), fault tolerance and recoverability (which governs the length of down time following each failure). For this reason it has not been included as a separate subcharacteristic."
+}

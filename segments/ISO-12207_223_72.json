@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.72",
+  "texto": "activation and operational state of the interfaces. Relevant activities and tasks include a)1) and 3); b) 3), 4), 6), and 7). r) The Validation process (6.4.11) provides evidence that the services provided by the software system meet the stakeholders’ needs, including the interface requirements. The selected validation strategy may introduce interface constraints that affect their implementation. Validation involves communication with stakeholder representatives of the interfacing systems and services. Relevant activities and tasks include a)4); b)1) and 2); c)1) and 2). s) The Operation process (6.4.12) provides for usage of the software system. There also may be constraints to the"
+}

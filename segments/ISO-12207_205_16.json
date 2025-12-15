@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.16",
+  "texto": "Control processes. During transition, the conditions under which the problem occurred are documented so that if possible, the problem can be duplicated and the root cause of the defect identified. Changes to the requirements, architecture, design, or software system elements are done using other Technical processes. 3) Maintain traceability of the transitioned software system elements. NOTE Bidirectional traceability is maintained between the transitioned and deployed system and elements and the approved and controlled versions of the software system and enabling systems. 4) Provide key artifacts and information items that have been selected for baselines. NOTE The Configuration Management"
+}

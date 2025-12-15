@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "309.2",
+  "texto": "components, dimensions from one end of the range of individual tolerances will be balanced by dimensions from the other end of the tolerance ranges. For example, an individual dimension lying at the lower end of the tolerance range can be matched with another dimension (or combination of dimensions) at the high end of the tolerance range. On statistical grounds, the total dimension will have an approximately normal distribution under certain circumstances. This fact is independent of the distribution of the individual dimensions and can therefore be used to estimate the tolerance range of the total dimension of the assembled module. © ISO 2021 – All rights reserved\b ﻿ 25 ISO 10017:2021(E) ﻿"
+}

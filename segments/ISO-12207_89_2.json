@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "89.2",
+  "texto": "ISO/IEC/IEEE 12207:2017(E) 5 Key concepts and application 5.1 Introduction This clause is included to highlight and to help explain essential concepts on which this document is based. NOTE Further elaboration of these concepts can be found in ISO/IEC TS 24748‐1, ISO/IEC TR 24748‐2, and ISO/IEC TR24748‐3 on the application of life cycle management. 5.2 Software system concepts 5.2.1 Software systems The software systems considered in this document are human‐made, created and utilized to provide products or services in defined environments for the benefit of users and other stakeholders. These software systems can include the following system elements: hardware, software, data, humans,"
+}

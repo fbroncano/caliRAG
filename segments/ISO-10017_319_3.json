@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "319.3",
+  "texto": "simple graphical methods cited in 7.1. Time series analysis can be used to predict future values, typically bounded by upper and lower values known as the “forecast interval”. It has extensive application in the area of control and is often a feature of automated processes. In those cases, a probability model is fitted to the historical time series to predict future values. Then specific process parameters are adjusted to keep the process on target, with as little variation as possible."
+}

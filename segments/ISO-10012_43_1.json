@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "43.1",
+  "texto": "6.2.2 Software El software utilizado en los procesos de medición y en los cálculos de resultados se debe documentar, identificar y controlar para asegurarse de su adecuación para su uso continuo. El software y cualquier revisión del mismo debe ser probado o validado antes de su uso inicial, aprobado para su uso y archivado. Las pruebas deben ser suficientemente amplias para asegurar la validez de los resultados de las mediciones. Orientación: El software puede presentarse en diferentes formas, tales como: integrado, programable, o en paquetes comerciales."
+}

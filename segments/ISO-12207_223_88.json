@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.88",
+  "texto": "activities and tasks include a)2) and 3); b)2),3), and 6); c)2) and d)1). q) The Implementation process (6.4.7) provides for the use of secure coding practices to avoid common coding errors that lead to exploitable product vulnerabilities, and the use of a variety of testing techniques including inspection for competent authenticity, fuzz testing, static analysis testing, and dynamic testing to identify and address software weaknesses and vulnerabilities. Relevant activities and tasks include a)1); and b)1), 2) 3) and 4). r) The Integration process (6.4.8) provides for planning the integration, including the considerations for software assurance characteristics, and the assurance that the"
+}

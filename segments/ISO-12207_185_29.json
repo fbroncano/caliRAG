@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.29",
+  "texto": "successful implementation of the Design Definition process: a) Design characteristics of each system element are defined. b) System/software requirements are allocated to system elements. c) Design enablers necessary for design definition are selected or defined. d) Interfaces between system elements composing the system are defined or refined. e) Design alternatives for system elements are assessed. f) Design artifacts are developed. g) Any enabling systems or services needed for design definition are available. h) Traceability of the design characteristics to the architectural entities of the system architecture is established. NOTE Design definition considers applicable technologies and"
+}

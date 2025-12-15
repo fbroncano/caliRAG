@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "81.6",
+  "texto": "processes and can be useful for implementing processes to be used in the context of an innovative life cycle model. NOTE 1 Options for conformance are provided for needed flexibility in the application of this document. Each process has a set of objectives (phrased as “outcomes”) and a set of activities and tasks that represent one way to achieve the objectives. NOTE 2 Users who implement the activities and tasks of the declared set of processes can assert full conformance to tasks of the selected processes. Some users, however, might have innovative process variants that achieve the objectives (i.e., the outcomes) of the declared set of processes without implementing all of the activities"
+}

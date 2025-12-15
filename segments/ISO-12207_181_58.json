@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.58",
+  "texto": "Requirements Specification and a Software Requirements Specification. c) Analyze system/software requirements. This activity consists of the following tasks: 1) Analyze the complete set of system/software requirements. NOTE 1 Requirements are analyzed for characteristics of individual requirements, as well as characteristics of the set of requirements. Potential analysis characteristics include that the requirements are necessary, implementation‐free, unambiguous, consistent, complete, singular, feasible, traceable, verifiable, affordable, and bounded. The Verification process is used to determine if requirements meet the attributes and characteristics of good requirements. In some cases,"
+}

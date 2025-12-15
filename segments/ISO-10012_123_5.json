@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "123.5",
+  "texto": "controla todas las actividades necesarias. Las entradas para el proceso de calibración son el equipo de medición, un patrón de medida y un procedimiento que especifique las condiciones ambientales. Los resultados de la calibración deberían incluir una declaración de la incertidumbre de la medición. Ésta es una característica importante que constituye un elemento de entrada para la estimación de la incertidumbre de la medición del proceso de medición en el que se utiliza ese equipo. Los resultados de calibración pueden documentarse en el sistema de confirmación metrológica por cualquier método apropiado, por ejemplo mediante certificados o informes de calibración (cuando las calibraciones son"
+}

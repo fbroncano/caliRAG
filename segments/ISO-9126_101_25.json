@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.25",
+  "texto": "with the stated or implied needs (see 10.2). NOTE 2 Appropriate rating levels may be associated with the different views of quality i.e. Users', Managers' or ‘Developers'. B.27 scale a set of values with defined properties NOTE Examples of types of scales are: a nominal scale which corresponds to a set of categories; an ordinal scale which corresponds to an ordered set of scale points; an interval scale which corresponds to an ordered scale with equidistant scale points; and a ratio scale which not only has equidistant scale point but also possess an absolute zero. Metrics using nominal or ordinal scales produce qualitative data, and metrics using interval and ratio scales produce"
+}

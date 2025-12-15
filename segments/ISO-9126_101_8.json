@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.8",
+  "texto": "product during development. Appropriate internal metrics and acceptable ranges are specified to quantify the internal quality attributes so that they can be used for verifying that the intermediate software meets the internal quality specifications during the development. It is recommended that the internal metrics are used which have as strong a relation as possible with the target external metrics, so that they can be used to predict the values of external metrics. However, it is generally difficult to design a rigorous theoretical model which provides a strong relationship between internal and external metrics. A.2 Quality in use metrics Quality in use metrics measure the extent to which"
+}

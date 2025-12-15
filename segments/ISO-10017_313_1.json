@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "313.1",
+  "texto": "7.11.3 Limitations and cautions The first step in statistical tolerancing is to determine the proportion of assembled modules that can acceptably lie outside the tolerance range of the total dimension. Statistical tolerancing, to be practicable without necessitating advanced methods, is subject to the following conditions: — the individual actual dimensions can be considered as uncorrelated random variables; — the dimensional chain is linear; — the dimensional chain has at least four units; — the individual tolerances are of the same order of magnitude; — the distributions of the individual dimensions of the dimensional chain are known. It is obvious that some of these requirements can only"
+}

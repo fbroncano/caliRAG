@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.9",
+  "texto": "Definition processes. NOTE 2 Key drivers of the architecture can include architecture styles and patterns, elements, principles such as replaceable components, feasibility of implementation and integration; availability of COTS and open source components; data sources for data‐intensive systems; and performance implications. The effect of choosing various design elements can be lessened if the software system is properly architected. 2) Identify stakeholder concerns. NOTE 1 Stakeholders are initially identified in the Stakeholder Needs and Requirements process. Additional stakeholders are usually identified during the Architecture Definition process. Stakeholder concerns related to"
+}

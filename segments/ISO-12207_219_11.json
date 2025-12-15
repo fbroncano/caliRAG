@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.11",
+  "texto": "and correct implementation of the new and modified requirements without effect on the performance of the original, unmodified requirements. The Transition process can be applied for deployment of major maintenance changes; minor fixes are typically handled as part of the Maintenance process. Actions are recorded in order to facilitate future maintenance and problem resolution, and for logistics analyzes of degradable system elements. NOTE 3 System and data recovery procedures and maintenance information are often made available on media that is usable at the point of performing maintenance. 5) Perform preventive maintenance by replacing, patching, augmenting, or upgrading software system"
+}

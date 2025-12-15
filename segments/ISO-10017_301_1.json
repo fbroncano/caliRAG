@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "301.1",
+  "texto": "7.10.2 Benefits In addition to presenting the data in a visible form to the user, control charts facilitate the appropriate response to process variation. They help the user to distinguish the random variation that is inherent in a stable process, from variation that can be due to “assignable causes” (i.e. one to which a specific cause can be assigned) and whose timely detection and correction can help to improve the process. The value of control charts in various contexts is illustrated in the following examples: — Process control: Variable control charts can be used to detect changes in the process centre or process variability and to trigger corrective action, thus maintaining or"
+}

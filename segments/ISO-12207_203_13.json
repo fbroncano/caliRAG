@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.13",
+  "texto": "verification enabling systems, execution of the verification, or incorrect system definition. The Project Assessment and Control and Quality Assurance processes are used to analyze the data to identify the root cause, enable corrective or improvement actions, and to record lessons learned. NOTE 2 The evaluation of verification results and follow‐up corrective action can vary greatly depending on the purpose of the verification. For elements of software, examples include a modification or waiver of requirements, a simple defect fix for a failed software element, followed by re‐verification, or major project re‐direction based on a failure to attain a key milestone, e.g., failed software"
+}

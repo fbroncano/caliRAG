@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.13",
+  "texto": "procedures allow for provision of a temporary workaround solution until root cause analysis can be performed. NOTE 3 During software operation, the conditions under which the problem occurred are typically documented, consistent with maintaining or restoring operational availability, so that if possible, the problem can be duplicated in a test environment and the root cause identified. Problem resolution usually involves determining the severity and impact of the problem and whether or when the problem is to be corrected or accepted for a time as a known error. 3) Maintain traceability of the operational services and configuration items. NOTE Bidirectional traceability is maintained between"
+}

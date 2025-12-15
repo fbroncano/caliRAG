@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.18",
+  "texto": "transformed or elaborated by another process, traceability is maintained and a traceability mapping can be produced. For example, traceability can be maintained between organizational and project processes, and between requirements, architecture and design elements, and verification cases. Table B.1 — Sample information items by process Process Process Typical Item Title Item Group Type Agreement processes Acquisition process Acquisition Plan info Request for Supply (e.g., Request for Proposal, Request for Tender) info Agreement Change Request info Agreement (e.g., Contract) info Agreement Change Management Procedure info Delivery Acceptance Report info Supply process Supply Response (e.g.,"
+}

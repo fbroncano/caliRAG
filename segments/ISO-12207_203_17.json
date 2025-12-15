@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.17",
+  "texto": "functional, operable and compatible with other operational systems. It installs a verified system, together with relevant enabling systems, e.g., planning system, support system, operator training system, user training system, as defined in agreements. This process is used at each level in the system structure and in each stage to complete the criteria established for exiting the stage. It includes preparing applicable storage, handling, and shipping enabling systems. For software systems, the purpose of the Transition process is to establish a capability for a system to provide services in a different environment. The Transition process is often used for recurring deployments of software to"
+}

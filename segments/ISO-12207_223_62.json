@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.62",
+  "texto": "Name: Interface Management Process View Purpose: The purpose of the Interface Management Process View is to facilitate identification, definition, design and management of interfaces of the software system. Outcomes: a) Business or mission needs related to interfaces are identified. b) Stakeholder needs related to interfaces are identified c) Requirements for the interfaces are defined. d) Interfaces between software system elements are identified and defined. e) Interfaces between the software system and external systems are identified and defined. f) The extent of realization of the interface requirements is continuously monitored. Interface Management processes, activities and tasks This"
+}

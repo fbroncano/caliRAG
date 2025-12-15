@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.29",
+  "texto": "Authorized licensed use limited to: Burapha University provided by UniNet. Downloaded on January 08,2018 at 04:42:14 UTC from IEEE Xplore. Restrictions apply. ISO/IEC/IEEE 12207:2017(E) NOTE This includes requirements such as accessibility, supply chain security, safety for integrators, required interconnections for sets of implemented software system elements and for enablers, and interface constraints. b) Perform integration. Successively integrate software system element configurations until the complete system is synthesized. This activity consists of the following tasks: 1) Obtain implemented software system elements in accordance with agreed schedules. NOTE The implemented software"
+}

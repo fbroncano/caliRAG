@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.11",
+  "texto": "and retirement (e.g., sensitive data eradication or retention). NOTE 2 Concerns affecting software system architecture include data sources and performance implications for data‐ intensive systems, and constraints on the use of outsourced, existing, newly developed, proprietary, commercially available, or open source software elements, including software licensing. While software architecture is ideally design‐ agnostic, the feasibility of implementing the architecture in an affordable software system is a significant constraint for most systems. 3) Define the Architecture Definition roadmap, approach, and strategy. NOTE This includes the identification of opportunities to communicate with"
+}

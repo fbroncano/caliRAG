@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.4",
+  "texto": "characteristics, design characteristics, or implementation techniques. NOTE 1 Constraints include current or anticipated limitations of the chosen implementation technology (e.g., for software, the operating system, database management system, web services), acquirer furnished materials or system elements for adaptation, and limitations resulting from the use of required implementation‐enabling systems. NOTE 2 The implementation strategy for software typically identifies and allocates ‘implement‐to’ criteria, e.g., software architecture and design characteristics, system/software requirements including software assurance, usability considerations, configuration management, traceability, or"
+}

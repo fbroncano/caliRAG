@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "81.4",
+  "texto": "and Annex A. This document provides requirements for a number of processes suitable for usage during the life cycle of a software system or product. It is recognized that particular projects or organizations may not need to use all of the processes provided by this document. Therefore, implementation of this document typically involves selecting and declaring a set of processes suitable to the organization or project. There are two ways that an implementation can be claimed to conform to the provisions of this document — full conformance and tailored conformance. There are two criteria for claiming full conformance. Achieving either criterion suffices for conformance, although the chosen"
+}

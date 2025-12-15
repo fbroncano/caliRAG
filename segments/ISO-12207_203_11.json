@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "203.11",
+  "texto": "plan, or other information item), and the expected results (success criteria), such as conformance, or performance of a function or capacity in terms of response time or throughput. The procedures identify the purpose of the verification with success criteria (expected results), the verification technique to be applied, the necessary enabling systems (facilities, equipment), and the environmental conditions to perform each verification procedure (resources, qualified personnel, specialized procedural set‐up or work instructions). Verification procedures include how the verification procedure results will be recorded, analyzed, stored, and reported. 2) Perform the verification procedures."
+}

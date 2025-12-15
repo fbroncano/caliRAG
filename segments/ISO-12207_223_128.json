@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.128",
+  "texto": "an SoS looks across the full SoS business and mission environment. To the degree the constituent system was developed to operate in that space, the Business or Mission Analysis for the systems of system and constituent systems will be largely shared. The objective is to determine the best means to provide the desired capability. Stakeholder Needs and Requirements Definition focuses on the top level SoS, but also considers how the disparate needs of the stakeholders for the individual systems can lead to constraints on the SoS. System/Software Requirements Definition for the SoS tends to be defined at the level needed to satisfy stakeholder needs and mission objectives, to be translated into"
+}

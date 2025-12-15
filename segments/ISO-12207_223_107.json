@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.107",
+  "texto": "environment/context). Structural models can be hierarchical decompositions or object‐oriented. F.2.7 Network model A network model defines an arrangement of nodes and links to help understand how resources (e.g., information and people) traverse from one node to another. A network model can be used to determine constraints such as throughput, latency, and congestion points. A network model is sometimes modelled along with a protocol stack to understand how layers in a network interact vertically up and down the stack. F.3 Other model considerations Stakeholder life cycle concerns, such as maintenance, evolution, disposal, potential changes of environment, obsolescence management, and other"
+}

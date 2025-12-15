@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "201.2",
+  "texto": "life cycle to demonstrate that the requirements (including functional and non‐ functional requirements) have been met, or that process outcomes have been achieved or process activities have been performed. Different domains and engineering or development communities can identify the milestones, verification strategies and criteria differently. For software systems, the Verification process is typically instantiated for the following purposes: a) To confirm that a software work product or service properly reflects the specified requirements (often called software verification); b) To confirm that the integrated software product meets its defined requirements (often called software"
+}

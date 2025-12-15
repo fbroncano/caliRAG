@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "91.3",
+  "texto": "containing hardware), their process structures are harmonized to be identical. The processes of this document directly correspond to processes of ISO/IEC/IEEE 15288 with specialization for software products and services. In the case where the system non‐software elements have primary importance, an organization may decide to apply ISO/IEC/IEEE 15288 to perform the appropriate life cycle processes, activities and tasks. For each software element of the system, the organization may apply this document to create, adapt, acquire, or reuse the software elements."
+}

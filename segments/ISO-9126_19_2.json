@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "19.2",
+  "texto": "the software in operation. Quality in use can be measured by the extent to which a product used by specified users meets their needs to achieve specified goals with effectiveness, productivity, safety and satisfaction. This will normally be complemented by measures of more specific software product quality characteristics, which is also possible earlier in the development process. At the earliest stages of development, only resources and process can be measured. When intermediate products (specifications, source code, etc.) become available, these can be evaluated by the levels of the chosen internal metrics. These metrics can be used to predict values of the external metrics. They may also"
+}

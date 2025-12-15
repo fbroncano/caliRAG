@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.94",
+  "texto": "software assurance characteristics. This includes failure analysis, maintenance tasks, and logistics tasks needed to assure continued operation of the system. The maintenance process provides for evaluating the effect on software assurance from changes made to the software during maintenance and maintaining appropriate evidence for software assurance. It includes a documented process for patching and remediating software, detecting and removing or inactivating unauthorized and malicious software, and a process for informing an acquirer or interface partner of notification and remediation mechanisms. Remediation of vulnerabilities is prioritized based on a variety of factors, including risk."
+}

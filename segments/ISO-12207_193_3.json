@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "193.3",
+  "texto": "and criticality of analysis. Analysis methods have a wide range of levels of rigor and include expert judgment, worksheet computations, parametric estimates and calculations, historical data and trend analysis, engineering models, simulation, visualization, and prototyping. Due to cost and schedule constraints, most projects typically perform system analysis only for critical characteristics. 5) Identify and plan for the necessary enabling systems or services needed to support the analysis. NOTE This task includes identification of requirements and interfaces for the enabling systems. The system analysis enabling systems include the tools, relevant models, and potential data repositories"
+}

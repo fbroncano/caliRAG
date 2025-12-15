@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.17",
+  "texto": "hardware, software (either custom software or off-the-shelf software) and users. NOTE 2 The number of failures found during testing is an external measure of the number of faults in the program because the number of failures are counted during the operation of a computer system running the program. NOTE 3 External measures can be used to evaluate quality attributes closer to the ultimate objectives of the design. 18 © ISO/IEC 2001 – All rights reserved ISO/IEC 9126-1:2001(E) B.7 external quality the extent to which a product satisfies stated and implied needs when used under specified conditions B.8 failure the termination of the ability of a product to perform a required function or its"
+}

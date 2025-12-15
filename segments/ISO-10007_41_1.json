@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10007",
+  "clausula": "41.1",
+  "texto": "5.3.3 Configuration baselines A configuration baseline consists o f the approved configuration in formation that represents the definition o f the product or service. Configuration baselines, plus approved changes to those baselines, represent the current approved configuration. Configuration baselines should be established whenever it is necessary in the product or service li fe cycle to define a re ference for further activities or to satis fy a specific requirement for review. The level o f detail to which the product or service is defined in a configuration baseline depends on the degree of control required."
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.3",
+  "texto": "some attributes may contribute to more than one subcharacteristic. attribute subcharacteristic characteristic internal attributes external attributes Figure A.1 - Quality characteristics, subcharacteristics and attributes Subcharacteristics can either be measured by internal metrics or by external metrics. The correlation between internal attributes and external measures is never perfect, and the effect that a given internal attribute has upon an associated external measure will be determined by experience, and will depend on the particular context in which the software is used. In the same way, external properties (such as suitability, accuracy, fault tolerance or time behaviour) will"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.8",
+  "texto": "states are defined (e.g., in‐house validation, on‐site validation, operational validation) that progressively build confidence in conformance of the evolving software system, and assist diagnosis of any encountered discrepancies. NOTE 3 Criteria for stakeholder acceptance of service performance is commonly stated as a service level and recorded in a service level agreement (SLA). Service levels typically measure capacity, availability, reliability, and timely response for services, and result in performance requirements for the supporting systems. 5) Identify and plan for the necessary enabling systems or services needed to support validation. NOTE Enabling systems can include simulators,"
+}

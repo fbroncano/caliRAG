@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "219.8",
+  "texto": "and preventive maintenance needs. NOTE For software systems with iterative life cycles, changing requirements can be considered as the source for adaptive and perfective maintenance activities. For software maintenance, this process makes corrections, changes, and improvements to deployed software, as well as patching and updates to maintain system security. 2) Analyze the impact of maintenance changes on data structures, data, and related software functions, user documentation, and interfaces. NOTE Reviews and analyzes often include factors such as the category of maintenance action; size of modification; cost involved; time to modify; and impacts on performance, safety or security. 3) Upon"
+}

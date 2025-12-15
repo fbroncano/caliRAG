@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.135",
+  "texto": "find it more appropriate to claim full conformance to outcomes (4.2.1) rather than full conformance to activities and tasks (4.2.2). Agile development succeeds in part because of the nature of software, which accommodates flexibility in design while the software is being constructed. In agile practice, software design, implementation (construction), and continuous integration are frequently performed concurrently. This practice is contrasted with a formal top‐down approach to traceability in which construction cannot begin until design is approved so that the constructed software is traced to a previously approved detailed design. Thus, agile projects take full advantage of the approach in"
+}

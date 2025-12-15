@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.35",
+  "texto": "changes of need and their origin throughout the software life cycle. These records are the basis for traceability to decisions made by the Business or Mission Analysis process as well as stakeholder needs, system requirements, and subsequent software system elements. NOTE 4 The stakeholder requirements are the basis of the validation criteria for the software system and its elements. e) Analyze stakeholder requirements. This activity consists of the following tasks: 1) Analyze the complete set of stakeholder requirements. NOTE 1 Stakeholder requirements are analyzed for characteristics of individual requirements, as well as characteristics of the set of requirements. Potential analysis"
+}

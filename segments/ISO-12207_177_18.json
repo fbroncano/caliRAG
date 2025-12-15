@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "177.18",
+  "texto": "processes within a software life cycle. NOTE 4 Interface management is a set of activities that cut across software engineering processes. These cross‐cutting activities of the Technical and Technical Management processes apply and track as a specific view of the processes and software system. See Annex E (E.5) for an example of an Interface Management process view. NOTE 5 ISO/IEC 27002 Code of practice for information security controls and ISO/IEC 27034 Application security, provide guidance for applying security concerns in the Technical processes for software systems. See Annex E (E.6) for a sample Software Assurance Process View."
+}

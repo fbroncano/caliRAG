@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.1",
+  "texto": "6.4.10.3 Activities and tasks The project shall implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the Transition process. a) Prepare for the software system transition. This activity consists of the following tasks: 1) Define a strategy for managing software releases and other software system transitions, including the following considerations: i) establishing the type of transition and transition success criteria; ii) determining the frequency of recurring transitions, such as updates and upgrades to development, test, and operational software systems; iii) minimizing security risks, disruption, and downtime"
+}

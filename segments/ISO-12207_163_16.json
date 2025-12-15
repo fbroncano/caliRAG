@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.16",
+  "texto": "These changes are verified or validated through the Verification and Validation processes, to help ensure that the approved changes have been correctly applied. NOTE 2 Changes and rationales are typically recorded when approved and when completed. d) Perform release control. This activity consists of the following tasks: 1) Identify and record release requests, identifying the software system elements in a release. NOTE 1 The life cycle model helps determine the frequency of iterative or incremental software releases. The Integration process is used to select and configure a release package, software version, update or patch. These changes are verified or validated through the Verification"
+}

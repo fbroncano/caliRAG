@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "215.1",
+  "texto": "7.3.1 General description Hypothesis testing is used to determine (at a stated level of significance) whether or not a hypothesis regarding a parameter of a population is true. The procedure can therefore be applied to test whether or not a population parameter meets a particular standard, or it can be used to test for differences in two or more populations. It is thus useful in decision-making. © ISO 2021 – All rights reserved\b ﻿ 13 ISO 10017:2021(E) ﻿ Hypothesis testing is also used for testing model assumptions, such as whether or not the distribution of a population is normal or whether sample data are random. The hypothesis test is explicitly or implicitly invoked in many of the"
+}

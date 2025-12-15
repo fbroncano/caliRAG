@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "115.7",
+  "texto": "Control process. Any identified issues that require agreement modifications are referred to this activity. Any proposals for changes to system elements or information are controlled through the Change Management activity of the Configuration Management process. 1) Develop an agreement with the supplier that includes acceptance criteria. NOTE 1 This agreement ranges in formality from a written contract to a verbal agreement. Appropriate to the level of formality, the agreement establishes requirements, development and delivery milestones, verification, validation and acceptance conditions, exception‐handling procedures, agreement change management procedures, and payment schedules, so that"
+}

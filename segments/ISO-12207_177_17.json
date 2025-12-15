@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "177.17",
+  "texto": "another to establish a solution that has satisfactory trade‐offs with respect to requirements, critical performance measures, and critical quality characteristics. At any level of abstraction, requirements and models are made consistent via iterations of applicable technical processes. When requirements and models are not directly capable of being implemented, the technical processes are applied recursively at a more detailed level or through different system views. NOTE 3 The concept of life cycle stages and the application of these processes in any stage are described in detail in ISO/IEC TS 24748‐1. It has a complete set of example stages and stage outcomes for the enactment of technical"
+}

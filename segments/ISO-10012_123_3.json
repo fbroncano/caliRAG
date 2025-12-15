@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "123.3",
+  "texto": "información suficiente para permitir a los operadores de los procesos de confirmación metrológica decidir inequívocamente sobre la capacidad de un equipo de medición particular para controlar, medir o dar seguimiento a la variable o magnitud de acuerdo con su uso previsto. EJEMPLO Se requiere controlar la presión entre 200 kPa y 250 kPa en una operación crítica de un reactor de proceso. Este requisito tiene que ser interpretado y expresado como un RMC para el equipo de medición de presión. Esto podría conducir a un RMC según el cual el equipo tiene que ser capaz de medir en un intervalo de 150 kPa a 300 kPa, con 2 kPa de error máximo permitido, una incertidumbre de medición de 0,3 kPa (sin"
+}

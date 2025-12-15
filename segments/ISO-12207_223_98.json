@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.98",
+  "texto": "encapsulation, availability, affordability, robustness, execution efficiency, or mission effectiveness (fitness for use). Software system architecture deals with relationships among a variety of entities, such as scenarios, functions, function flows, interfaces, resource flow items, information or data elements, objects, physical components and environments, containers, nodes, links, communication resources, constraints, equations and parametric models. This Annex describes some of the models (model kinds) that are used in creating and evaluating the architecture of software systems. NOTE ISO/IEC/IEEE 15288:2015, Annex F describes how models and views are applied to the architecture of"
+}

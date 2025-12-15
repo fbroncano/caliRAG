@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.62",
+  "texto": "necessary and sufficient input to other processes, in particular software architecture, design, and verification. The Validation process is used to determine if the system/software requirements address the users’ needs. 4) Identify and resolve issues, deficiencies, conflicts, and weaknesses within the complete set of requirements. NOTE This includes requirements that are not verifiable, ambiguous, violate the characteristics for individual requirements, or are inconsistent with others in the set of requirements. Resolution of issues with requirements can be iterative within certain life cycle models. d) Manage system/software requirements. This activity consists of the following tasks: NOTE"
+}

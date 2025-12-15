@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.103",
+  "texto": "of multiple candidate architectures. F.2.2 Static model A static model describes the structure of a software system. In object‐oriented programming, it is represented through a set of objects (classes) and their relationships (inheritance, association, and dependency), depicted as nodes and links. F.2.3 Data model A data model (semantic or information model) represents the data elements and their relationships and properties (attributes) that the software system will handle. Logical data models use schema to reflect structural relationships between data entities which can be implemented in databases. Data models reflect different types of data (text, graphics, geographic data, images,"
+}

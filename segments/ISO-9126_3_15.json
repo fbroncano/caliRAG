@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "3.15",
+  "texto": "terminology for software product quality. They also provide a framework for specifying quality requirements for software, and making trade-offs between software product capabilities. Normative Annex A provides recommendations and requirements for software product metrics and quality in use metrics. Examples of these metrics are contained in other parts of ISO/IEC 9126. These metrics are applicable when specifying the quality requirements and the design goals for software products, including intermediate products. An explanation of how this quality model can be applied in software product evaluation is contained in ISO/IEC 14598-1. This part of ISO/IEC 9126 enables software product quality to"
+}

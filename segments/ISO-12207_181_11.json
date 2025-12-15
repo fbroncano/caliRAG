@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.11",
+  "texto": "have known vulnerabilities associated with specific security threats and safety hazards. These vulnerabilities need to be understood in association with the product under development. The system and human interfaces are an element of the system assurance context and related vulnerabilities are examined in the context of mission‐critical threats. 2) Identify candidate alternative solution classes that span the potential solution space. NOTE These classes can range from simple operational changes to various software system developments or modifications. This solution space can include the identification of existing assets, systems, and software products suitable for reuse, and changes in"
+}

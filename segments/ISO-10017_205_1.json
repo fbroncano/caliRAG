@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "205.1",
+  "texto": "7.2.1 General description Design of experiments (DOE) can be used for evaluating and/or improving one or more characteristics of a product, service, process or system such as defects, yield or variability. DOE is particularly useful for investigating complex systems whose outcome can be influenced by a potentially large number of factors. DOE can help to identify the more influential factors, the magnitude of their effect and the relationships (if any) between the factors. The findings can be used to facilitate the design, development and improvement of a product, service or process, or to control or improve an existing system. DOE can also be used to validate a characteristic of interest"
+}

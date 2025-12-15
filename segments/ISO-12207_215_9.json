@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.9",
+  "texto": "software operation, e.g., workload above capacity thresholds, utilization by contending applications, security hacks, or software defects. 4) Consistent with the operational strategy, develop and, where feasible, automate operational procedures to minimize the risk of operational anomalies. NOTE This includes procedures for handling routine (pre‐approved) change requests and service requests, trouble‐ shooting and incident reporting, especially for security incidents. 5) Consistent with the operational strategy, analyze measurements to confirm that: i) Service performance is within acceptable parameters or agreed service levels for the agreed workload; ii) System and service availability and"
+}

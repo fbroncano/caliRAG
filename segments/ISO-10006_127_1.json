@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10006",
+  "clausula": "127.1",
+  "texto": "7.4.4 Desarrollo del programa Deberían identificarse los datos de entrada del desarrollo del programa y debería comprobarse su conformidad con las condiciones específicas del proyecto. A la hora de determinar el camino crítico, deberían tomarse en consideración las actividades con amplios plazos de entrega o de larga duración. Las actividades del camino crítico (el camino de mayor duración a través de la red) requieren una identificación explícita. Deberían implementarse formatos de programa normalizados, adecuados a las diferentes necesidades de los usuarios. 21 INTE-ISO 10006:2003 Debería comprobarse la coherencia de las relaciones entre la estimación de la duración con las dependencias"
+}

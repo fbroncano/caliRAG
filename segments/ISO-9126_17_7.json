@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.7",
+  "texto": "quality requirements can be used as targets for validation at various stages of development. They can also be used for defining strategies of development and criteria for evaluation and verification during development. This may include the use of additional metrics (e.g. for reusability) which are outside the scope of ISO/IEC 9126. Specific internal quality requirements should be specified quantitatively using internal metrics. Internal quality is the totality of characteristics of the software product from an internal view. Internal quality is measured and evaluated against the internal quality requirements. Details of software product quality can be improved during code implementation,"
+}

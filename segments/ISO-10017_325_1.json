@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "325.1",
+  "texto": "7.12.4 Examples of applications Listed below are examples of applications of time series analysis. a) Time series analysis is applied to study patterns of performance over time, for example, process measurements, customer complaints, nonconformance, productivity and test results. b) Forecasting applications include predicting spare parts, absenteeism, customer orders, material needs and electric power consumption. c) Causal time-series analysis is used to develop predictive models of demand. For example, in the context of reliability, it is used to predict the number of events in a given time period and the distribution of time intervals between events such as, for example, equipment"
+}

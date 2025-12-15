@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10007",
+  "clausula": "45.1",
+  "texto": "5.4.1 General A fter the initial release o f configuration in formation, all changes should be controlled. The potential consequence o f a change, customer requirements and the configuration baseline will a ffect the degree of control needed to process a proposed change or concession. The process for controlling the change should be documented and should include the following: a) a description o f, justification for and documented in formation o f the change; b) a categorization o f the change, in terms o f complexity, resources and scheduling; c) an evaluation o f the consequences o f the change; d) details o f how the change should be dispositioned; e) details o f how the change should be"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.30",
+  "texto": "their contribution to the system solution. Design provides the ‘implement‐to’ level of the definition, such as drawings, state diagrams, stories, and detailed design descriptions. For software elements, this process can result in a detailed design description that can be verified against requirements and the software architecture. Even if the software design is not fully specified in a formal description, it is sufficiently detailed to permit software implementation (construction) and test planning. 6.4.5.3 Activities and tasks The project shall implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the Design"
+}

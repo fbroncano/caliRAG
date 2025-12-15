@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "19.3",
+  "texto": "be measured in their own right, as essential pre-requisites for external quality. A further distinction can be made between the evaluation of a software product and the evaluation of the system in which it is executed. NOTE 1 For example, the reliability of a system is assessed by observing all failures due to whatever cause (hardware, software, human error, etc.), whereas the reliability of the software product is assessed by extracting from the observed failures only those that are due to faults (originating from requirements, design or implementation) in the software. Also, where the boundary of the system is judged to be, depends upon the purpose of the evaluation, and upon who the users"
+}

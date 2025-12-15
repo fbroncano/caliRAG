@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.33",
+  "texto": "basic level of any relevant process measurement framework conformant with ISO/IEC 33003. A process outcome describes one of the following: [ISO/IEC 30004:2015, 5.4] a) production of an artifact; b) a significant change of state; and c) meeting of specified constraints, e.g., requirements, goals, etc. These requirements are met by the process descriptions in Clause 6 of this document. Some outcomes may be interpreted as contributing to levels of capability above level 1 (basic) in some relevant process measurement frameworks. However, conforming implementation of the relevant processes does not require achievement of these higher levels of capability. C.3 The process reference model The"
+}

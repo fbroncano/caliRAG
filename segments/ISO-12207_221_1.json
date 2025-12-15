@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "221.1",
+  "texto": "6.4.14.2 Outcomes As a result of the successful implementation of the Disposal process: a) Disposal constraints are provided as inputs to requirements, architecture, design, and implementation. b) Any enabling systems or services needed for disposal are available. c) The system elements or waste products are destroyed, stored, reclaimed or recycled in accordance with requirements, e.g., safety and security requirements. d) The environment is returned to its original or an agreed state. e) Records of disposal actions and analysis are available."
+}

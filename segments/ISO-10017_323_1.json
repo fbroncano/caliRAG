@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "323.1",
+  "texto": "7.12.3 Limitations and cautions The limitations and cautions cited for regression analysis also apply to time series analysis. When modelling a process in order to understand causes and effects, a significant level of skill is required to select the most appropriate model and to use diagnostic tools to improve the model. © ISO 2021 – All rights reserved\b ﻿ 27 ISO 10017:2021(E) ﻿ Whether included or omitted from the analysis, a single observation or a small set of observations can have a significant influence on the model. Therefore, influential observations should be understood and distinguished from “outliers” in the data. Different time-series estimation techniques can have varying degrees"
+}

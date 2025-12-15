@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "17.8",
+  "texto": "reviewing and testing, but the fundamental nature of the software product quality represented by internal quality remains unchanged unless redesigned. Estimated (or Predicted) External Quality is the quality that is estimated or predicted for the end software product at each stage of development for each quality characteristic, based on knowledge of the internal quality. External Quality is the totality of characteristics of the software product from an external view. It is the quality when the software is executed, which is typically measured and evaluated while testing in a simulated environment with simulated data using external metrics. During testing, most faults should be discovered"
+}

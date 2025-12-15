@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "211.1",
+  "texto": "6.4.12.1 Purpose The purpose of the Operation process is to use the system to deliver its services. This process establishes requirements for and assigns personnel to operate the system, and monitors the services and operator‐system performance. In order to sustain services, it identifies and analyzes operational anomalies in relation to agreements, stakeholder requirements and organizational constraints. The Operation process typically aims to control or reduce the cost of operations while sustaining an acceptable or improved level of service. Software systems can have dedicated infrastructure, but are typically operated in distributed environments where other software systems and services"
+}

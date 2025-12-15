@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "155.1",
+  "texto": "6.3.4.1 Purpose The purpose of the Risk Management process is to identify, analyze, treat and monitor the risks continually. The Risk Management process is a continual process for systematically addressing risk throughout the life cycle of a system product or service. It can be applied to risks related to the acquisition, development, maintenance or operation of a system. NOTE Risk is defined in ISO Guide 73:2009 as “The effect of uncertainty on objectives”. This has an attached Note 1, “An effect is a deviation from the expected — positive and/or negative”. A positive risk is commonly known as an opportunity, and can be addressed within the Risk Management process."
+}

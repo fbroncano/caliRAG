@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "91.2",
+  "texto": "indicate that it is appropriate to consider it as comprising a set of distinct subordinate elements. In turn, each of the software elements can be treated as a distinct software system as described previously. In these cases, this document may be applied recursively to procure or develop the subordinate elements. This document has a strong relationship with ISO/IEC/IEEE 15288:2015, Systems and Software Engineering-- System Life Cycle Processes, and is more applicable to software systems. To account for situations in which both ISO/IEC/IEEE 15288:2015 and ISO/IEC/IEEE 12207:2017 are applied (e.g., a development of a system containing software, or the development of a software system"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "163.3",
+  "texto": "approval of configuration baselines and regular and emergency change requests. NOTE Regularly scheduled changes to apply software patches using approved procedures or check‐in and check‐out of unit‐tested software elements under development are typically performed automatically, or reviewed and approved daily as a matter of routine. In comparison, significant changes to the software system design with major impact on project cost and schedule can involve extensive analyzes, consultations with suppliers, stakeholder reviews, and approvals at the highest levels of the organization. iii) Coordination of CM across the set of acquirer, supplier, and supply chain organizations for the life of the"
+}

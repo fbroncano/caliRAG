@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "205.2",
+  "texto": "during transition; iv) archiving, destroying, or converting and validating data from previous systems to the new system; including data received through external interfaces; v) contingency planning for problem resolution, backup and return to the last working system version; vi) scheduling transitions consistent with ongoing business processing, with phased or synchronized transition of systems vii) change management for stakeholders, including interface partners, human operators, system administrators, and software system or service users; NOTE Change management activities are often conducted to design changes in business processes associated with the new system, plan the transition in"
+}

@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "185.22",
+  "texto": "of replacing and upgrading system elements, or security levels. e) Assess architecture candidates. This activity consists of the following tasks: 1) Assess each candidate architecture against constraints and requirements. 2) Assess each candidate architecture against stakeholder concerns using evaluation criteria. NOTE The System Analysis process and the Risk Management process can be used to support this task. 3) Select the preferred architecture(s) and capture key decisions and rationale. NOTE The Decision Management process can be used to support this task. 4) Establish the architecture baseline of the selected architecture. NOTE The architecture baseline is composed of models, views and"
+}

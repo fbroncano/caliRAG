@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "215.10",
+  "texto": "response times are acceptable; iii) Cost of operation is consistent with objectives and constraints; and iv) Potential improvements are identified and prioritized. NOTE Operator feedback and suggestions are often useful input for improving software system operational performance. The Quality Assurance and Measurement processes can be applied. 6) Perform contingency operations, if necessary. NOTE This includes operating the software system in a degraded mode, performing back‐out and restore operation, system shutdown, implementation of work‐around procedures to restore operation, or other modes for special conditions. If needed, the operator performs steps necessary to enter into contingency"
+}

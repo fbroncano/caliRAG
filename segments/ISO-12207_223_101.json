@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "223.101",
+  "texto": "definitions of architecture terms and additional detail on architecture concepts and models. F.2.1 Functional model A functional model of the system is a representation of a set of functions that defines the transformations of inputs into outputs performed by the system to achieve its mission or purpose. These functions are determined by how the system is expected to behave when used as intended. Consequently, every system function is associated with an interaction between the system and its environment. Functional, performance, non‐functional, and constraint requirements are usually analyzed to determine functions and input‐output flows. When functions are associated with system elements,"
+}

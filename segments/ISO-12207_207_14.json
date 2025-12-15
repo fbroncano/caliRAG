@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "207.14",
+  "texto": "and Quality Assurance process are used to analyze the data to identify the root cause of problems, enable corrective or improvement actions, and to record lessons learned. During software validation, the gap between stakeholder expectations and system performance is documented so that if possible, the root cause of the discrepancy can be identified. Problem resolution typically involves determining the severity and impact of the problem and whether or when a software discrepancy is to be corrected or accepted for a time as a known error. Often simple or recommended solutions to anomalies discovered during validation are recorded with the validation 91 © ISO/IEC 2017 – All rights reserved ©"
+}

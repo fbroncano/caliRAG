@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "197.5",
+  "texto": "other conditions to be satisfied. These criteria can clarify appropriate unit aggregation levels, specifications, and constraints. 3) Identify and plan for the necessary and distinct software environments, including enabling systems or services needed to support development and testing. NOTE Implementation of software commonly uses distinct environments that are separated under configuration control from the operational (production) environment. Common Implementation process, enabling systems, and services include comprehensive or specialized life cycle development and support environments for realizing and managing requirements, models and prototypes, deliverable elements, and test"
+}

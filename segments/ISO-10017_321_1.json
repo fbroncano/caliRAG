@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "321.1",
+  "texto": "7.12.2 Benefits Time series analysis methods are useful in planning, control engineering, identifying a change in a process, generating forecasts and measuring the effect of some outside intervention or action. Time series analysis is also useful for comparing the projected performance of a process with predicted values in the time series if a specific change were to be made. Time series methods can provide insights into possible cause-and-effect patterns. Methods exist for separating systematic (or assignable) causes from chance causes, and for breaking down patterns in a time series into cyclical, seasonal, trend and level components. Time series analysis can be used to determine how a"
+}

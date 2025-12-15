@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "181.28",
+  "texto": "achieve system objectives, the relevant characteristics of the users (e.g., expected training and knowledge, frequency of system use, responsibilities, accessibility concerns), the physical environment (e.g., available light, temperature) and any equipment to be used (e.g., protective or communication equipment). The social and organizational influences on users that affect system use or constrain its design are analyzed when applicable. Scenarios centered on attackers, their environments, tools, techniques, and capabilities are key considerations for operational concept development. Scenarios are prioritized in order to reflect the weighted importance of the various operational needs. NOTE"
+}

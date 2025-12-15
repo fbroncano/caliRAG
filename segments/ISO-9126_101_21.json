@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-9126",
+  "clausula": "101.21",
+  "texto": "the term “characteristic” is used in a more specific sense in ISO/IEC 9126. B.16 maintainer an organisation that performs maintenance activities [ISO/IEC 12207: 1995] B.17 measure (verb) make a measurement B.18 measure (noun) the number or category assigned to an attribute of an entity by making a measurement B.19 measurement the use of a metric to assign a value (which may be a number or category) from a scale to an attribute of an entity NOTE Measurement can be qualitative when using categories. For example, some important attributes of software products, e.g. the language of a source program (ADA, C, COBOL, etc.) are qualitative categories. B.20 metric the defined measurement method and"
+}

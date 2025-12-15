@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-19011",
+  "clausula": "203.18",
+  "texto": "características de la población global de la que se toman las muestras. El diseño del muestreo estadístico utiliza un proceso de selección de la muestra basado en la teoría de la probabilidad. El muestreo basado en atributos se usa cuando sólo hay dos posibles resultados muestrales para cada muestra (por ejemplo, correcto/incorrecto o apto/no apto). El muestreo basado en variables se utiliza cuando el resultado de la muestra se da en un rango continuo. El plan de muestreo debería tener en cuenta si es probable que los resultados que se examinan estén basados en atributos o basados en variables. Por ejemplo, cuando se evalúa la conformidad de los formularios completados con los requisitos"
+}

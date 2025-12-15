@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10012",
+  "clausula": "123.9",
+  "texto": "calibración de 0,3 kPa. Por lo tanto el instrumento no cumple el requisito de error máximo permitido. Después de ajustarse, se encuentra por calibración que el error es 0,6 kPa y la incertidumbre en el proceso de calibración es 0,3 kPa. El instrumento ahora cumple con el requisito para el error máximo permitido y puede ser confirmado para su utilización, suponiendo que se dispone de la evidencia que demuestra la conformidad con el requisito de deriva. Sin embargo, si el instrumento hubiera sido sometido a reconfirmación, el usuario del instrumento debería ser informado de los resultados de la primera calibración, ya que pueden ser necesarias acciones correctivas relativas a la realización"
+}

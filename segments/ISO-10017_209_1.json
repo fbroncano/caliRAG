@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10017",
+  "clausula": "209.1",
+  "texto": "7.2.3 Limitations and cautions Some level of inherent variation (often aptly called “noise”) is present in all systems, and this can sometimes cloud the results of investigations and lead to incorrect conclusions. Other potential sources of error include the confounding effect of unknown (or simply unrecognized) factors that can be present, or the confounding effect of dependencies between the various factors in a system. The risk posed by such errors can be mitigated by, for example, the choice of sample size or by other considerations in the design of the experiment. However, such risks can never be eliminated and should therefore be borne in mind when forming conclusions. Finally, the"
+}

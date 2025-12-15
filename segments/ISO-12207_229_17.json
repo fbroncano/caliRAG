@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-12207",
+  "clausula": "229.17",
+  "texto": "System elements and their 7.1.3.2.a, items that will implement the software 6.4.4.2.f requirements. interfaces are identified. 7.1.3.2.b Internal and external interfaces of each software item are defined. A software architectural design is developed Architecture candidates are and baselined that describes the software 6.4.4.2.g 7.1.3.2.a assessed. items that will implement the software requirements. A software architectural design is developed An architectural basis for processes and baselined that describes the software 6.4.4.2.h 7.1.3.2.a throughout the life cycle is achieved. items that will implement the software requirements. A software architectural design is developed and baselined"
+}

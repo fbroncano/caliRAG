@@ -1,0 +1,5 @@
+{
+  "norma": "ISO-10007",
+  "clausula": "73.3",
+  "texto": "introductory section giving general in formation. The following topics are typically addressed in such a section: a) the purpose and scope o f the configuration management plan; b) a description o f the product or service and configuration item(s) to which the plan applies; c) a schedule to provide guidance on the time-scale o f important configuration management activities; d) a description o f configuration management tools; e) related documented in formation (e.g. configuration management plans from providers); f) a listing of relevant documented information and their interrelationships. A.3 Policies The configuration management plan should detail the configuration management policies"
+}
