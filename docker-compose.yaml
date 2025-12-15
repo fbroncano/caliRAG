@@ -1,0 +1,16 @@
+services:
+  pgvector:
+    image: pgvector/pgvector:0.8.1-pg18-trixie
+    container_name: pgvector-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: vector_user
+      POSTGRES_PASSWORD: vector_pass
+      POSTGRES_DB: normas_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql
+
+volumes:
+  pg_data:
