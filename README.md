@@ -53,7 +53,7 @@ El cambio de modelo (por ejemplo, Llama 3 → Llama 4) es transparente para la a
 
 1. Instala dependencias: ``pip install -r requirements.txt``
 
-2. Arranca la API: ``uvicorn api2:app --reload --host 0.0.0.0 --port 8000``
+2. Arranca la API: ``uvicorn api:app --reload --host 0.0.0.0 --port 8000``
 
 3. Endpoints disponibles:
     - POST /query — consulta RAG de un turno
@@ -64,7 +64,7 @@ Documentación interactiva: ``http://localhost:8000/docs``
 
 ### 5. Interfaz web (Streamlit)
 
-Arranca la aplicación: ``streamlit run streamlit_app.py``
+Arranca la aplicación: ``streamlit run interfaz.py``
 
 Funcionalidades:
 - Chat conversacional con historial
